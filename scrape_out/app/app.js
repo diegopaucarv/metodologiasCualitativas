@@ -1,7 +1,7 @@
 /* ===== Estado y utilidades ===== */
 const $ = s => document.querySelector(s);
 let ET = [], E = {}, TP, DT, M, J, SD;
-const S = { fam: null, cat: null, sub: null, q: '', m: null, tf: new Set(), ef: null, pin: null };
+const S = { fam: null, cat: null, sub: null, q: '', search: false, m: null, tf: new Set(), ef: null, pin: null };
 const nz = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const root = document.documentElement;
@@ -34,12 +34,37 @@ function card(m) {
   const r = m.res;
   return `<button class="mc" data-id="${m.id}" style="--c:${sc(m.familia, m.categoria, m.subcategoria)}"><div class="top"><div class="th">${pic(m)}</div><div><h3>${esc(m.nombre)}</h3><small>${esc(m.subcategoria)}</small></div></div>${r.total ? bar(r) : ''}<div class="meta"><span>${r.total || '—'} tareas</span><span>confianza ${m.estudio.confianza}</span></div></button>`;
 }
+function grouped(ms) {
+  const byFam = {};
+  ms.forEach(m => (byFam[m.familia] = byFam[m.familia] || []).push(m));
+  let h = '';
+  for (const f of Object.keys(J)) {
+    const fam = byFam[f];
+    if (!fam) continue;
+    h += `<section class="fam" style="--c:${fc(f)}"><h2 class="fam-t">${J[f].nombre}</h2>`;
+    const bySub = {};
+    fam.forEach(m => (bySub[m.subcategoria] = bySub[m.subcategoria] || []).push(m));
+    for (const s of Object.keys(bySub)) {
+      const c = bySub[s][0].categoria;
+      h += `<h3 class="sub-t" style="--c:${sc(f, c, s)}">${esc(s)}</h3><div class="grid">${bySub[s].map(card).join('')}</div>`;
+    }
+    h += `</section>`;
+  }
+  return h;
+}
 function view() {
-  const q = nz(S.q); let h = '';
-  if (q) {
-    const r = M.filter(m => nz([m.nombre, m.ideal_para, m.estudio.titulo, m.subcategoria, m.categoria].join(' ')).includes(q));
-    h = `<div class="pills"><span class="pl">${r.length} resultados</span></div><div class="grid">${r.map(card).join('')}</div>${r.length ? '' : '<p class="none">Sin resultados.</p>'}`;
-  } else if (!S.fam) {
+  if (S.search) {
+    const q = nz(S.q);
+    const ms = q
+      ? M.filter(m => nz([m.nombre, m.ideal_para, m.estudio.titulo, m.subcategoria, m.categoria].join(' ')).includes(q))
+      : M;
+    let h = q ? `<div class="pills"><span class="pl">${ms.length} resultados</span></div>` : '';
+    h += ms.length ? grouped(ms) : '<p class="none">Sin resultados.</p>';
+    $('#view').innerHTML = h;
+    return;
+  }
+  let h = '';
+  if (!S.fam) {
     h = `<div class="grid">${Object.keys(J).map(f => `<button class="lv" data-fam="${f}" style="--c:${fc(f)}"><div class="tile">${NET}</div><h2>${J[f].nombre}</h2><p>${J[f].d}</p><span class="bdg">${M.filter(m => m.familia == f).length} Métodos</span></button>`).join('')}</div>`;
   } else {
     h = pills(S.fam, S.cat, S.sub, true);
@@ -89,7 +114,7 @@ function openM(id) {
   const e = m.estudio, au = e.autores.length > 2 ? e.autores[0] + ' et al.' : e.autores.join(', ');
   $('#sheet').innerHTML = `<div class="sh-top"><div>${pills(m.familia, m.categoria, m.subcategoria, false)}<div class="ttl"><div class="th">${pic(m)}</div><h2>${esc(m.nombre)}</h2></div></div><button class="ib" id="x" aria-label="Cerrar"><svg class="i" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>
 <div class="two"><section class="ideal"><h3>Ideal para</h3><p>${esc(m.ideal_para)}</p></section>
-<section class="ideal"><h3>Estudio de referencia</h3><p class="st-t">${esc(e.titulo)}</p><p class="st-a">${esc(au)}${e.anio ? ' · ' + e.anio : ''}${e.tipo ? ' · ' + esc(e.tipo) : ''}<span class="cf ${e.confianza}">confianza ${e.confianza}</span></p>${e.url ? `<a class="lnk" href="${esc(e.url)}" target="_blank" rel="noopener">Abrir estudio ↗</a>` : '<small>Sin enlace disponible</small>'}<p class="note" title="${esc(e.notas)}">${esc(e.origen)}.${e.confianza != 'alta' && e.notas ? ' ' + esc(e.notas.slice(0, 160)) + (e.notas.length > 160 ? '…' : '') : ''}</p></section></div>
+<section class="ideal"><h3>Estudio de referencia</h3><p class="st-t">${esc(e.titulo)}</p><p class="st-a">${esc(au)}${e.anio ? ' · ' + e.anio : ''}${e.tipo ? ' · ' + esc(e.tipo) : ''}<span class="cf ${e.confianza}">confianza ${e.confianza}</span></p>${e.url ? `<a class="lnk" href="${esc(e.url)}" target="_blank" rel="noopener">Abrir estudio ↗</a>` : '<small>Sin enlace disponible</small>'}  ${e.pdf ? `<a class="lnk" href="${esc(e.pdf)}" target="_blank" rel="noopener">Abrir PDF ↗</a>` : ''}<p class="note" title="${esc(e.notas)}">${e.confianza != 'alta' && e.notas ? ' ' + esc(e.notas.slice(0, 160)) + (e.notas.length > 160 ? '…' : '') : ''}</p></section></div>
 <section class="fb"><h3>Flujo del método</h3>${legend(m)}<div class="track go" id="fl">${flow(m)}</div>${footer(m)}</section>`;
   $('#ov').classList.add('open'); $('#ov').scrollTop = 0; document.body.style.overflow = 'hidden'; $('#x').focus();
 }
@@ -135,7 +160,9 @@ document.addEventListener('focusin', e => { const b = e.target.closest?.('.dot')
 document.addEventListener('focusout', e => { if (e.target.closest?.('.dot')) hideTip(); });
 document.addEventListener('scroll', hideTip, true);
 document.addEventListener('keydown', e => { if (e.key == 'Escape' && $('#ov').classList.contains('open')) closeM(); });
-let tm; $('#q').addEventListener('input', e => { clearTimeout(tm); tm = setTimeout(() => { S.q = e.target.value; view(); }, 150); });
+let tm; const qin = $('#q');
+qin.addEventListener('input', e => { clearTimeout(tm); tm = setTimeout(() => { S.q = e.target.value; if (S.q) S.search = true; view(); }, 150); });
+qin.addEventListener('keydown', e => { if (e.key === 'Enter') { S.search = true; view(); } });
 const tb = $('#th'), sync = () => tb.innerHTML = dark() ? ICO.sun : ICO.moon;
 tb.onclick = () => { root.dataset.theme = dark() ? 'light' : 'dark'; sync(); if (M) { view(); if ($('#ov').classList.contains('open')) openM(S.m.id); } };
 sync();

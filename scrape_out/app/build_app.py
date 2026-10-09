@@ -152,6 +152,11 @@ for m in metodos:
         res[eid] = len(ts)
         if ts:
             etapas.append({"id": eid, "t": ts})
+    pdf = None
+    if ref.get("file"):
+        pf = D / "pdfs" / ref["file"]
+        if pf.exists():
+            pdf = "../data/pdfs/" + ref["file"]
     out.append(
         {
             "id": m["id"],
@@ -170,7 +175,7 @@ for m in metodos:
                 "anio": me.get("anio_publicacion"),
                 "tipo": me.get("tipo_documento"),
                 "url": url,
-                "origen": origen,
+                "pdf": pdf,
                 "confianza": me["confianza"],
                 "notas": me.get("notas_limitaciones"),
             },

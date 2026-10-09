@@ -7495,7 +7495,7 @@
     "ideal_para": "Refinar teoría existente mediante iteración constante con datos empíricos.",
     "ejemplo": {
       "titulo": "Dynamic Capabilities and MNE Global Strategy: A Systematic Literature Review‐Based Novel Conceptual Framework",
-      "url": "https://eprints.whiterose.ac.uk/id/eprint/205075/"
+      "url": "https://www.emerald.com/books/edited-volume/10586/chapter/80159656"
     },
     "hallazgos": "La iteración entre teoría y datos permitió desarrollar un modelo que explica que el éxito global no depende de la mera posesión de recursos, sino de la \"capacidad dinámica\" de la empresa para orquestar y reconfigurar activos internos y externos simultáneamente.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate two large, intersecting circles. Label one with a faint 'T' (theory) and the other with a faint 'D' (data). At their intersection, a cluster of three small, solid circles appears. Arrows show a looping path going from T to intersection to D and back, indicating iterative abductive process. Clean, symmetric, no text.",
@@ -7503,127 +7503,115 @@
       "pre_analisis": [
         {
           "orden_global": 1,
-          "accion": "Seleccionar la base de datos apropiada para la búsqueda de literatura (Scopus, JSTOR, Emerald, Science Direct)."
+          "accion": "Definir el fenómeno inicial de estudio: difusión de innovaciones en redes industriales, y el contexto: redes de publicidad en Finlandia (2010-2012)."
         },
         {
           "orden_global": 2,
-          "accion": "Definir el periodo de publicación de la muestra (1997-2021)."
+          "accion": "Seleccionar el método de estudio de caso como enfoque general para explorar fenómenos complejos en su contexto."
         },
         {
           "orden_global": 3,
-          "accion": "Establecer criterios de inclusión de revistas basados en índices de ranking (Thompson Reuters, CABS, ABDC, CWTS) y umbrales mínimos de calidad."
+          "accion": "Adoptar el enfoque de systematic combining (combinación sistemática) basado en lógica abductiva y en la iteración continua entre teoría y datos empíricos."
         },
         {
           "orden_global": 4,
-          "accion": "Seleccionar revistas objetivo en las áreas de management, international business, entrepreneurship, innovation, strategy y organization studies."
+          "accion": "Realizar una revisión inicial de la literatura sobre difusión de innovaciones y redes industriales para formular la idea inicial de investigación."
         },
         {
           "orden_global": 5,
-          "accion": "Implementar una búsqueda por palabras clave combinando el set de 'dynamic capabilit*' con el set de 'MNE', 'global' e 'internationalization'."
+          "accion": "Diseñar el estudio de caso único con un proceso iterativo que combine trabajo de campo empírico y conocimientos conceptuales existentes."
         },
         {
           "orden_global": 6,
-          "accion": "Leer los resultados de búsqueda (abstract, keywords y texto principal) para evaluar el cumplimiento de los criterios de inclusión."
+          "accion": "Realizar 6 entrevistas a expertos de la industria utilizando el enfoque de entrevista larga de McCracken (1988), comenzando con preguntas de gran tour y luego preguntas específicas sobre categorías identificadas."
         },
         {
           "orden_global": 7,
-          "accion": "Aplicar criterios de inclusión: uso de 'dynamic capabilities' como núcleo del estudio, categorización explícita como DC, adopción de la perspectiva DCV, contexto internacional y desarrollo conceptual o test empírico."
+          "accion": "Registrar en audio y transcribir todas las entrevistas realizadas."
         },
         {
           "orden_global": 8,
-          "accion": "Excluir artículos de revisión pura, editoriales y estudios de exportación sin FDI."
+          "accion": "Aplicar el modelo ARA (Actores, Recursos y Actividades) para analizar la red y distinguir los tipos de actores, sus actividades y los vínculos de actividad existentes."
         },
         {
           "orden_global": 9,
-          "accion": "Obtener una muestra final de 196 artículos."
+          "accion": "Consultar a expertos de la industria para validar la identificación de los diferentes actores dentro de la red."
+        },
+        {
+          "orden_global": 10,
+          "accion": "Realizar 7 entrevistas semiestructuradas a diferentes actores de la red: 3 facilitadores de innovación (casas de medios) y 4 adoptadores de innovación (anunciantes)."
+        },
+        {
+          "orden_global": 11,
+          "accion": "Realizar 9 entrevistas semiestructuradas adicionales a varios grupos de actores de la red, centrándose en los intermediarios de innovación (agencias de medios, publicidad y digitales) previamente identificados."
         }
       ],
       "interpretacion_fuentes": [
         {
-          "orden_global": 10,
-          "accion": "Realizar una primera lectura de los artículos de la muestra para identificar contenido relevante."
+          "orden_global": 12,
+          "accion": "Obtener una visión general de cómo funciona la industria publicitaria finlandesa a partir de las entrevistas con expertos."
         },
         {
-          "orden_global": 11,
-          "accion": "Presentar información cuantitativa bibliográfica (autores, años, revistas, palabras clave, porcentajes y frecuencias)."
+          "orden_global": 13,
+          "accion": "Identificar un dilema inicial: las innovaciones no se estaban difundiendo entre los grupos de actores de la red publicitaria."
+        },
+        {
+          "orden_global": 14,
+          "accion": "Reorientar el enfoque de la investigación desde el marco del proceso de difusión de innovaciones hacia el examen de las barreras para la difusión de innovaciones, explorando conflictos entre y dentro de los grupos de actores."
+        },
+        {
+          "orden_global": 15,
+          "accion": "Iterar entre los datos de investigación y el ámbito teórico para distinguir cómo diferentes actores y grupos de actores desaceleran la adopción de innovaciones."
         }
       ],
       "analisis_profundo": [
         {
-          "orden_global": 12,
-          "accion": "Desarrollar un esquema de codificación para identificar patrones de contenido manifiesto y latente."
-        },
-        {
-          "orden_global": 13,
-          "accion": "Utilizar el software NVivo 12 para codificación manual y visualización de datos."
-        },
-        {
-          "orden_global": 14,
-          "accion": "Realizar la primera ronda de codificación abierta guiada por artículos de revisión previos (Fainshmidt et al., 2016; Schilke et al., 2018)."
-        },
-        {
-          "orden_global": 15,
-          "accion": "Realizar la segunda ronda de codificación abierta permitiendo la emergencia de nuevos códigos y derivando una estructura de codificación."
-        },
-        {
           "orden_global": 16,
-          "accion": "Revisar la estructura de codificación para añadir o recortar elementos con fines de construcción teórica."
+          "accion": "Aplicar el modelo ARA para analizar la red y distinguir los tipos de actores, sus actividades y los vínculos de actividad existentes."
         },
         {
           "orden_global": 17,
-          "accion": "Identificar 50 códigos en total."
+          "accion": "Analizar los datos empíricos para definir los diversos grupos de actores y sus actividades en la red publicitaria."
         },
         {
           "orden_global": 18,
-          "accion": "Realizar codificación axial para agregar códigos relacionados en ocho temas."
+          "accion": "Identificar y analizar los conflictos entre los tres grupos intermediarios (agencias digitales, de medios y de publicidad) que impiden compartir vínculos de recursos y vínculos de actividad."
         },
         {
           "orden_global": 19,
-          "accion": "Realizar la tercera ronda de codificación recorriendo todos los artículos con los subtemas refinados para evitar omisiones."
+          "accion": "Analizar la estrategia a nivel de grupo ('nosotros contra ellos') donde los grupos compiten entre sí enfatizando sus fortalezas y restando importancia al papel de los otros grupos."
         },
         {
           "orden_global": 20,
-          "accion": "Contar la frecuencia de los conceptos que aparecen en los artículos de la muestra."
+          "accion": "Analizar la estrategia a nivel de actor individual dentro de los grupos, donde los actores compiten por posiciones e influencia en la red, por ejemplo, posicionándose como pioneros o como un tipo diferente de agencia."
         },
         {
           "orden_global": 21,
-          "accion": "Categorizar los códigos y temas en dimensiones convencionales: antecedentes, variables dependientes, variables independientes, mediadores y moderadores."
-        },
-        {
-          "orden_global": 22,
-          "accion": "Realizar doble codificación por dos coautores de forma independiente y posteriormente cruzar y revisar los códigos para minimizar solapamientos y contradicciones."
+          "accion": "Descubrir el patrón de estrategia multinivel que conduce a una desaceleración o incluso a una posición estática en la difusión de innovaciones."
         }
       ],
       "sintesis": [
         {
+          "orden_global": 22,
+          "accion": "Producir una descripción del fenómeno de la estrategia multinivel como barrera para la difusión de innovaciones."
+        },
+        {
           "orden_global": 23,
-          "accion": "Resumir las definiciones y medidas de DCs en estudios empíricos."
+          "accion": "Construir una explicación del fenómeno a partir de la descripción, integrando los hallazgos empíricos con la teoría de redes industriales y la teoría de difusión de innovaciones."
         },
         {
           "orden_global": 24,
-          "accion": "Identificar los temas principales y emergentes de DCs en el contexto MNE."
-        },
-        {
-          "orden_global": 25,
-          "accion": "Sintetizar las variables y sus relaciones en la evidencia empírica."
-        },
-        {
-          "orden_global": 26,
-          "accion": "Comparar la teoría y la evidencia para identificar brechas y disyunciones."
-        },
-        {
-          "orden_global": 27,
-          "accion": "Desarrollar un marco conceptual novedoso y más comprehensivo para guiar la investigación futura."
-        },
-        {
-          "orden_global": 28,
-          "accion": "Proporcionar sugerencias para investigación empírica más congruente con la teoría."
+          "accion": "Elaborar el reporte final del estudio, incluyendo la descripción del proceso de systematic combining y las implicaciones teóricas, metodológicas y gerenciales."
         }
       ],
       "pasos_adicionales": [
         {
-          "orden_global": 29,
-          "accion": "Validar los resultados de la codificación manual mediante el uso de software VOSviewer para el análisis de co-ocurrencia y coautoría."
+          "orden_global": 25,
+          "accion": "Hacer transparente y explícito el proceso de systematic combining en el reporte, mostrando la trayectoria a través de la cual el proceso llevó al objetivo y resultado final de la investigación."
+        },
+        {
+          "orden_global": 26,
+          "accion": "Reportar el proceso de systematic combining como una figura que representa el orden temporal de las etapas en la sección de metodología y proporcionar descripciones de cada una de las etapas."
         }
       ]
     },
@@ -7632,161 +7620,147 @@
       {
         "fase": "pre_analisis",
         "orden_global": 1,
-        "paso": "Seleccionar la base de datos apropiada para la búsqueda de literatura (Scopus, JSTOR, Emerald, Science Direct)."
+        "paso": "Definir el fenómeno inicial de estudio: difusión de innovaciones en redes industriales, y el contexto: redes de publicidad en Finlandia (2010-2012)."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 2,
-        "paso": "Definir el periodo de publicación de la muestra (1997-2021)."
+        "paso": "Seleccionar el método de estudio de caso como enfoque general para explorar fenómenos complejos en su contexto."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 3,
-        "paso": "Establecer criterios de inclusión de revistas basados en índices de ranking (Thompson Reuters, CABS, ABDC, CWTS) y umbrales mínimos de calidad."
+        "paso": "Adoptar el enfoque de systematic combining (combinación sistemática) basado en lógica abductiva y en la iteración continua entre teoría y datos empíricos."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 4,
-        "paso": "Seleccionar revistas objetivo en las áreas de management, international business, entrepreneurship, innovation, strategy y organization studies."
+        "paso": "Realizar una revisión inicial de la literatura sobre difusión de innovaciones y redes industriales para formular la idea inicial de investigación."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 5,
-        "paso": "Implementar una búsqueda por palabras clave combinando el set de 'dynamic capabilit*' con el set de 'MNE', 'global' e 'internationalization'."
+        "paso": "Diseñar el estudio de caso único con un proceso iterativo que combine trabajo de campo empírico y conocimientos conceptuales existentes."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 6,
-        "paso": "Leer los resultados de búsqueda (abstract, keywords y texto principal) para evaluar el cumplimiento de los criterios de inclusión."
+        "paso": "Realizar 6 entrevistas a expertos de la industria utilizando el enfoque de entrevista larga de McCracken (1988), comenzando con preguntas de gran tour y luego preguntas específicas sobre categorías identificadas."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 7,
-        "paso": "Aplicar criterios de inclusión: uso de 'dynamic capabilities' como núcleo del estudio, categorización explícita como DC, adopción de la perspectiva DCV, contexto internacional y desarrollo conceptual o test empírico."
+        "paso": "Registrar en audio y transcribir todas las entrevistas realizadas."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 8,
-        "paso": "Excluir artículos de revisión pura, editoriales y estudios de exportación sin FDI."
+        "paso": "Aplicar el modelo ARA (Actores, Recursos y Actividades) para analizar la red y distinguir los tipos de actores, sus actividades y los vínculos de actividad existentes."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 9,
-        "paso": "Obtener una muestra final de 196 artículos."
+        "paso": "Consultar a expertos de la industria para validar la identificación de los diferentes actores dentro de la red."
       },
       {
-        "fase": "interpretacion_fuentes",
+        "fase": "pre_analisis",
         "orden_global": 10,
-        "paso": "Realizar una primera lectura de los artículos de la muestra para identificar contenido relevante."
+        "paso": "Realizar 7 entrevistas semiestructuradas a diferentes actores de la red: 3 facilitadores de innovación (casas de medios) y 4 adoptadores de innovación (anunciantes)."
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 11,
+        "paso": "Realizar 9 entrevistas semiestructuradas adicionales a varios grupos de actores de la red, centrándose en los intermediarios de innovación (agencias de medios, publicidad y digitales) previamente identificados."
       },
       {
         "fase": "interpretacion_fuentes",
-        "orden_global": 11,
-        "paso": "Presentar información cuantitativa bibliográfica (autores, años, revistas, palabras clave, porcentajes y frecuencias)."
-      },
-      {
-        "fase": "analisis_profundo",
         "orden_global": 12,
-        "paso": "Desarrollar un esquema de codificación para identificar patrones de contenido manifiesto y latente."
+        "paso": "Obtener una visión general de cómo funciona la industria publicitaria finlandesa a partir de las entrevistas con expertos."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "interpretacion_fuentes",
         "orden_global": 13,
-        "paso": "Utilizar el software NVivo 12 para codificación manual y visualización de datos."
+        "paso": "Identificar un dilema inicial: las innovaciones no se estaban difundiendo entre los grupos de actores de la red publicitaria."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "interpretacion_fuentes",
         "orden_global": 14,
-        "paso": "Realizar la primera ronda de codificación abierta guiada por artículos de revisión previos (Fainshmidt et al., 2016; Schilke et al., 2018)."
+        "paso": "Reorientar el enfoque de la investigación desde el marco del proceso de difusión de innovaciones hacia el examen de las barreras para la difusión de innovaciones, explorando conflictos entre y dentro de los grupos de actores."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "interpretacion_fuentes",
         "orden_global": 15,
-        "paso": "Realizar la segunda ronda de codificación abierta permitiendo la emergencia de nuevos códigos y derivando una estructura de codificación."
+        "paso": "Iterar entre los datos de investigación y el ámbito teórico para distinguir cómo diferentes actores y grupos de actores desaceleran la adopción de innovaciones."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 16,
-        "paso": "Revisar la estructura de codificación para añadir o recortar elementos con fines de construcción teórica."
+        "paso": "Aplicar el modelo ARA para analizar la red y distinguir los tipos de actores, sus actividades y los vínculos de actividad existentes."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 17,
-        "paso": "Identificar 50 códigos en total."
+        "paso": "Analizar los datos empíricos para definir los diversos grupos de actores y sus actividades en la red publicitaria."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 18,
-        "paso": "Realizar codificación axial para agregar códigos relacionados en ocho temas."
+        "paso": "Identificar y analizar los conflictos entre los tres grupos intermediarios (agencias digitales, de medios y de publicidad) que impiden compartir vínculos de recursos y vínculos de actividad."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 19,
-        "paso": "Realizar la tercera ronda de codificación recorriendo todos los artículos con los subtemas refinados para evitar omisiones."
+        "paso": "Analizar la estrategia a nivel de grupo ('nosotros contra ellos') donde los grupos compiten entre sí enfatizando sus fortalezas y restando importancia al papel de los otros grupos."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 20,
-        "paso": "Contar la frecuencia de los conceptos que aparecen en los artículos de la muestra."
+        "paso": "Analizar la estrategia a nivel de actor individual dentro de los grupos, donde los actores compiten por posiciones e influencia en la red, por ejemplo, posicionándose como pioneros o como un tipo diferente de agencia."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 21,
-        "paso": "Categorizar los códigos y temas en dimensiones convencionales: antecedentes, variables dependientes, variables independientes, mediadores y moderadores."
+        "paso": "Descubrir el patrón de estrategia multinivel que conduce a una desaceleración o incluso a una posición estática en la difusión de innovaciones."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "sintesis",
         "orden_global": 22,
-        "paso": "Realizar doble codificación por dos coautores de forma independiente y posteriormente cruzar y revisar los códigos para minimizar solapamientos y contradicciones."
+        "paso": "Producir una descripción del fenómeno de la estrategia multinivel como barrera para la difusión de innovaciones."
       },
       {
         "fase": "sintesis",
         "orden_global": 23,
-        "paso": "Resumir las definiciones y medidas de DCs en estudios empíricos."
+        "paso": "Construir una explicación del fenómeno a partir de la descripción, integrando los hallazgos empíricos con la teoría de redes industriales y la teoría de difusión de innovaciones."
       },
       {
         "fase": "sintesis",
         "orden_global": 24,
-        "paso": "Identificar los temas principales y emergentes de DCs en el contexto MNE."
-      },
-      {
-        "fase": "sintesis",
-        "orden_global": 25,
-        "paso": "Sintetizar las variables y sus relaciones en la evidencia empírica."
-      },
-      {
-        "fase": "sintesis",
-        "orden_global": 26,
-        "paso": "Comparar la teoría y la evidencia para identificar brechas y disyunciones."
-      },
-      {
-        "fase": "sintesis",
-        "orden_global": 27,
-        "paso": "Desarrollar un marco conceptual novedoso y más comprehensivo para guiar la investigación futura."
-      },
-      {
-        "fase": "sintesis",
-        "orden_global": 28,
-        "paso": "Proporcionar sugerencias para investigación empírica más congruente con la teoría."
+        "paso": "Elaborar el reporte final del estudio, incluyendo la descripción del proceso de systematic combining y las implicaciones teóricas, metodológicas y gerenciales."
       },
       {
         "fase": "pasos_adicionales",
-        "orden_global": 29,
-        "paso": "Validar los resultados de la codificación manual mediante el uso de software VOSviewer para el análisis de co-ocurrencia y coautoría."
+        "orden_global": 25,
+        "paso": "Hacer transparente y explícito el proceso de systematic combining en el reporte, mostrando la trayectoria a través de la cual el proceso llevó al objetivo y resultado final de la investigación."
+      },
+      {
+        "fase": "pasos_adicionales",
+        "orden_global": 26,
+        "paso": "Reportar el proceso de systematic combining como una figura que representa el orden temporal de las etapas en la sección de metodología y proporcionar descripciones de cada una de las etapas."
       }
     ],
     "metadatos_extraidos": {
       "tipo_documento": "paper",
-      "titulo": "Dynamic Capabilities and MNE Global Strategy: A Systematic Literature Review-Based Novel Conceptual Framework",
+      "titulo": "BARRIERS TO INNOVATION DIFFUSION IN INDUSTRIAL NETWORKS: A SYSTEMATIC COMBINING APPROACH",
       "autores": [
-        "Christos N. Pitelis",
-        "David J. Teece",
-        "Hongyi Yang"
+        "Juho-Petteri Huhtala",
+        "Pekka Mattila",
+        "Antti Sihvonen",
+        "Henrikki Tikkanen"
       ],
-      "anio_publicacion": "2023",
-      "metodo_identificado": "revision_sistematica_literatura",
+      "anio_publicacion": "2014",
+      "metodo_identificado": "systematic_combining",
       "confianza": "alta",
-      "notas_limitaciones": "El texto describe el método de revisión sistemática de literatura, no un estudio empírico cualitativo tradicional. Las fases se han adaptado a los pasos procedimentales descritos."
+      "notas_limitaciones": "El texto describe el proceso de investigación de manera retrospectiva y narrativa, lo que requiere inferir algunos pasos procedimentales concretos a partir de las descripciones. La clasificación en fases se basa en la interpretación de las acciones descritas en el documento."
     }
   },
   {
@@ -10321,99 +10295,123 @@
       "pre_analisis": [
         {
           "orden_global": 1,
-          "accion": "Revisar literatura académica y documentos estratégicos sobre desarrollo rural, cohesión territorial y política agrícola común (PAC) para construir el marco teórico y contextual del estudio."
+          "accion": "Seleccionar el tema de estudio: la interconexión de significados en la vejez y la enfermedad crónica."
         },
         {
           "orden_global": 2,
-          "accion": "Definir el objetivo de investigación: analizar si los instrumentos de la política de desarrollo rural (AEM y LFA) se implementan conforme a los objetivos de cohesión territorial de la UE en la República Checa."
+          "accion": "Revisar literatura existente sobre el tema, incluyendo el estudio de Claudine Herzlich sobre concepciones de enfermedad."
         },
         {
           "orden_global": 3,
-          "accion": "Formular hipótesis de trabajo basadas en la literatura: se espera que los pagos AEM y LFA sean más altos en regiones rurales más débiles."
+          "accion": "Definir el enfoque metodológico: adaptar el análisis lógico formal para revelar la forma lógica de las ideas de los informantes."
         },
         {
           "orden_global": 4,
-          "accion": "Seleccionar el caso de estudio: República Checa, periodo de programación 2004-2006, utilizando el Plan Horizontal de Desarrollo Rural (HRDP)."
+          "accion": "Diseñar la estrategia de muestreo: seleccionar personas mayores de 60 años de áreas de clase trabajadora y clase media a través de clubes sociales."
         },
         {
           "orden_global": 5,
-          "accion": "Identificar las fuentes de datos secundarios: pagos reales de AEM y LFA (SAIF, 2008) e indicadores socioeconómicos del Czech Statistical Office (CSO, 2008)."
+          "accion": "Obtener introducciones iniciales y variar cuidadosamente la muestra por edad, sexo, estado civil y pertenencia a clubes, manteniendo proporciones similares a los datos nacionales."
         },
         {
           "orden_global": 6,
-          "accion": "Definir la unidad de análisis: municipios (nivel LAU II) en lugar de regiones NUTS 3 para mayor relevancia local."
+          "accion": "Realizar entrevistas informales repetidas y mantener contacto social informal con los informantes."
         },
         {
           "orden_global": 7,
-          "accion": "Seleccionar y operacionalizar los indicadores: políticos (pagos LFA/AEM absolutos y por área agrícola), geográficos (área municipal, área agrícola, altitud), demográficos (migración, educación, población) y económicos (empleo, EAP, desempleo)."
+          "accion": "Preguntar a todos los informantes sobre cómo la salud había afectado y estaba afectando sus vidas."
         },
         {
           "orden_global": 8,
-          "accion": "Recopilar y organizar los datos de pagos reales (no presupuestos) y de indicadores socioeconómicos a nivel municipal para el periodo 2004-2006."
+          "accion": "Elicitar historias de salud y residenciales en las primeras preguntas, y luego clarificar posiciones sobre expectativas futuras de enfermedad y muerte."
+        },
+        {
+          "orden_global": 9,
+          "accion": "Recoger pensamientos y comportamientos nuevos relacionados con la salud en entrevistas posteriores."
+        },
+        {
+          "orden_global": 10,
+          "accion": "Registrar en cintas o notas de campo las conversaciones con 41 personas de clase trabajadora en 30 hogares y 28 de clase media en 22 hogares."
         }
       ],
       "interpretacion_fuentes": [
         {
-          "orden_global": 9,
-          "accion": "Explorar inicialmente los datos mediante estadísticos descriptivos y comparaciones de medias entre municipios con y sin subsidios LFA/AEM."
-        },
-        {
-          "orden_global": 10,
-          "accion": "Ordenar y clasificar los municipios en categorías de tamaño poblacional (menos de 200, 200-500, 500-1000, 1000-3000, más de 3000) para análisis comparativos."
-        },
-        {
           "orden_global": 11,
-          "accion": "Realizar una primera inspección visual de las relaciones entre variables mediante gráficos de dispersión (por ejemplo, empleo primario vs. altitud)."
+          "accion": "Seleccionar dos casos de estudio para el análisis: una viuda de clase trabajadora (Sra. Stone) y una viuda de clase media (Sra. Hannay)."
+        },
+        {
+          "orden_global": 12,
+          "accion": "Realizar una primera lectura de las transcripciones para identificar términos y temas recurrentes."
+        },
+        {
+          "orden_global": 13,
+          "accion": "Identificar términos clave en el discurso de la Sra. Stone como 'salir', 'sentarse', 'ayudar a alguien', 'ser una pobre cosa'."
+        },
+        {
+          "orden_global": 14,
+          "accion": "Identificar términos clave en el discurso de la Sra. Hannay como 'aventurero', 'aprovechar el momento', 'renunciar sin arrepentimiento'."
         }
       ],
       "analisis_profundo": [
         {
-          "orden_global": 12,
-          "accion": "Aplicar análisis de correlación de Pearson para examinar la relación entre los pagos LFA/AEM (absolutos y por área agrícola) y los indicadores socioeconómicos seleccionados."
-        },
-        {
-          "orden_global": 13,
-          "accion": "Calcular coeficientes de correlación con niveles de significancia estadística (95% y 99%) para identificar relaciones significativas."
-        },
-        {
-          "orden_global": 14,
-          "accion": "Comparar los resultados de correlación entre pagos absolutos y pagos ajustados por área agrícola para distinguir efectos de escala."
-        },
-        {
           "orden_global": 15,
-          "accion": "Realizar análisis comparativo de medias de indicadores socioeconómicos entre municipios con y sin subsidios, segmentados por categorías de tamaño municipal."
+          "accion": "Traducir las actitudes descritas por Herzlich en una secuencia de proposiciones lógicas."
         },
         {
           "orden_global": 16,
-          "accion": "Generar cartogramas (mapas temáticos) de pagos LFA y AEM por área agrícola a nivel municipal para visualizar patrones geográficos."
+          "accion": "Formular las premisas básicas del sistema de pensamiento de la Sra. Stone (por ejemplo, 'Si estoy activa, entonces no estoy enferma')."
+        },
+        {
+          "orden_global": 17,
+          "accion": "Formular las premisas básicas del sistema de pensamiento de la Sra. Hannay (por ejemplo, 'Si estoy enferma, entonces lucho y lucho bien')."
+        },
+        {
+          "orden_global": 18,
+          "accion": "Comparar las proposiciones de cada informante con las categorías de Herzlich ('enfermedad como destructora' y 'enfermedad como ocupación')."
+        },
+        {
+          "orden_global": 19,
+          "accion": "Establecer equivalencias entre los términos de los informantes y los términos del sistema general."
+        },
+        {
+          "orden_global": 20,
+          "accion": "Verificar si las proposiciones identificadas se mantienen en diferentes contextos de las entrevistas."
+        },
+        {
+          "orden_global": 21,
+          "accion": "Analizar las consecuencias lógicas de las premisas identificadas en el comportamiento y las actitudes de los informantes."
+        },
+        {
+          "orden_global": 22,
+          "accion": "Representar formalmente los sistemas de pensamiento en figuras (Figura 1 y Figura 2)."
         }
       ],
       "sintesis": [
         {
-          "orden_global": 17,
-          "accion": "Integrar los resultados de correlación y comparaciones de medias para evaluar si los pagos LFA/AEM se dirigen a municipios con peores condiciones socioeconómicas."
+          "orden_global": 23,
+          "accion": "Explicar las consecuencias del comportamiento de la Sra. Stone a partir de sus premisas, cumpliendo condiciones de validez (aprendizaje del lenguaje, no racionalización, no premisas ocultas)."
         },
         {
-          "orden_global": 18,
-          "accion": "Contrastar los hallazgos con estudios previos (especialmente Shucksmith et al., 2005) y con el marco teórico de cohesión territorial."
+          "orden_global": 24,
+          "accion": "Explicar las consecuencias del comportamiento de la Sra. Hannay a partir de sus premisas."
         },
         {
-          "orden_global": 19,
-          "accion": "Redactar el reporte final del estudio, incluyendo discusión de resultados, conclusiones y recomendaciones metodológicas para futuras evaluaciones."
+          "orden_global": 25,
+          "accion": "Discutir las aplicaciones prácticas del método, como la comunicación con pacientes."
+        },
+        {
+          "orden_global": 26,
+          "accion": "Redactar el reporte final del estudio, incluyendo las figuras y las conclusiones de cada caso."
         }
       ],
       "pasos_adicionales": [
         {
-          "orden_global": 20,
-          "accion": "Validar los resultados mediante la comparación con análisis previos a nivel NUTS 3 y con la literatura existente sobre el tema."
+          "orden_global": 27,
+          "accion": "Utilizar referencias cruzadas entre informantes como verificación adicional de la interpretación."
         },
         {
-          "orden_global": 21,
-          "accion": "Documentar las limitaciones del estudio, como la disponibilidad de datos y la imposibilidad de establecer causalidad con correlaciones."
-        },
-        {
-          "orden_global": 22,
-          "accion": "Sugerir la aplicación futura del método al final del periodo de programación 2007-2013 para examinar el impacto cohesivo de la política."
+          "orden_global": 28,
+          "accion": "Diferir el análisis de personas con sistemas de pensamiento contradictorios a un segundo artículo."
         }
       ]
     },
@@ -10422,126 +10420,154 @@
       {
         "fase": "pre_analisis",
         "orden_global": 1,
-        "paso": "Revisar literatura académica y documentos estratégicos sobre desarrollo rural, cohesión territorial y política agrícola común (PAC) para construir el marco teórico y contextual del estudio."
+        "paso": "Seleccionar el tema de estudio: la interconexión de significados en la vejez y la enfermedad crónica."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 2,
-        "paso": "Definir el objetivo de investigación: analizar si los instrumentos de la política de desarrollo rural (AEM y LFA) se implementan conforme a los objetivos de cohesión territorial de la UE en la República Checa."
+        "paso": "Revisar literatura existente sobre el tema, incluyendo el estudio de Claudine Herzlich sobre concepciones de enfermedad."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 3,
-        "paso": "Formular hipótesis de trabajo basadas en la literatura: se espera que los pagos AEM y LFA sean más altos en regiones rurales más débiles."
+        "paso": "Definir el enfoque metodológico: adaptar el análisis lógico formal para revelar la forma lógica de las ideas de los informantes."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 4,
-        "paso": "Seleccionar el caso de estudio: República Checa, periodo de programación 2004-2006, utilizando el Plan Horizontal de Desarrollo Rural (HRDP)."
+        "paso": "Diseñar la estrategia de muestreo: seleccionar personas mayores de 60 años de áreas de clase trabajadora y clase media a través de clubes sociales."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 5,
-        "paso": "Identificar las fuentes de datos secundarios: pagos reales de AEM y LFA (SAIF, 2008) e indicadores socioeconómicos del Czech Statistical Office (CSO, 2008)."
+        "paso": "Obtener introducciones iniciales y variar cuidadosamente la muestra por edad, sexo, estado civil y pertenencia a clubes, manteniendo proporciones similares a los datos nacionales."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 6,
-        "paso": "Definir la unidad de análisis: municipios (nivel LAU II) en lugar de regiones NUTS 3 para mayor relevancia local."
+        "paso": "Realizar entrevistas informales repetidas y mantener contacto social informal con los informantes."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 7,
-        "paso": "Seleccionar y operacionalizar los indicadores: políticos (pagos LFA/AEM absolutos y por área agrícola), geográficos (área municipal, área agrícola, altitud), demográficos (migración, educación, población) y económicos (empleo, EAP, desempleo)."
+        "paso": "Preguntar a todos los informantes sobre cómo la salud había afectado y estaba afectando sus vidas."
       },
       {
         "fase": "pre_analisis",
         "orden_global": 8,
-        "paso": "Recopilar y organizar los datos de pagos reales (no presupuestos) y de indicadores socioeconómicos a nivel municipal para el periodo 2004-2006."
+        "paso": "Elicitar historias de salud y residenciales en las primeras preguntas, y luego clarificar posiciones sobre expectativas futuras de enfermedad y muerte."
       },
       {
-        "fase": "interpretacion_fuentes",
+        "fase": "pre_analisis",
         "orden_global": 9,
-        "paso": "Explorar inicialmente los datos mediante estadísticos descriptivos y comparaciones de medias entre municipios con y sin subsidios LFA/AEM."
+        "paso": "Recoger pensamientos y comportamientos nuevos relacionados con la salud en entrevistas posteriores."
       },
       {
-        "fase": "interpretacion_fuentes",
+        "fase": "pre_analisis",
         "orden_global": 10,
-        "paso": "Ordenar y clasificar los municipios en categorías de tamaño poblacional (menos de 200, 200-500, 500-1000, 1000-3000, más de 3000) para análisis comparativos."
+        "paso": "Registrar en cintas o notas de campo las conversaciones con 41 personas de clase trabajadora en 30 hogares y 28 de clase media en 22 hogares."
       },
       {
         "fase": "interpretacion_fuentes",
         "orden_global": 11,
-        "paso": "Realizar una primera inspección visual de las relaciones entre variables mediante gráficos de dispersión (por ejemplo, empleo primario vs. altitud)."
+        "paso": "Seleccionar dos casos de estudio para el análisis: una viuda de clase trabajadora (Sra. Stone) y una viuda de clase media (Sra. Hannay)."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "interpretacion_fuentes",
         "orden_global": 12,
-        "paso": "Aplicar análisis de correlación de Pearson para examinar la relación entre los pagos LFA/AEM (absolutos y por área agrícola) y los indicadores socioeconómicos seleccionados."
+        "paso": "Realizar una primera lectura de las transcripciones para identificar términos y temas recurrentes."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "interpretacion_fuentes",
         "orden_global": 13,
-        "paso": "Calcular coeficientes de correlación con niveles de significancia estadística (95% y 99%) para identificar relaciones significativas."
+        "paso": "Identificar términos clave en el discurso de la Sra. Stone como 'salir', 'sentarse', 'ayudar a alguien', 'ser una pobre cosa'."
       },
       {
-        "fase": "analisis_profundo",
+        "fase": "interpretacion_fuentes",
         "orden_global": 14,
-        "paso": "Comparar los resultados de correlación entre pagos absolutos y pagos ajustados por área agrícola para distinguir efectos de escala."
+        "paso": "Identificar términos clave en el discurso de la Sra. Hannay como 'aventurero', 'aprovechar el momento', 'renunciar sin arrepentimiento'."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 15,
-        "paso": "Realizar análisis comparativo de medias de indicadores socioeconómicos entre municipios con y sin subsidios, segmentados por categorías de tamaño municipal."
+        "paso": "Traducir las actitudes descritas por Herzlich en una secuencia de proposiciones lógicas."
       },
       {
         "fase": "analisis_profundo",
         "orden_global": 16,
-        "paso": "Generar cartogramas (mapas temáticos) de pagos LFA y AEM por área agrícola a nivel municipal para visualizar patrones geográficos."
+        "paso": "Formular las premisas básicas del sistema de pensamiento de la Sra. Stone (por ejemplo, 'Si estoy activa, entonces no estoy enferma')."
       },
       {
-        "fase": "sintesis",
+        "fase": "analisis_profundo",
         "orden_global": 17,
-        "paso": "Integrar los resultados de correlación y comparaciones de medias para evaluar si los pagos LFA/AEM se dirigen a municipios con peores condiciones socioeconómicas."
+        "paso": "Formular las premisas básicas del sistema de pensamiento de la Sra. Hannay (por ejemplo, 'Si estoy enferma, entonces lucho y lucho bien')."
       },
       {
-        "fase": "sintesis",
+        "fase": "analisis_profundo",
         "orden_global": 18,
-        "paso": "Contrastar los hallazgos con estudios previos (especialmente Shucksmith et al., 2005) y con el marco teórico de cohesión territorial."
+        "paso": "Comparar las proposiciones de cada informante con las categorías de Herzlich ('enfermedad como destructora' y 'enfermedad como ocupación')."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 19,
+        "paso": "Establecer equivalencias entre los términos de los informantes y los términos del sistema general."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 20,
+        "paso": "Verificar si las proposiciones identificadas se mantienen en diferentes contextos de las entrevistas."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 21,
+        "paso": "Analizar las consecuencias lógicas de las premisas identificadas en el comportamiento y las actitudes de los informantes."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 22,
+        "paso": "Representar formalmente los sistemas de pensamiento en figuras (Figura 1 y Figura 2)."
       },
       {
         "fase": "sintesis",
-        "orden_global": 19,
-        "paso": "Redactar el reporte final del estudio, incluyendo discusión de resultados, conclusiones y recomendaciones metodológicas para futuras evaluaciones."
+        "orden_global": 23,
+        "paso": "Explicar las consecuencias del comportamiento de la Sra. Stone a partir de sus premisas, cumpliendo condiciones de validez (aprendizaje del lenguaje, no racionalización, no premisas ocultas)."
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 24,
+        "paso": "Explicar las consecuencias del comportamiento de la Sra. Hannay a partir de sus premisas."
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 25,
+        "paso": "Discutir las aplicaciones prácticas del método, como la comunicación con pacientes."
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 26,
+        "paso": "Redactar el reporte final del estudio, incluyendo las figuras y las conclusiones de cada caso."
       },
       {
         "fase": "pasos_adicionales",
-        "orden_global": 20,
-        "paso": "Validar los resultados mediante la comparación con análisis previos a nivel NUTS 3 y con la literatura existente sobre el tema."
+        "orden_global": 27,
+        "paso": "Utilizar referencias cruzadas entre informantes como verificación adicional de la interpretación."
       },
       {
         "fase": "pasos_adicionales",
-        "orden_global": 21,
-        "paso": "Documentar las limitaciones del estudio, como la disponibilidad de datos y la imposibilidad de establecer causalidad con correlaciones."
-      },
-      {
-        "fase": "pasos_adicionales",
-        "orden_global": 22,
-        "paso": "Sugerir la aplicación futura del método al final del periodo de programación 2007-2013 para examinar el impacto cohesivo de la política."
+        "orden_global": 28,
+        "paso": "Diferir el análisis de personas con sistemas de pensamiento contradictorios a un segundo artículo."
       }
     ],
     "metadatos_extraidos": {
       "tipo_documento": "paper",
-      "titulo": "Territorial dimensions of agro-environmental measures and LFA in rural development policy in the Czech Republic",
+      "titulo": "Logical analysis as a qualitative method I: Themes in old age and chronic illness",
       "autores": [
-        "Martin Pelucha",
-        "Viktor Kveton",
-        "Jirina Jilkova"
+        "R. G. A. Williams"
       ],
-      "anio_publicacion": "2013",
-      "metodo_identificado": "Análisis correlacional cuantitativo de datos secundarios (no es un método cualitativo tradicional; se extraen pasos procedimentales de la metodología aplicada)",
+      "anio_publicacion": "1981",
+      "metodo_identificado": "análisis lógico",
       "confianza": "alta",
-      "notas_limitaciones": "El documento describe un estudio cuantitativo (correlacional) con datos secundarios, no un método cualitativo tradicional. Se extrajeron los pasos procedimentales explícitos y se clasificaron en las fases solicitadas, aunque algunas fases (interpretación de fuentes) son inferidas de la descripción metodológica."
+      "notas_limitaciones": "El texto describe el método de análisis lógico aplicado a dos casos de estudio. Se han extraído los pasos procedimentales explícitos e implícitos. La clasificación en fases se basa en la descripción del proceso. La confianza es alta porque el texto detalla el procedimiento."
     }
   },
   {

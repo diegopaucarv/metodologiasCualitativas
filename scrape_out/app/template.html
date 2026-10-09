@@ -196,6 +196,41 @@
                     minmax(min(100%, 21rem), 1fr)
                 );
             }
+            .fam {
+                margin: 0 0 2.4rem;
+            }
+            .fam-t {
+                display: flex;
+                align-items: center;
+                gap: 0.6rem;
+                font-size: 1.5rem;
+                margin: 0 0 0.3rem;
+                padding-bottom: 0.5rem;
+                border-bottom: 3px solid var(--c);
+                color: var(--c);
+            }
+            .fam-t::before {
+                content: "";
+                width: 0.9rem;
+                height: 0.9rem;
+                border-radius: 0.3rem;
+                background: var(--c);
+            }
+            .sub-t {
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+                font-size: 1.05rem;
+                margin: 1.4rem 0 0.8rem;
+                color: var(--c);
+            }
+            .sub-t::before {
+                content: "";
+                width: 0.6rem;
+                height: 0.6rem;
+                border-radius: 0.2rem;
+                background: var(--c);
+            }
             .lv {
                 position: relative;
                 overflow: hidden;

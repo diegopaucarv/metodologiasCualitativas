@@ -725,5 +725,286 @@
         "notas_limitaciones": "El texto es un capítulo teórico-conceptual que no describe explícitamente un método cualitativo empírico; sin embargo, se extrajeron los pasos procedimentales implícitos en la construcción teórica y el uso de ejemplos empíricos. No se identificaron técnicas de recolección de datos primarios ni software cualitativo."
       }
     }
+  ],
+  "systematic-combining": [
+    {
+      "file": "systematic-combining_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "paper",
+          "titulo": "BARRIERS TO INNOVATION DIFFUSION IN INDUSTRIAL NETWORKS: A SYSTEMATIC COMBINING APPROACH",
+          "autores": [
+            "Juho-Petteri Huhtala",
+            "Pekka Mattila",
+            "Antti Sihvonen",
+            "Henrikki Tikkanen"
+          ],
+          "anio_publicacion": "2014"
+        },
+        "metodo_identificado": "systematic_combining",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Definir el fenómeno inicial de estudio: difusión de innovaciones en redes industriales, y el contexto: redes de publicidad en Finlandia (2010-2012)."
+            },
+            {
+              "orden_global": 2,
+              "accion": "Seleccionar el método de estudio de caso como enfoque general para explorar fenómenos complejos en su contexto."
+            },
+            {
+              "orden_global": 3,
+              "accion": "Adoptar el enfoque de systematic combining (combinación sistemática) basado en lógica abductiva y en la iteración continua entre teoría y datos empíricos."
+            },
+            {
+              "orden_global": 4,
+              "accion": "Realizar una revisión inicial de la literatura sobre difusión de innovaciones y redes industriales para formular la idea inicial de investigación."
+            },
+            {
+              "orden_global": 5,
+              "accion": "Diseñar el estudio de caso único con un proceso iterativo que combine trabajo de campo empírico y conocimientos conceptuales existentes."
+            },
+            {
+              "orden_global": 6,
+              "accion": "Realizar 6 entrevistas a expertos de la industria utilizando el enfoque de entrevista larga de McCracken (1988), comenzando con preguntas de gran tour y luego preguntas específicas sobre categorías identificadas."
+            },
+            {
+              "orden_global": 7,
+              "accion": "Registrar en audio y transcribir todas las entrevistas realizadas."
+            },
+            {
+              "orden_global": 8,
+              "accion": "Aplicar el modelo ARA (Actores, Recursos y Actividades) para analizar la red y distinguir los tipos de actores, sus actividades y los vínculos de actividad existentes."
+            },
+            {
+              "orden_global": 9,
+              "accion": "Consultar a expertos de la industria para validar la identificación de los diferentes actores dentro de la red."
+            },
+            {
+              "orden_global": 10,
+              "accion": "Realizar 7 entrevistas semiestructuradas a diferentes actores de la red: 3 facilitadores de innovación (casas de medios) y 4 adoptadores de innovación (anunciantes)."
+            },
+            {
+              "orden_global": 11,
+              "accion": "Realizar 9 entrevistas semiestructuradas adicionales a varios grupos de actores de la red, centrándose en los intermediarios de innovación (agencias de medios, publicidad y digitales) previamente identificados."
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 12,
+              "accion": "Obtener una visión general de cómo funciona la industria publicitaria finlandesa a partir de las entrevistas con expertos."
+            },
+            {
+              "orden_global": 13,
+              "accion": "Identificar un dilema inicial: las innovaciones no se estaban difundiendo entre los grupos de actores de la red publicitaria."
+            },
+            {
+              "orden_global": 14,
+              "accion": "Reorientar el enfoque de la investigación desde el marco del proceso de difusión de innovaciones hacia el examen de las barreras para la difusión de innovaciones, explorando conflictos entre y dentro de los grupos de actores."
+            },
+            {
+              "orden_global": 15,
+              "accion": "Iterar entre los datos de investigación y el ámbito teórico para distinguir cómo diferentes actores y grupos de actores desaceleran la adopción de innovaciones."
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 16,
+              "accion": "Aplicar el modelo ARA para analizar la red y distinguir los tipos de actores, sus actividades y los vínculos de actividad existentes."
+            },
+            {
+              "orden_global": 17,
+              "accion": "Analizar los datos empíricos para definir los diversos grupos de actores y sus actividades en la red publicitaria."
+            },
+            {
+              "orden_global": 18,
+              "accion": "Identificar y analizar los conflictos entre los tres grupos intermediarios (agencias digitales, de medios y de publicidad) que impiden compartir vínculos de recursos y vínculos de actividad."
+            },
+            {
+              "orden_global": 19,
+              "accion": "Analizar la estrategia a nivel de grupo ('nosotros contra ellos') donde los grupos compiten entre sí enfatizando sus fortalezas y restando importancia al papel de los otros grupos."
+            },
+            {
+              "orden_global": 20,
+              "accion": "Analizar la estrategia a nivel de actor individual dentro de los grupos, donde los actores compiten por posiciones e influencia en la red, por ejemplo, posicionándose como pioneros o como un tipo diferente de agencia."
+            },
+            {
+              "orden_global": 21,
+              "accion": "Descubrir el patrón de estrategia multinivel que conduce a una desaceleración o incluso a una posición estática en la difusión de innovaciones."
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 22,
+              "accion": "Producir una descripción del fenómeno de la estrategia multinivel como barrera para la difusión de innovaciones."
+            },
+            {
+              "orden_global": 23,
+              "accion": "Construir una explicación del fenómeno a partir de la descripción, integrando los hallazgos empíricos con la teoría de redes industriales y la teoría de difusión de innovaciones."
+            },
+            {
+              "orden_global": 24,
+              "accion": "Elaborar el reporte final del estudio, incluyendo la descripción del proceso de systematic combining y las implicaciones teóricas, metodológicas y gerenciales."
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 25,
+              "accion": "Hacer transparente y explícito el proceso de systematic combining en el reporte, mostrando la trayectoria a través de la cual el proceso llevó al objetivo y resultado final de la investigación."
+            },
+            {
+              "orden_global": 26,
+              "accion": "Reportar el proceso de systematic combining como una figura que representa el orden temporal de las etapas en la sección de metodología y proporcionar descripciones de cada una de las etapas."
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto describe el proceso de investigación de manera retrospectiva y narrativa, lo que requiere inferir algunos pasos procedimentales concretos a partir de las descripciones. La clasificación en fases se basa en la interpretación de las acciones descritas en el documento."
+      }
+    }
+  ],
+  "analisis-logico": [
+    {
+      "file": "analisis-logico_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "paper",
+          "titulo": "Logical analysis as a qualitative method I: Themes in old age and chronic illness",
+          "autores": [
+            "R. G. A. Williams"
+          ],
+          "anio_publicacion": "1981"
+        },
+        "metodo_identificado": "análisis lógico",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Seleccionar el tema de estudio: la interconexión de significados en la vejez y la enfermedad crónica."
+            },
+            {
+              "orden_global": 2,
+              "accion": "Revisar literatura existente sobre el tema, incluyendo el estudio de Claudine Herzlich sobre concepciones de enfermedad."
+            },
+            {
+              "orden_global": 3,
+              "accion": "Definir el enfoque metodológico: adaptar el análisis lógico formal para revelar la forma lógica de las ideas de los informantes."
+            },
+            {
+              "orden_global": 4,
+              "accion": "Diseñar la estrategia de muestreo: seleccionar personas mayores de 60 años de áreas de clase trabajadora y clase media a través de clubes sociales."
+            },
+            {
+              "orden_global": 5,
+              "accion": "Obtener introducciones iniciales y variar cuidadosamente la muestra por edad, sexo, estado civil y pertenencia a clubes, manteniendo proporciones similares a los datos nacionales."
+            },
+            {
+              "orden_global": 6,
+              "accion": "Realizar entrevistas informales repetidas y mantener contacto social informal con los informantes."
+            },
+            {
+              "orden_global": 7,
+              "accion": "Preguntar a todos los informantes sobre cómo la salud había afectado y estaba afectando sus vidas."
+            },
+            {
+              "orden_global": 8,
+              "accion": "Elicitar historias de salud y residenciales en las primeras preguntas, y luego clarificar posiciones sobre expectativas futuras de enfermedad y muerte."
+            },
+            {
+              "orden_global": 9,
+              "accion": "Recoger pensamientos y comportamientos nuevos relacionados con la salud en entrevistas posteriores."
+            },
+            {
+              "orden_global": 10,
+              "accion": "Registrar en cintas o notas de campo las conversaciones con 41 personas de clase trabajadora en 30 hogares y 28 de clase media en 22 hogares."
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 11,
+              "accion": "Seleccionar dos casos de estudio para el análisis: una viuda de clase trabajadora (Sra. Stone) y una viuda de clase media (Sra. Hannay)."
+            },
+            {
+              "orden_global": 12,
+              "accion": "Realizar una primera lectura de las transcripciones para identificar términos y temas recurrentes."
+            },
+            {
+              "orden_global": 13,
+              "accion": "Identificar términos clave en el discurso de la Sra. Stone como 'salir', 'sentarse', 'ayudar a alguien', 'ser una pobre cosa'."
+            },
+            {
+              "orden_global": 14,
+              "accion": "Identificar términos clave en el discurso de la Sra. Hannay como 'aventurero', 'aprovechar el momento', 'renunciar sin arrepentimiento'."
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 15,
+              "accion": "Traducir las actitudes descritas por Herzlich en una secuencia de proposiciones lógicas."
+            },
+            {
+              "orden_global": 16,
+              "accion": "Formular las premisas básicas del sistema de pensamiento de la Sra. Stone (por ejemplo, 'Si estoy activa, entonces no estoy enferma')."
+            },
+            {
+              "orden_global": 17,
+              "accion": "Formular las premisas básicas del sistema de pensamiento de la Sra. Hannay (por ejemplo, 'Si estoy enferma, entonces lucho y lucho bien')."
+            },
+            {
+              "orden_global": 18,
+              "accion": "Comparar las proposiciones de cada informante con las categorías de Herzlich ('enfermedad como destructora' y 'enfermedad como ocupación')."
+            },
+            {
+              "orden_global": 19,
+              "accion": "Establecer equivalencias entre los términos de los informantes y los términos del sistema general."
+            },
+            {
+              "orden_global": 20,
+              "accion": "Verificar si las proposiciones identificadas se mantienen en diferentes contextos de las entrevistas."
+            },
+            {
+              "orden_global": 21,
+              "accion": "Analizar las consecuencias lógicas de las premisas identificadas en el comportamiento y las actitudes de los informantes."
+            },
+            {
+              "orden_global": 22,
+              "accion": "Representar formalmente los sistemas de pensamiento en figuras (Figura 1 y Figura 2)."
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 23,
+              "accion": "Explicar las consecuencias del comportamiento de la Sra. Stone a partir de sus premisas, cumpliendo condiciones de validez (aprendizaje del lenguaje, no racionalización, no premisas ocultas)."
+            },
+            {
+              "orden_global": 24,
+              "accion": "Explicar las consecuencias del comportamiento de la Sra. Hannay a partir de sus premisas."
+            },
+            {
+              "orden_global": 25,
+              "accion": "Discutir las aplicaciones prácticas del método, como la comunicación con pacientes."
+            },
+            {
+              "orden_global": 26,
+              "accion": "Redactar el reporte final del estudio, incluyendo las figuras y las conclusiones de cada caso."
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 27,
+              "accion": "Utilizar referencias cruzadas entre informantes como verificación adicional de la interpretación."
+            },
+            {
+              "orden_global": 28,
+              "accion": "Diferir el análisis de personas con sistemas de pensamiento contradictorios a un segundo artículo."
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto describe el método de análisis lógico aplicado a dos casos de estudio. Se han extraído los pasos procedimentales explícitos e implícitos. La clasificación en fases se basa en la descripción del proceso. La confianza es alta porque el texto detalla el procedimiento."
+      }
+    }
   ]
 }

@@ -36,6 +36,9 @@ Uso (desde la raíz del proyecto):
   python scrape_out/app/extract_procedural_steps.py steps --model deepseek-ai/DeepSeek-V4-Flash-0731
   python scrape_out/app/extract_procedural_steps.py merge
   python scrape_out/app/extract_procedural_steps.py all
+  # Fases post-descarga como fases independientes (7=extract, 8=steps, 9=merge):
+  python scrape_out/app/extract_procedural_steps.py all --phases 7,8,9
+  python scrape_out/app/extract_procedural_steps.py all --phases 0,1,7   # descarga 0,1 + extract
 """
 
 import argparse
@@ -1413,6 +1416,9 @@ def _resolve_with_strategies(item: dict, context, verbose: bool = False):
 # =============================================================================
 
 PHASE_NAMES = ["0", "0.5", "1", "2", "3", "4", "5", "6"]
+POST_PHASES = ["extract", "steps", "merge"]
+PHASE_ALIASES = {"7": "extract", "8": "steps", "9": "merge"}
+ALL_PHASES = PHASE_NAMES + POST_PHASES
 
 
 def _mid_of(m: dict) -> str:
@@ -2559,7 +2565,9 @@ if __name__ == "__main__":
     ap.add_argument(
         "--phases",
         default="",
-        help=f"Fases a ejecutar (coma-separadas): {','.join(PHASE_NAMES)}",
+        help=f"Fases a ejecutar (coma-separadas). Descarga: {','.join(PHASE_NAMES)}; "
+        f"post-descarga: {','.join(POST_PHASES)} (o 7, 8, 9). "
+        "Ej: --phases 0,1,7,8,9",
     )
     ap.add_argument(
         "--methods",
@@ -2593,6 +2601,12 @@ if __name__ == "__main__":
     enabled = (
         set(p.strip() for p in a.phases.split(",") if p.strip()) if a.phases else None
     )
+    if enabled is not None:
+        enabled = {PHASE_ALIASES.get(p, p) for p in enabled}
+        desconocidas = enabled - set(ALL_PHASES)
+        if desconocidas:
+            print(f"  [!] Fases desconocidas ignoradas: {sorted(desconocidas)}")
+            enabled &= set(ALL_PHASES)
     methods = [m.strip() for m in a.methods.split(",") if m.strip()] or None
 
     url_overrides = {}
@@ -2603,25 +2617,29 @@ if __name__ == "__main__":
                 url_overrides[mid.strip()] = u.strip()
 
     if a.cmd in ("download", "all"):
-        print("Pipeline de descargas...")
-        download_pdfs(
-            BASE,
-            mailto=a.mailto,
-            verbose=a.verbose,
-            mirrors_scihub=mirrors,
-            enabled_phases=enabled,
-            cdp_url=a.cdp_url,
-            methods=methods,
-            force=a.force,
-            url_overrides=url_overrides,
-        )
-    if a.cmd in ("extract", "all"):
+        dl = enabled if enabled is None else enabled & set(PHASE_NAMES)
+        if dl is not None and not dl:
+            print("  (ninguna fase de descarga en --phases; se omite download)")
+        else:
+            print("Pipeline de descargas...")
+            download_pdfs(
+                BASE,
+                mailto=a.mailto,
+                verbose=a.verbose,
+                mirrors_scihub=mirrors,
+                enabled_phases=dl,
+                cdp_url=a.cdp_url,
+                methods=methods,
+                force=a.force,
+                url_overrides=url_overrides,
+            )
+    if a.cmd in ("extract", "all") and (enabled is None or "extract" in enabled):
         print("\nExtrayendo texto de PDFs...")
         extract_text_from_pdfs(BASE, methods=methods, force=a.force)
-    if a.cmd in ("steps", "all"):
+    if a.cmd in ("steps", "all") and (enabled is None or "steps" in enabled):
         print("\nExtrayendo pasos con Together AI (JSON Schema)...")
         extract_steps_together(BASE, a.model, a.api_key, methods=methods, force=a.force)
-    if a.cmd in ("merge", "all"):
+    if a.cmd in ("merge", "all") and (enabled is None or "merge" in enabled):
         print("\nIntegrando pasos en metodos_completos.json...")
         merge_steps_into_content(BASE, methods=methods, force=a.force)
     if a.cmd == "retry":
