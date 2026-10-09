@@ -593,7 +593,7 @@ def clasificar(
                 prev.setdefault("metodos", {}).pop(mid, None)
         else:
             prev = {"metodos": {}}
-    key = "tgp_v1_CKLcJWHK4aCThBa5kIx9SX9tcTWDEyRALNyAjQhdoa0"
+    key = ""
     if not heur and not key:
         sys.exit("Falta TOGETHER_API_KEY en el entorno.")
 
