@@ -4,7 +4,7 @@ let ET = [], E = {}, TP, DT, M, J, SD;
 const S = { fam: null, cat: null, sub: null, q: '', search: false, m: null, tf: new Set(), ef: null, pin: null };
 const nz = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const pdfHref = f => '../data/pdfs/' + f;
+const pdfHref = f => 'data/pdfs/' + f;
 const root = document.documentElement;
 const dark = () => root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme:dark)').matches;
 const col = a => a[dark() ? 1 : 0];
