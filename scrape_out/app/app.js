@@ -140,11 +140,10 @@ const tb = $('#th'), sync = () => tb.innerHTML = dark() ? ICO.sun : ICO.moon;
 tb.onclick = () => { root.dataset.theme = dark() ? 'light' : 'dark'; sync(); if (M) { view(); if ($('#ov').classList.contains('open')) openM(S.m.id); } };
 sync();
 
-/* ===== Arranque: datos embebidos o methods_app.json; mensaje claro si no hay ===== */
-function boot(d) { S.D = d; ET = d.etapas; E = Object.fromEntries(ET.map(e => [e.id, e])); TP = d.tipos; DT = d.datos; M = d.metodos; J = d.jer; SD = d.subdesc; view(); }
+/* ===== Arranque: datos embebidos; mensaje claro si no hay ===== */
+function boot(d) { S.D = d; ET = d.etapas; E = Object.fromEntries(ET.map(e => [e.id, e])); TP = d.tipos; DT = d.datos; M = d.metodos; J = d.jer; SD = d.subdesc; const n = $('#nmet'); if (n) n.textContent = M.length; view(); }
 (async () => {
-  let d = typeof D !== 'undefined' ? D : null;
-  if (!d) { try { d = await (await fetch('methods_app.json')).json(); } catch (e) { } }
-  if (!d) { $('#view').innerHTML = '<div class="err"><b>No hay datos cargados.</b><br>Abre <code>metodologias_app.html</code> (generado con <code>python build_app.py</code>), no <code>template.html</code>. O deja <code>methods_app.json</code> junto a esta página y sírvela por HTTP.</div>'; return; }
+  const d = typeof D !== 'undefined' ? D : null;
+  if (!d) { $('#view').innerHTML = '<div class="err"><b>No hay datos cargados.</b><br>Abre <code>metodologias_app.html</code> (generado con <code>python build_app.py</code>), no <code>template.html</code>.</div>'; return; }
   boot(d);
 })();

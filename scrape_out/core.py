@@ -267,7 +267,6 @@ def build(metodos, refs, pdft):
                 "subcategoria": m["subcategoria"],
                 "ideal_para": m["ideal_para"],
                 "descripcion": desc,
-                "imagen": m.get("imagen"),
                 "estudio": {
                     "titulo": me["titulo"],
                     "autores": me.get("autores") or [],

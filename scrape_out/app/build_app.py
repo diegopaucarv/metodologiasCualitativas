@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
-"""Genera methods_app.json y metodologias_app.html (template.html + app.js + datos).
+"""Genera metodologias_app.html (template.html + app.js + datos embebidos).
 Uso: python build_app.py [scrape_out] [salida]
 Lee data/clasificacion_tareas.json (DeepSeek, ver classify_tasks.py); si falta un método usa la heurística provisional."""
 
-import base64, collections, io, json, re, sys
+import base64
+import collections
+import io
+import json
+import re
+import sys
 from pathlib import Path
-from PIL import Image
+
 import classify_tasks as C
+from PIL import Image
 
 HERE = Path(__file__).parent
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else "scrape_out")
@@ -107,9 +113,12 @@ ORDEN = [v[0] for v in C.ETAPAS.values()]
 out, srcs = [], collections.Counter()
 for m in metodos:
     me = m["metadatos_extraidos"]
+    ej = m.get("ejemplo") or {}
     ref = (refs.get(m["id"]) or [{}])[0]
     txt = ((pdft.get(m["id"]) or [{}])[0]).get("text", "")
-    if ref.get("url"):
+    if ej.get("url"):
+        url, origen = ej["url"], "ejemplo de estudio curado"
+    elif ref.get("url"):
         url, origen = ref["url"], "documento descargado"
     elif d := doi_cabecera(txt):
         url, origen = "https://doi.org/" + d, "DOI detectado en el PDF aportado"
@@ -156,7 +165,7 @@ for m in metodos:
             "entradas": [{"id": k, "n": n} for k, n in ent.most_common()],
             "etapas": etapas,
             "estudio": {
-                "titulo": me["titulo"],
+                "titulo": me.get("titulo") or ej.get("titulo") or "",
                 "autores": me.get("autores") or [],
                 "anio": me.get("anio_publicacion"),
                 "tipo": me.get("tipo_documento"),
@@ -165,7 +174,6 @@ for m in metodos:
                 "confianza": me["confianza"],
                 "notas": me.get("notas_limitaciones"),
             },
-            "_img": m.get("imagen"),
         }
     )
 meta = {
@@ -180,17 +188,9 @@ meta = {
     "subdesc": SUBDESC,
 }
 OUT.mkdir(parents=True, exist_ok=True)
-json.dump(
-    {**meta, "metodos": [{k: v for k, v in x.items() if k != "_img"} for x in out]},
-    open(OUT / "methods_app.json", "w", encoding="utf-8"),
-    ensure_ascii=False,
-)
 emb = {
     **meta,
-    "metodos": [
-        {**{k: v for k, v in x.items() if k != "_img"}, "img": img_uri(x["id"])}
-        for x in out
-    ],
+    "metodos": [{**x, "img": img_uri(x["id"])} for x in out],
 }
 tpl = (HERE / "template.html").read_text(encoding="utf-8")
 js = (HERE / "app.js").read_text(encoding="utf-8")
@@ -217,9 +217,3 @@ print(
     len(html) // 1024,
     "KB",
 )
-tpl = (HERE / "template.html").read_text(encoding="utf-8"); js = (HERE / "app.js").read_text(encoding="utf-8")
-assert '<script src="app.js"></script>' in tpl and re.search(r"/\*DATA\*/\s*null", tpl), "template.html sin app.js o sin /*DATA*/null"
-html = tpl.replace('<script src="app.js"></script>', "<script>" + js + "</script>")
-html = re.sub(r"/\*DATA\*/\s*null", lambda _: json.dumps(emb, ensure_ascii=False, separators=(",", ":")), html, count=1)
-(OUT / "metodologias_app.html").write_text(html, encoding="utf-8")
-print(len(out), "métodos |", sum(x["res"]["total"] for x in out), "tareas |", sum(1 for x in emb["metodos"] if x["img"]), "con imagen |", dict(srcs), "| HTML", len(html) // 1024, "KB")

@@ -189,7 +189,6 @@ def _nuevo_metodo(args, mid):
         "ejemplo": {"titulo": args.ejemplo_titulo or "", "url": args.ejemplo_url or ""},
         "hallazgos": args.hallazgos or "",
         "image_prompt": args.image_prompt or "",
-        "imagen": None,
         "pasos_procedimentales": {},
         "pasos_procedimentales_fuente": "manual",
         "pasos_procedimentales_lineales": [],
@@ -222,7 +221,7 @@ def cmd_create(root, args):
         m["pasos_procedimentales"] = pasos
         m["pasos_procedimentales_fuente"] = "manual"
         m["pasos_procedimentales_lineales"] = _flatten(pasos)
-    m["imagen"] = _copy_imagen(root, mid, args.imagen)
+    _copy_imagen(root, mid, args.imagen)
     metodos.append(m)
     save(root, metodos)
     print(f"Creado '{mid}'.")
@@ -249,7 +248,7 @@ def cmd_edit(root, args):
         m["pasos_procedimentales_fuente"] = "manual"
         m["pasos_procedimentales_lineales"] = _flatten(pasos)
     if args.imagen:
-        m["imagen"] = _copy_imagen(root, args.id, args.imagen)
+        _copy_imagen(root, args.id, args.imagen)
     save(root, metodos)
     print(f"Editado '{args.id}'.")
     rebuild(root, args.id, args.clasificar, args.no_rebuild)

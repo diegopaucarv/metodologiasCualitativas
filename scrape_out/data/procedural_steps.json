@@ -510,5 +510,220 @@
         "notas_limitaciones": "El texto describe el método de manera detallada pero no presenta un protocolo paso a paso formal; la extracción se basa en la descripción narrativa de la metodología. La observación participante se menciona como informante del análisis, no como fase separada."
       }
     }
+  ],
+  "analisis-de-marco": [
+    {
+      "file": "analisis-de-marco_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "paper",
+          "titulo": "Are All Cases Treated Equal?: Using Goffman's Frame Analysis to Understand How Homicide Detectives Orient to Their Work",
+          "autores": [
+            "Shila R. Hawk",
+            "Dean A. Dabney"
+          ],
+          "anio_publicacion": "2014"
+        },
+        "metodo_identificado": "etnografia",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Seleccionar una unidad de homicidios de un departamento de policía metropolitano en el sureste de Estados Unidos como escenario de estudio"
+            },
+            {
+              "orden_global": 2,
+              "accion": "Obtener el consentimiento informado de los 26 miembros de la unidad de homicidios, garantizando el anonimato y la participación voluntaria"
+            },
+            {
+              "orden_global": 3,
+              "accion": "Diseñar una guía de entrevista semiestructurada con áreas temáticas sobre historial laboral, percepciones del rol del investigador y factores de estrés ocupacional, organizacional y personal"
+            },
+            {
+              "orden_global": 4,
+              "accion": "Recolectar datos etnográficos durante un período de 9 meses en 2009 y 2010, realizando aproximadamente 300 horas de trabajo de campo"
+            },
+            {
+              "orden_global": 5,
+              "accion": "Realizar observaciones participantes en patrullajes, reuniones Compstat, procesamiento de escenas del crimen y operaciones cotidianas de la unidad"
+            },
+            {
+              "orden_global": 6,
+              "accion": "Tomar notas de campo durante todas las sesiones de observación"
+            },
+            {
+              "orden_global": 7,
+              "accion": "Integrar entrevistas semiestructuradas en cada sesión de patrullaje, con un estilo conversacional guiado por protocolo, generando de 2 a 3 horas adicionales de datos por sesión"
+            },
+            {
+              "orden_global": 8,
+              "accion": "Registrar electrónicamente y transcribir las entrevistas y notas de campo"
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 9,
+              "accion": "Realizar una primera inmersión en los datos transcritos para obtener impresiones generales sobre los temas emergentes"
+            },
+            {
+              "orden_global": 10,
+              "accion": "Organizar los datos en el software NVivo para facilitar la gestión y el análisis cualitativo"
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 11,
+              "accion": "Aplicar un protocolo de codificación y análisis basado en análisis de contenido temático y el método comparativo constante"
+            },
+            {
+              "orden_global": 12,
+              "accion": "Realizar pases de codificación inicial utilizando los encabezados temáticos de la guía de entrevista para generar temas genéricos en los datos"
+            },
+            {
+              "orden_global": 13,
+              "accion": "Realizar pases de codificación posteriores particionando los datos según categorías conceptuales relevantes para la tipificación de casos y los preceptos del análisis de marcos de Goffman"
+            },
+            {
+              "orden_global": 14,
+              "accion": "Identificar y descubrir patrones en los datos relacionados con la tipificación de víctimas y la priorización de casos"
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 15,
+              "accion": "Integrar los hallazgos empíricos con el marco teórico de Goffman para construir un modelo explicativo sobre cómo los detectives priorizan y justifican sus casos"
+            },
+            {
+              "orden_global": 16,
+              "accion": "Redactar el reporte final estructurado en secciones de hallazgos, discusión e implicaciones, presentando citas textuales de los entrevistados para respaldar las interpretaciones"
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 17,
+              "accion": "Realizar un proceso iterativo de comparación constante entre los datos y las categorías teóricas emergentes para refinar la codificación y las interpretaciones"
+            },
+            {
+              "orden_global": 18,
+              "accion": "Validar los hallazgos mediante la triangulación de datos provenientes de observaciones participantes, notas de campo y entrevistas semiestructuradas"
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto no detalla explícitamente pasos de validación por pares ni procesos de verificación con los participantes; los pasos adicionales se infieren de la descripción metodológica general."
+      }
+    }
+  ],
+  "analisis-sistemico": [
+    {
+      "file": "analisis-sistemico_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "libro",
+          "titulo": "Diferenciación y contingencia en América Latina",
+          "autores": [
+            "Aldo Mascareño"
+          ],
+          "anio_publicacion": "2010-07-01T00:00:00Z"
+        },
+        "metodo_identificado": "análisis teórico-conceptual con uso de teoría de sistemas y ejemplos empíricos",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Definir el concepto de institución como estructura de expectativas generalizada que contribuye a la determinación de acciones y decisiones correspondientes, integrando reglas formales e informales para el análisis de la diferenciación funcional en América Latina."
+            },
+            {
+              "orden_global": 2,
+              "accion": "Establecer la hipótesis de trabajo sobre la diferenciación funcional conectada con la concretización de expectativas en situaciones sociales determinadas, permitiendo combinar estructuras formales con el carácter informal de normas, costumbres y scripts."
+            },
+            {
+              "orden_global": 3,
+              "accion": "Definir el concepto de región como constelación de procesos de inclusión y exclusión definida a través de la noción de espacio, organizada sobre la base de regímenes de governance institucionalizados que combinan operaciones formales de sistemas funcionales con la lógica informal de redes de reciprocidad y estratificación."
+            },
+            {
+              "orden_global": 4,
+              "accion": "Desplegar la definición de región en tres etapas: a) qué se entiende bajo el concepto de espacio; b) cómo opera la distinción inclusión/exclusión en referencia a la regionalización de la diferenciación funcional a través de las redes de estratificación y reciprocidad; c) cómo emerge de ello una semántica que identifica un espacio social con determinadas temáticas y formas de comunicación."
+            },
+            {
+              "orden_global": 5,
+              "accion": "Revisar y seleccionar literatura teórica relevante sobre teoría de sistemas, diferenciación funcional, instituciones, región, inclusión/exclusión y mecanismos alternativos (violencia, corrupción, coerción) en América Latina."
+            },
+            {
+              "orden_global": 6,
+              "accion": "Recopilar ejemplos empíricos de la región latinoamericana (Brasil, Argentina, Chile) sobre redes de estratificación y reciprocidad, clientelismo político, comercio callejero y mecanismos informales de inclusión."
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 7,
+              "accion": "Realizar una exploración inicial de los conceptos teóricos clave (institución, región, inclusión/exclusión, diferenciación funcional) y su aplicación al contexto latinoamericano."
+            },
+            {
+              "orden_global": 8,
+              "accion": "Identificar las tensiones estructurales entre comunicaciones centrales y descentrales en la región, reflejadas a nivel semántico en la distinción unidad/diferencia."
+            },
+            {
+              "orden_global": 9,
+              "accion": "Ordenar y clasificar los ejemplos empíricos recopilados (favelas en Brasil, clientelismo en Argentina, cuoteo político en Chile, comercio callejero en Santiago) según los conceptos teóricos de redes de estratificación y reciprocidad."
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 10,
+              "accion": "Aplicar la distinción organización/estructura en el sentido de Maturana para caracterizar la diferenciación funcional como forma básica de la sociedad mundial y su manifestación en América Latina como efecto de acumulación de episodios de desdiferenciación."
+            },
+            {
+              "orden_global": 11,
+              "accion": "Aplicar la distinción inclusión/exclusión para analizar cómo el primado de la diferenciación funcional opera según los procesos de inclusión y exclusión de los distintos sistemas parciales de la sociedad."
+            },
+            {
+              "orden_global": 12,
+              "accion": "Analizar la operatoria de los mecanismos alternativos (violencia, corrupción, coerción) en los procesos informales de inclusión y exclusión, identificando cómo reemplazan o cooptan los medios simbólicos de los sistemas funcionales."
+            },
+            {
+              "orden_global": 13,
+              "accion": "Correlacionar los procesos informales de inclusión y exclusión con el surgimiento de episodios de desdiferenciación funcional, examinando cómo las sanciones positivas y negativas en redes de estratificación y reciprocidad influyen en los procedimientos formales."
+            },
+            {
+              "orden_global": 14,
+              "accion": "Codificar y categorizar los ejemplos empíricos según los mecanismos de sanción (intercambio, interrupción del intercambio, inclusión, exclusión, violencia, corrupción) y las formas de diferenciación (segmentaria, centro/periferia, estratificada, funcional)."
+            },
+            {
+              "orden_global": 15,
+              "accion": "Triangular los hallazgos teóricos con los ejemplos empíricos de la región para validar la hipótesis de la trayectoria latinoamericana de la diferenciación funcional como diseminación extrapolítica del medio poder."
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 16,
+              "accion": "Construir un modelo teórico que integre los conceptos de institución, región, inclusión/exclusión y mecanismos alternativos para explicar la trayectoria latinoamericana de la diferenciación funcional."
+            },
+            {
+              "orden_global": 17,
+              "accion": "Elaborar esquemas conceptuales (ESQUEMA 6, ESQUEMA 7, ESQUEMA 8) que representen gráficamente los niveles territorial, regional y global de la sociedad mundial, los mecanismos alternativos y las formas de sanción en redes de estratificación y reciprocidad."
+            },
+            {
+              "orden_global": 18,
+              "accion": "Redactar el capítulo 'La trayectoria de la diferenciación funcional en la región latinoamericana' integrando los resultados teóricos y empíricos, y derivando elementos teóricos para la evaluación del primado de la diferenciación funcional a nivel de la sociedad mundial."
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 19,
+              "accion": "Revisar y validar la coherencia interna del argumento teórico con la literatura existente sobre teoría de sistemas y sociología latinoamericana."
+            },
+            {
+              "orden_global": 20,
+              "accion": "Realizar un proceso iterativo de comparación entre los conceptos teóricos y los ejemplos empíricos para refinar la hipótesis de la trayectoria latinoamericana."
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto es un capítulo teórico-conceptual que no describe explícitamente un método cualitativo empírico; sin embargo, se extrajeron los pasos procedimentales implícitos en la construcción teórica y el uso de ejemplos empíricos. No se identificaron técnicas de recolección de datos primarios ni software cualitativo."
+      }
+    }
   ]
 }

@@ -13,7 +13,6 @@
     },
     "hallazgos": "Se descubrió que la incapacidad de los robots para conversar naturalmente no era un fallo de diseño abstracto, sino el resultado directo de las limitaciones de las herramientas de software utilizadas, las cuales no permitían programar aspectos sutiles como el manejo de los silencios, forzando una interacción social artificial.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a dynamic arrangement of small circles in motion. The circles should be in staggered positions forming an emergent flow pattern, with occasional slight overlaps to indicate micro-coordination in real-time. The composition should have ample negative space, centered arrangement, flat monochrome line style. No shadows, no text.",
-    "imagen": "site/assets/images/etnometodologia.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -246,7 +245,6 @@
     },
     "hallazgos": "El análisis reveló que la sucesión de la granja no es una decisión puramente económica, sino que está regida por una \"jerarquía emocional oculta\". Para que el traspaso funcione, el sucesor debe someterse simbólicamente a la autoridad del padre, independientemente de la lógica empresarial.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Display a target-like formation of four concentric circles with varying stroke thickness. The innermost circle should be solid or have a dense pattern, representing the latent meaning. The outer rings should be progressively lighter, suggesting layers of interpretation peeling back to reveal core structure. Symmetrical, centered, with clean negative space. Flat vector style, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -495,7 +493,6 @@
     },
     "hallazgos": "El análisis estructurado mostró que las innumerables críticas se reducen a tres visiones fundamentales: el crecimiento como daño físico y ecológico, el crecimiento como una institución social ya obsoleta, y el crecimiento como una ideología cuasi-religiosa que ciega ante otras alternativas.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict one large, open circle acting as a sieve or container. Inside, cluster many small circles into distinct groups of varying density to show frequent themes or categories. Some small circles should be outside the large circle, representing uncoded data. Clean, flat, centered composition with high contrast. No text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -691,7 +688,6 @@
     },
     "hallazgos": "Se demostró que un cambio real en la enseñanza no ocurre solo con la reflexión intelectual; los profesores necesitan reentrenar físicamente sus hábitos corporales y reacciones automáticas arraigadas durante la acción misma de dar clase.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a horizontal trail of circles of slightly varying sizes and opacities. The circles should be arranged in a meandering line, with the sequence suggesting repeated, habitual steps. The first circles in the trail should be slightly darker or larger, fading to lighter/smaller, indicating embodied routine. Flat style, clean negative space, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -950,7 +946,6 @@
     },
     "hallazgos": "El estudio identificó que no hay una sola forma de buscar información; las personas operan bajo categorías mentales distintas, desde quienes lo ven como una simple recolección de datos hasta quienes lo experimentan como un proceso complejo de construcción de nuevo conocimiento.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a constellation of seven equally-sized circles arranged in three distinct, separate clusters. The space between the clusters should be significant. Within each cluster, the circles should be closely grouped. This represents different ways of experiencing the same phenomenon. Symmetric negative space, flat vector, no text.",
-    "imagen": "site/assets/images/fenomenografia.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -1183,7 +1178,6 @@
     },
     "hallazgos": "El microanálisis demostró que la corrección de errores en clase es una estructura social altamente organizada donde el profesor asume sistemáticamente la responsabilidad de \"reparar\" la conversación para mantener el flujo y el orden institucional del aula.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create an arc of five circles in sequential order. Each circle should have one or two subtle inner rings (like a bullseye) to represent repair or response mechanisms in turn-taking. The circles should be evenly spaced along a gentle curve, suggesting a structured exchange. Clean, centered, flat vector, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -1423,7 +1417,6 @@
     },
     "hallazgos": "El análisis reveló una tensión: mientras los líderes Sami promueven una identidad cultural unificada, las historias personales de los ancianos son más fluidas y contradictorias, distanciándose tanto de la versión oficial del gobierno como de la nueva identidad política de su propio grupo.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict two interleaved chains of circles. Use two rows of four circles each, offset so that each circle in the top row sits between two circles in the bottom row. Slight overlaps where the circles from different rows meet, indicating interactive positioning. Minimal spacing, flat style, no text.",
-    "imagen": "site/assets/images/analisis_narrativo_dialogico.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -1665,7 +1658,6 @@
     },
     "hallazgos": "La narrativa del dueño no solo describió la situación, sino que funcionó como una herramienta performativa que reclutó aliados y recursos, creando una nueva red de poder capaz de desafiar y eventualmente superar la realidad económica impuesta por el banco.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a semi-circular arrangement of five circles with graduated sizes. The central circle should be the largest, with size decreasing towards the ends. The largest circle should have a thin, subtle halo or double outline to show performative emphasis. Clean, vector style, no text.",
-    "imagen": "site/assets/images/analisis_narrativo_performativo.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -1912,7 +1904,6 @@
     },
     "hallazgos": "El estudio validó que el análisis temático, cuando se realiza con rigor, es un método robusto para identificar patrones transversales en experiencias complejas (como vivir con una enfermedad), haciendo que los resultados sean accesibles y útiles para la práctica de salud.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a central, medium-sized circle surrounded by three distinct clusters of small circles. The small circles should be grouped close together but separated from other groups, as if magnetically attracted to the central circle. This represents themes clustering around a core concept. Minimal layout, flat vector, no text.",
-    "imagen": "site/assets/images/tematizacion.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -2164,7 +2155,6 @@
     },
     "hallazgos": "Al integrar la experticia clínica en el análisis, el método permitió pasar de meros datos a guías conceptuales y prácticas aplicables, respondiendo eficazmente a la necesidad de conocimiento útil en situaciones clínicas reales.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create a large circle acting as a magnifying lens. Inside this circle, show a dense, intricate cluster of many tiny circles and dots. Outside the lens, the same area should be represented by just a few, sparse dots. This shows the transformation into thick, detailed description. Centered, flat style, no text.",
-    "imagen": "site/assets/images/descripcion_interpretativa.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -2416,7 +2406,6 @@
     },
     "hallazgos": "El análisis sistemático permitió formular la teoría del \"Tabú Real\", identificando un pacto implícito de silencio en los medios que funcionó durante décadas como un escudo institucional para proteger la imagen del monarca.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a central circle (core category) surrounded by two concentric rings. The inner ring should have small dots representing open codes. The outer ring should have slightly larger dots connected by faint lines to the inner ring, showing axial coding. A single arrow points from the central circle outward, indicating selective coding. Schematic, clean, no text.",
-    "imagen": "site/assets/images/teoria_fundamentada_straussiana.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -2728,7 +2717,6 @@
     },
     "hallazgos": "El estudio reveló que el acoso en urgencias no son solo actos individuales, sino un sistema de \"exclusión deliberada\" alimentado por el entorno de alta presión, donde el ostracismo actúa como un mecanismo de defensa grupal ante el estrés.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show three overlapping circles of different sizes, representing researcher, participants, and context. The overlaps should be clearly defined. One circle has a thicker border to indicate the researcher's agency. Within the overlaps, new, smaller circles appear, symbolizing co-constructed knowledge. Flat vector, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -3008,7 +2996,6 @@
     },
     "hallazgos": "La investigación sacó a la luz las percepciones únicas y las estrategias de adaptación que desarrollan estos adolescentes para lidiar con su realidad familiar, proporcionando información clave para diseñar intervenciones de apoyo basadas en sus experiencias reales.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create four concentric circles with a solid core. The outer circles should have fragments breaking away or being 'peeled back' to reveal inner layers, representing the search for essence in lived experience. Use subtle opacity gradients from outer (surface) to inner (core meaning). Centered, symmetrical.",
-    "imagen": "site/assets/images/analisis_fenomenologico_interpretativo.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -3258,7 +3245,6 @@
     },
     "hallazgos": "Se encontró que la identidad es una narración en constante construcción. El sufrimiento psicológico surge cuando esta historia se vuelve incoherente, y el proceso terapéutico implica \"reescribir\" el relato para integrar los eventos traumáticos de forma funcional.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a linear sequence of seven circles of equal size, like beads on a string. Two of these circles (not adjacent) should have a double outline or a different inner pattern (like a swirl), representing narrative knots or turning points. The sequence suggests a coherent life story. Clean, centered, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -3498,7 +3484,6 @@
     },
     "hallazgos": "El análisis demostró que los deseos inconscientes no están ausentes en los textos escritos, sino que están \"escondidos a plena vista\", revelándose a través de las fallas y las estructuras defensivas del propio discurso.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a large circle with a solid border. Inside, overlay a slightly smaller circle with a dashed or very light border, offset so part of it is outside the larger circle. This represents the conscious overlapping with and concealing the unconscious. Use minimal shading to suggest depth. Flat vector, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -3684,7 +3669,6 @@
     },
     "hallazgos": "El estudio estableció que los temas no se \"descubren\" pasivamente, sino que se construyen. La subjetividad del investigador se redefinió no como un sesgo a eliminar, sino como la herramienta fundamental para lograr un análisis cualitativo profundo.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create a mosaic of nine circles arranged in a 3x3 grid. Each circle has a simple, unique internal pattern (dots, lines, crosshatch). The patterns should vary subtly, and one circle is outlined with a thicker border, representing the researcher's active role in generating themes. Flat, geometric, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -4050,7 +4034,6 @@
     },
     "hallazgos": "El análisis reveló que el grupo no vivía en una libertad absoluta, sino en una tensión constante de \"re-territorialización\", donde las necesidades materiales y las viejas estructuras de poder siempre amenazaban con reaparecer dentro de su intento de vida alternativa.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show an asymmetric arrangement of circles of various sizes. There should be no central circle; instead, circles are scattered, some overlapping, some isolated. A few circles have unconventional internal marks (like a slash or star). This represents challenging traditional assumptions. Clean, flat, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -4290,7 +4273,6 @@
     },
     "hallazgos": "El análisis demostró que el concepto original indígena de \"Buen Vivir\" fue apropiado y vaciado de contenido por el poder político estatal, transformándolo en un eslogan para legitimar una agenda de desarrollo contraria a los intereses comunitarios originales.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a central circle (speaker) from which three concentric rings of small dots emanate, like ripples. The dots in each ring should be evenly spaced but decrease in size as they move outward, showing how discourse constructs and projects representations. Flat vector, centered, no text.",
-    "imagen": "site/assets/images/analisis_del_discurso.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -4530,7 +4512,6 @@
     },
     "hallazgos": "El estudio reveló un uso sistemático de la polarización discursiva (\"nosotros\" contra \"ellos\") y argumentos puramente emocionales, diseñados estratégicamente para desviar la responsabilidad de la gestión interna hacia enemigos externos construidos por el propio discurso.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a network of seven circles connected by lines of varying thickness. One circle is significantly larger and placed centrally, with thicker connection lines radiating to others, indicating power steering discourse. Use solid lines for dominant flows and dashed lines for resisted ones. Flat, no text.",
-    "imagen": "site/assets/images/analisis_del_discurso_critico.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -4744,7 +4725,6 @@
     },
     "hallazgos": "El análisis comparativo reveló un patrón universal en estas sociedades: el aprendizaje se percibe y se realiza fundamentalmente de forma horizontal y mediante la observación directa, en contraste con la dependencia de la instrucción formal vertical típica de otras culturas.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a central circle (the outcome) surrounded by five smaller circles arranged radially. Light, curved arrows point from each surrounding circle to the center, indicating perceived causal links. Some arrows are solid, some dashed, representing different strengths. Clean, schematic, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -5006,7 +4986,6 @@
     },
     "hallazgos": "Se determinó que la función real de la Guelaguetza no era la caridad, sino un mecanismo de cohesión social que obligaba a una reciprocidad estricta, asegurando la supervivencia del grupo en tiempos de crisis económica o agrícola.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create three interlocking circles arranged in a triangular formation. Each circle has a small, distinct symbol inside (a gear, a heart, a shield) to represent different functions. A circular arrow encloses the entire set, indicating systemic maintenance. Flat vector, no text.",
-    "imagen": "site/assets/images/analisis_funcional.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -5264,7 +5243,6 @@
     },
     "hallazgos": "El estudio longitudinal encontró una interdependencia profunda: los cambios en la salud provocan rupturas o fortalecimientos en la red social, y a su vez, la calidad de esta red determina directamente la capacidad del paciente para manejar su enfermedad día a día.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Display a constellation of circles (nodes) of different sizes clustered into two main groups. The circles within each cluster are close, with some overlapping lightly. A few circles sit between the clusters, and one circle has a double outline, indicating a key actor. Proximity implies ties. Flat, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -5514,26 +5492,211 @@
     },
     "hallazgos": "El análisis sistémico concluyó que la corrupción en América Latina no es un problema aislado, sino el resultado de una diferenciación insuficiente entre sistemas, donde la lógica política interfiere estructuralmente en los sistemas judicial y económico.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate three horizontal layers of circles. The top layer has two circles connected by a double-headed arrow. The middle layer has one circle that connects to both top and bottom layers. The bottom layer has three circles. This shows cascading feedback loops in a system. Schematic, clean, no text.",
-    "imagen": "site/assets/images/analisis_sistemico.png",
     "pasos_procedimentales": {
-      "pre_analisis": [],
-      "interpretacion_fuentes": [],
-      "analisis_profundo": [],
-      "sintesis": [],
-      "pasos_adicionales": []
+      "pre_analisis": [
+        {
+          "orden_global": 1,
+          "accion": "Definir el concepto de institución como estructura de expectativas generalizada que contribuye a la determinación de acciones y decisiones correspondientes, integrando reglas formales e informales para el análisis de la diferenciación funcional en América Latina."
+        },
+        {
+          "orden_global": 2,
+          "accion": "Establecer la hipótesis de trabajo sobre la diferenciación funcional conectada con la concretización de expectativas en situaciones sociales determinadas, permitiendo combinar estructuras formales con el carácter informal de normas, costumbres y scripts."
+        },
+        {
+          "orden_global": 3,
+          "accion": "Definir el concepto de región como constelación de procesos de inclusión y exclusión definida a través de la noción de espacio, organizada sobre la base de regímenes de governance institucionalizados que combinan operaciones formales de sistemas funcionales con la lógica informal de redes de reciprocidad y estratificación."
+        },
+        {
+          "orden_global": 4,
+          "accion": "Desplegar la definición de región en tres etapas: a) qué se entiende bajo el concepto de espacio; b) cómo opera la distinción inclusión/exclusión en referencia a la regionalización de la diferenciación funcional a través de las redes de estratificación y reciprocidad; c) cómo emerge de ello una semántica que identifica un espacio social con determinadas temáticas y formas de comunicación."
+        },
+        {
+          "orden_global": 5,
+          "accion": "Revisar y seleccionar literatura teórica relevante sobre teoría de sistemas, diferenciación funcional, instituciones, región, inclusión/exclusión y mecanismos alternativos (violencia, corrupción, coerción) en América Latina."
+        },
+        {
+          "orden_global": 6,
+          "accion": "Recopilar ejemplos empíricos de la región latinoamericana (Brasil, Argentina, Chile) sobre redes de estratificación y reciprocidad, clientelismo político, comercio callejero y mecanismos informales de inclusión."
+        }
+      ],
+      "interpretacion_fuentes": [
+        {
+          "orden_global": 7,
+          "accion": "Realizar una exploración inicial de los conceptos teóricos clave (institución, región, inclusión/exclusión, diferenciación funcional) y su aplicación al contexto latinoamericano."
+        },
+        {
+          "orden_global": 8,
+          "accion": "Identificar las tensiones estructurales entre comunicaciones centrales y descentrales en la región, reflejadas a nivel semántico en la distinción unidad/diferencia."
+        },
+        {
+          "orden_global": 9,
+          "accion": "Ordenar y clasificar los ejemplos empíricos recopilados (favelas en Brasil, clientelismo en Argentina, cuoteo político en Chile, comercio callejero en Santiago) según los conceptos teóricos de redes de estratificación y reciprocidad."
+        }
+      ],
+      "analisis_profundo": [
+        {
+          "orden_global": 10,
+          "accion": "Aplicar la distinción organización/estructura en el sentido de Maturana para caracterizar la diferenciación funcional como forma básica de la sociedad mundial y su manifestación en América Latina como efecto de acumulación de episodios de desdiferenciación."
+        },
+        {
+          "orden_global": 11,
+          "accion": "Aplicar la distinción inclusión/exclusión para analizar cómo el primado de la diferenciación funcional opera según los procesos de inclusión y exclusión de los distintos sistemas parciales de la sociedad."
+        },
+        {
+          "orden_global": 12,
+          "accion": "Analizar la operatoria de los mecanismos alternativos (violencia, corrupción, coerción) en los procesos informales de inclusión y exclusión, identificando cómo reemplazan o cooptan los medios simbólicos de los sistemas funcionales."
+        },
+        {
+          "orden_global": 13,
+          "accion": "Correlacionar los procesos informales de inclusión y exclusión con el surgimiento de episodios de desdiferenciación funcional, examinando cómo las sanciones positivas y negativas en redes de estratificación y reciprocidad influyen en los procedimientos formales."
+        },
+        {
+          "orden_global": 14,
+          "accion": "Codificar y categorizar los ejemplos empíricos según los mecanismos de sanción (intercambio, interrupción del intercambio, inclusión, exclusión, violencia, corrupción) y las formas de diferenciación (segmentaria, centro/periferia, estratificada, funcional)."
+        },
+        {
+          "orden_global": 15,
+          "accion": "Triangular los hallazgos teóricos con los ejemplos empíricos de la región para validar la hipótesis de la trayectoria latinoamericana de la diferenciación funcional como diseminación extrapolítica del medio poder."
+        }
+      ],
+      "sintesis": [
+        {
+          "orden_global": 16,
+          "accion": "Construir un modelo teórico que integre los conceptos de institución, región, inclusión/exclusión y mecanismos alternativos para explicar la trayectoria latinoamericana de la diferenciación funcional."
+        },
+        {
+          "orden_global": 17,
+          "accion": "Elaborar esquemas conceptuales (ESQUEMA 6, ESQUEMA 7, ESQUEMA 8) que representen gráficamente los niveles territorial, regional y global de la sociedad mundial, los mecanismos alternativos y las formas de sanción en redes de estratificación y reciprocidad."
+        },
+        {
+          "orden_global": 18,
+          "accion": "Redactar el capítulo 'La trayectoria de la diferenciación funcional en la región latinoamericana' integrando los resultados teóricos y empíricos, y derivando elementos teóricos para la evaluación del primado de la diferenciación funcional a nivel de la sociedad mundial."
+        }
+      ],
+      "pasos_adicionales": [
+        {
+          "orden_global": 19,
+          "accion": "Revisar y validar la coherencia interna del argumento teórico con la literatura existente sobre teoría de sistemas y sociología latinoamericana."
+        },
+        {
+          "orden_global": 20,
+          "accion": "Realizar un proceso iterativo de comparación entre los conceptos teóricos y los ejemplos empíricos para refinar la hipótesis de la trayectoria latinoamericana."
+        }
+      ]
     },
     "pasos_procedimentales_fuente": "together_ai",
-    "pasos_procedimentales_lineales": [],
+    "pasos_procedimentales_lineales": [
+      {
+        "fase": "pre_analisis",
+        "orden_global": 1,
+        "paso": "Definir el concepto de institución como estructura de expectativas generalizada que contribuye a la determinación de acciones y decisiones correspondientes, integrando reglas formales e informales para el análisis de la diferenciación funcional en América Latina."
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 2,
+        "paso": "Establecer la hipótesis de trabajo sobre la diferenciación funcional conectada con la concretización de expectativas en situaciones sociales determinadas, permitiendo combinar estructuras formales con el carácter informal de normas, costumbres y scripts."
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 3,
+        "paso": "Definir el concepto de región como constelación de procesos de inclusión y exclusión definida a través de la noción de espacio, organizada sobre la base de regímenes de governance institucionalizados que combinan operaciones formales de sistemas funcionales con la lógica informal de redes de reciprocidad y estratificación."
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 4,
+        "paso": "Desplegar la definición de región en tres etapas: a) qué se entiende bajo el concepto de espacio; b) cómo opera la distinción inclusión/exclusión en referencia a la regionalización de la diferenciación funcional a través de las redes de estratificación y reciprocidad; c) cómo emerge de ello una semántica que identifica un espacio social con determinadas temáticas y formas de comunicación."
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 5,
+        "paso": "Revisar y seleccionar literatura teórica relevante sobre teoría de sistemas, diferenciación funcional, instituciones, región, inclusión/exclusión y mecanismos alternativos (violencia, corrupción, coerción) en América Latina."
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 6,
+        "paso": "Recopilar ejemplos empíricos de la región latinoamericana (Brasil, Argentina, Chile) sobre redes de estratificación y reciprocidad, clientelismo político, comercio callejero y mecanismos informales de inclusión."
+      },
+      {
+        "fase": "interpretacion_fuentes",
+        "orden_global": 7,
+        "paso": "Realizar una exploración inicial de los conceptos teóricos clave (institución, región, inclusión/exclusión, diferenciación funcional) y su aplicación al contexto latinoamericano."
+      },
+      {
+        "fase": "interpretacion_fuentes",
+        "orden_global": 8,
+        "paso": "Identificar las tensiones estructurales entre comunicaciones centrales y descentrales en la región, reflejadas a nivel semántico en la distinción unidad/diferencia."
+      },
+      {
+        "fase": "interpretacion_fuentes",
+        "orden_global": 9,
+        "paso": "Ordenar y clasificar los ejemplos empíricos recopilados (favelas en Brasil, clientelismo en Argentina, cuoteo político en Chile, comercio callejero en Santiago) según los conceptos teóricos de redes de estratificación y reciprocidad."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 10,
+        "paso": "Aplicar la distinción organización/estructura en el sentido de Maturana para caracterizar la diferenciación funcional como forma básica de la sociedad mundial y su manifestación en América Latina como efecto de acumulación de episodios de desdiferenciación."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 11,
+        "paso": "Aplicar la distinción inclusión/exclusión para analizar cómo el primado de la diferenciación funcional opera según los procesos de inclusión y exclusión de los distintos sistemas parciales de la sociedad."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 12,
+        "paso": "Analizar la operatoria de los mecanismos alternativos (violencia, corrupción, coerción) en los procesos informales de inclusión y exclusión, identificando cómo reemplazan o cooptan los medios simbólicos de los sistemas funcionales."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 13,
+        "paso": "Correlacionar los procesos informales de inclusión y exclusión con el surgimiento de episodios de desdiferenciación funcional, examinando cómo las sanciones positivas y negativas en redes de estratificación y reciprocidad influyen en los procedimientos formales."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 14,
+        "paso": "Codificar y categorizar los ejemplos empíricos según los mecanismos de sanción (intercambio, interrupción del intercambio, inclusión, exclusión, violencia, corrupción) y las formas de diferenciación (segmentaria, centro/periferia, estratificada, funcional)."
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 15,
+        "paso": "Triangular los hallazgos teóricos con los ejemplos empíricos de la región para validar la hipótesis de la trayectoria latinoamericana de la diferenciación funcional como diseminación extrapolítica del medio poder."
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 16,
+        "paso": "Construir un modelo teórico que integre los conceptos de institución, región, inclusión/exclusión y mecanismos alternativos para explicar la trayectoria latinoamericana de la diferenciación funcional."
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 17,
+        "paso": "Elaborar esquemas conceptuales (ESQUEMA 6, ESQUEMA 7, ESQUEMA 8) que representen gráficamente los niveles territorial, regional y global de la sociedad mundial, los mecanismos alternativos y las formas de sanción en redes de estratificación y reciprocidad."
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 18,
+        "paso": "Redactar el capítulo 'La trayectoria de la diferenciación funcional en la región latinoamericana' integrando los resultados teóricos y empíricos, y derivando elementos teóricos para la evaluación del primado de la diferenciación funcional a nivel de la sociedad mundial."
+      },
+      {
+        "fase": "pasos_adicionales",
+        "orden_global": 19,
+        "paso": "Revisar y validar la coherencia interna del argumento teórico con la literatura existente sobre teoría de sistemas y sociología latinoamericana."
+      },
+      {
+        "fase": "pasos_adicionales",
+        "orden_global": 20,
+        "paso": "Realizar un proceso iterativo de comparación entre los conceptos teóricos y los ejemplos empíricos para refinar la hipótesis de la trayectoria latinoamericana."
+      }
+    ],
     "metadatos_extraidos": {
       "tipo_documento": "libro",
       "titulo": "Diferenciación y contingencia en América Latina",
       "autores": [
         "Aldo Mascareño"
       ],
-      "anio_publicacion": "2010",
-      "metodo_identificado": "Revisión de libro (book review) - no se describe un método cualitativo empírico propio del estudio reseñado",
-      "confianza": "baja",
-      "notas_limitaciones": "El texto corresponde a una reseña crítica de un libro, no a un artículo metodológico. No se describen pasos procedimentales de investigación cualitativa (muestreo, codificación, entrevistas, etc.). Por lo tanto, no es posible extraer acciones metodológicas concretas. Se devuelven arreglos vacíos."
+      "anio_publicacion": "2010-07-01T00:00:00Z",
+      "metodo_identificado": "análisis teórico-conceptual con uso de teoría de sistemas y ejemplos empíricos",
+      "confianza": "alta",
+      "notas_limitaciones": "El texto es un capítulo teórico-conceptual que no describe explícitamente un método cualitativo empírico; sin embargo, se extrajeron los pasos procedimentales implícitos en la construcción teórica y el uso de ejemplos empíricos. No se identificaron técnicas de recolección de datos primarios ni software cualitativo."
     }
   },
   {
@@ -5550,7 +5713,6 @@
     },
     "hallazgos": "El estudio reveló que los símbolos religiosos en la escuela no eran meros adornos decorativos, sino mecanismos activos de poder utilizados para definir la jerarquía organizacional y legitimar quién tenía la autoridad para tomar decisiones.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a hierarchical tree made of circles. A large circle at the bottom as the root. Above it, two medium circles, and above each of those, two smaller circles. The top circles have tiny crowns or stars inside, indicating symbols of power. Implies cultural hierarchy. Flat vector, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -5808,7 +5970,6 @@
     },
     "hallazgos": "El estudio demostró que la elección de la herramienta de análisis no es neutral: el análisis manual de metáforas reveló matices cruciales sobre la moralidad política que el análisis automático pasó por alto, cambiando radicalmente la interpretación final.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create two columns, each with three circles stacked vertically. The circles in the left column are filled with horizontal lines; the right column with vertical lines. A faint dashed line connects each pair, showing how one domain structures the other. Clean, mirrored layout, no text.",
-    "imagen": "site/assets/images/analisis_de_metaforas.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -6068,7 +6229,6 @@
     },
     "hallazgos": "El análisis de los recursos retóricos mostró que la figura del caníbal ha perdido su antiguo poder como símbolo de alteridad cultural temible, transformándose en un recurso trivializado para el consumo masivo en la forma de \"neocanibalismo\".",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a large circle (container) holding five smaller circles of varying sizes. Each small circle has a different simple pattern inside (dots, stripes, grid, etc.), representing distinct rhetorical resources. The largest resource circle is at the forefront. Flat style, centered, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -6263,7 +6423,6 @@
     },
     "hallazgos": "Se descubrió que los niños operan con modelos mentales rígidos previos (ej. \"ferocidad igual a carnívoro\"). Estos modelos actúan como barreras resistentes que impiden el aprendizaje escolar si la enseñanza no aborda explícitamente estas preconcepciones.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a central circle (core belief) connected by straight lines to five surrounding circles (related beliefs), forming a simple network. One connecting line should be dashed, representing a false but internally coherent assumption. All circles within a faint outer circle boundary representing the mind. Clean, schematic style.",
-    "imagen": "site/assets/images/modelos_mentales.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -6503,7 +6662,6 @@
     },
     "hallazgos": "El análisis de los casos negativos confirmó que la separación por sí sola no detiene el abuso. Se validó que el sistema legal falla sistemáticamente en proteger a las víctimas, refinando la teoría para incluir la necesidad de una intervención institucional efectiva post-separación.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a central circle with a solid outline. Around its perimeter, place five small 'exception' circles, each touching the main circle. The main circle's outline becomes dashed or thinner where the exceptions touch, showing refinement of the hypothesis. Clean, flat, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -6827,7 +6985,6 @@
     },
     "hallazgos": "Emergió la teoría del \"resourcing relacional\": estas familias sobreviven en la precariedad no solo buscando materiales, sino gestionando activamente sus redes de apoyo cercano, negociando dependencias y anclando motivaciones colectivas para resistir.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a central, dark circle (core category) with five smaller circles emerging radially from it, like petals. Each petal circle is connected to the core by a thin line. This shows theory emerging directly from data with minimal preconception. Flat style, no text.",
-    "imagen": "site/assets/images/teoria_fundamentada_clasica.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -7076,7 +7233,6 @@
     },
     "hallazgos": "El análisis estructurado reveló que el escalado exitoso de estas startups depende fundamentalmente de adoptar una \"mentalidad global\" desde el primer día y del uso intensivo de datos para compensar las limitaciones del mercado local.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create two concentric rings of circles. The inner ring has six small, solid circles (first-order concepts). The outer ring has six larger, hollow circles (second-order themes). Lines connect each inner circle to one outer circle, showing systematic abstraction. Schematic, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -7343,7 +7499,6 @@
     },
     "hallazgos": "La iteración entre teoría y datos permitió desarrollar un modelo que explica que el éxito global no depende de la mera posesión de recursos, sino de la \"capacidad dinámica\" de la empresa para orquestar y reconfigurar activos internos y externos simultáneamente.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate two large, intersecting circles. Label one with a faint 'T' (theory) and the other with a faint 'D' (data). At their intersection, a cluster of three small, solid circles appears. Arrows show a looping path going from T to intersection to D and back, indicating iterative abductive process. Clean, symmetric, no text.",
-    "imagen": "site/assets/images/systematic_combining.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -7648,7 +7803,6 @@
     },
     "hallazgos": "Produce teorías robustas mediante la comparación de casos 'polares' o diseños de 'carreras', integrando datos para explicar la lógica subyacente de 'por qué' ocurren los fenómenos [15], [19], [20].",
     "image_prompt": "Minimalist diagram showing three distinct folders labeled 'Case 1', 'Case 2', and 'Case 3'. From each folder, similar highlighted patterns emerge and converge into a single, bold mathematical formula (A -> B). Clean, analytical blueprint aesthetic.",
-    "imagen": "site/assets/images/enfoque_de_construccion_de_teoria_desde_casos_(eisenhardt).png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -7740,7 +7894,6 @@
     },
     "hallazgos": "Fomenta la creación de prototipos teóricos que se refinan iterativamente con gerentes y académicos, priorizando la utilidad práctica y el alcance de la teoría ante desafíos sociales complejos [33], [38], [39].",
     "image_prompt": "A futuristic architectural blueprint being actively adjusted by glowing hands. Part of the blueprint is turning into a solid, realistic structure. The text 'What If?' is subtly integrated into the light lines. High-tech, creative, and transformative style.",
-    "imagen": "site/assets/images/teorizacion_centrada_en_el_diseno_(stigliani,_corley_&_gioia).png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -8018,7 +8171,6 @@
     },
     "hallazgos": "El análisis QCA reveló \"equifinalidad\": no hay una única receta para el éxito. La gobernanza del agua funciona bien sea con un liderazgo local fuerte O con una alta participación comunitaria, pero raramente tiene éxito si faltan ambos elementos.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Display three rows of three circles each (conditions). The top row has all circles filled (leadership strong). The middle row has only the right circle filled (community participation). Both rows point to a single large outcome circle below, showing equifinal paths. Grid layout with clear pattern logic.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -8287,7 +8439,6 @@
     },
     "hallazgos": "El rastreo del proceso demostró que la innovación no fue un evento aislado, sino el resultado de una cadena histórica acumulativa, donde cada decisión y evento anterior habilitó lógicamente el siguiente paso en la secuencia de innovación.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a chain of five circles linked sequentially. Each circle contains a tiny, distinct icon inside (a lock, a key, a door, a path, a flag) representing steps in a causal mechanism. The links are solid lines. Clean, horizontal layout, flat, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -8621,7 +8772,6 @@
     },
     "hallazgos": "El análisis de la estructura de eventos reveló cómo las decisiones tomadas en el pasado crearon un camino de dependencia, limitando las opciones disponibles y habilitando rutas específicas para la innovación futura.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show five circles of varying sizes arranged along a curved timeline. Connect them with arrows showing forward progression, with one arrow branching back to a previous circle, indicating how past decisions constrain future options. The largest circle represents the key innovation event. Clean, logical layout.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -8946,7 +9096,6 @@
     },
     "hallazgos": "El seguimiento a largo plazo permitió documentar la interacción dinámica entre las políticas sociales, la nutrición y la educación en la vida de los jóvenes, revelando cómo las condiciones tempranas y las experiencias de violencia impactan sus aspiraciones y bienestar en la adultez.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show three concentric rings, each representing a time period. Inside each ring, place a cluster of small circles. The clusters should change pattern or density from the innermost to outermost ring, showing transformation over time. Flat vector, no text.",
-    "imagen": "site/assets/images/analisis_cualitativo_longitudinal.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -9138,7 +9287,6 @@
     },
     "hallazgos": "Identifica mecanismos impulsores y patrones de cambio temporales, capturando la esencia del movimiento organizacional en lugar de solo correlaciones de variables [28], [29], [30].",
     "image_prompt": "A continuous flowing river made of light, segmented into chronological sections (temporal brackets) with glowing clock icons. The flow shows different intensities and ripples representing events and activities over time. Fluid, cinematic landscape style.",
-    "imagen": "site/assets/images/estrategias_de_teorizacion_de_procesos_(langley).png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -9509,7 +9657,6 @@
     },
     "hallazgos": "El mapeo reveló una \"enciclopedia\" local de la malaria que mezcla conocimientos médicos con creencias populares. Esta estructura cognitiva híbrida es la que determina realmente sus comportamientos de búsqueda de salud, más allá de la información biomédica oficial.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate three large, separate circles (cultural domains). Inside each, place a unique arrangement of small circles (like a star, a line, a scatter) to represent how each culture categorizes knowledge. The domains should not overlap. Flat, clean, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -9734,7 +9881,6 @@
     },
     "hallazgos": "El análisis identificó estadísticamente dos perfiles de estudiantes con motivaciones opuestas: los \"instrumentales\" (motivados por dinero/trabajo) y los \"integradores\" (motivados por la cultura), demostrando que la motivación depende de la utilidad percibida del idioma.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a fan-shaped arc of seven circles arranged from left to right. The leftmost circle is solid black, the rightmost is hollow, and those in between graduate in fill density. This represents forced sorting along a subjective continuum. Flat, no text.",
-    "imagen": "site/assets/images/metodologia_q.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -9967,26 +10113,194 @@
     },
     "hallazgos": "El análisis demostró que, aunque se invitaba a participar, el \"marco\" impuesto por las autoridades restringía implícitamente qué se podía decir y cómo, convirtiendo la interacción en un ritual vacío que aseguraba que no se desafiara el poder establecido.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create a large circular frame. Inside, group small circles into three distinct zones, each zone separated by space. The zones represent different interpretative frames organizing the elements. The frame circle has a bold outline. Flat vector, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
-      "pre_analisis": [],
-      "interpretacion_fuentes": [],
-      "analisis_profundo": [],
-      "sintesis": [],
-      "pasos_adicionales": []
+      "pre_analisis": [
+        {
+          "orden_global": 1,
+          "accion": "Seleccionar una unidad de homicidios de un departamento de policía metropolitano en el sureste de Estados Unidos como escenario de estudio"
+        },
+        {
+          "orden_global": 2,
+          "accion": "Obtener el consentimiento informado de los 26 miembros de la unidad de homicidios, garantizando el anonimato y la participación voluntaria"
+        },
+        {
+          "orden_global": 3,
+          "accion": "Diseñar una guía de entrevista semiestructurada con áreas temáticas sobre historial laboral, percepciones del rol del investigador y factores de estrés ocupacional, organizacional y personal"
+        },
+        {
+          "orden_global": 4,
+          "accion": "Recolectar datos etnográficos durante un período de 9 meses en 2009 y 2010, realizando aproximadamente 300 horas de trabajo de campo"
+        },
+        {
+          "orden_global": 5,
+          "accion": "Realizar observaciones participantes en patrullajes, reuniones Compstat, procesamiento de escenas del crimen y operaciones cotidianas de la unidad"
+        },
+        {
+          "orden_global": 6,
+          "accion": "Tomar notas de campo durante todas las sesiones de observación"
+        },
+        {
+          "orden_global": 7,
+          "accion": "Integrar entrevistas semiestructuradas en cada sesión de patrullaje, con un estilo conversacional guiado por protocolo, generando de 2 a 3 horas adicionales de datos por sesión"
+        },
+        {
+          "orden_global": 8,
+          "accion": "Registrar electrónicamente y transcribir las entrevistas y notas de campo"
+        }
+      ],
+      "interpretacion_fuentes": [
+        {
+          "orden_global": 9,
+          "accion": "Realizar una primera inmersión en los datos transcritos para obtener impresiones generales sobre los temas emergentes"
+        },
+        {
+          "orden_global": 10,
+          "accion": "Organizar los datos en el software NVivo para facilitar la gestión y el análisis cualitativo"
+        }
+      ],
+      "analisis_profundo": [
+        {
+          "orden_global": 11,
+          "accion": "Aplicar un protocolo de codificación y análisis basado en análisis de contenido temático y el método comparativo constante"
+        },
+        {
+          "orden_global": 12,
+          "accion": "Realizar pases de codificación inicial utilizando los encabezados temáticos de la guía de entrevista para generar temas genéricos en los datos"
+        },
+        {
+          "orden_global": 13,
+          "accion": "Realizar pases de codificación posteriores particionando los datos según categorías conceptuales relevantes para la tipificación de casos y los preceptos del análisis de marcos de Goffman"
+        },
+        {
+          "orden_global": 14,
+          "accion": "Identificar y descubrir patrones en los datos relacionados con la tipificación de víctimas y la priorización de casos"
+        }
+      ],
+      "sintesis": [
+        {
+          "orden_global": 15,
+          "accion": "Integrar los hallazgos empíricos con el marco teórico de Goffman para construir un modelo explicativo sobre cómo los detectives priorizan y justifican sus casos"
+        },
+        {
+          "orden_global": 16,
+          "accion": "Redactar el reporte final estructurado en secciones de hallazgos, discusión e implicaciones, presentando citas textuales de los entrevistados para respaldar las interpretaciones"
+        }
+      ],
+      "pasos_adicionales": [
+        {
+          "orden_global": 17,
+          "accion": "Realizar un proceso iterativo de comparación constante entre los datos y las categorías teóricas emergentes para refinar la codificación y las interpretaciones"
+        },
+        {
+          "orden_global": 18,
+          "accion": "Validar los hallazgos mediante la triangulación de datos provenientes de observaciones participantes, notas de campo y entrevistas semiestructuradas"
+        }
+      ]
     },
     "pasos_procedimentales_fuente": "together_ai",
-    "pasos_procedimentales_lineales": [],
+    "pasos_procedimentales_lineales": [
+      {
+        "fase": "pre_analisis",
+        "orden_global": 1,
+        "paso": "Seleccionar una unidad de homicidios de un departamento de policía metropolitano en el sureste de Estados Unidos como escenario de estudio"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 2,
+        "paso": "Obtener el consentimiento informado de los 26 miembros de la unidad de homicidios, garantizando el anonimato y la participación voluntaria"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 3,
+        "paso": "Diseñar una guía de entrevista semiestructurada con áreas temáticas sobre historial laboral, percepciones del rol del investigador y factores de estrés ocupacional, organizacional y personal"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 4,
+        "paso": "Recolectar datos etnográficos durante un período de 9 meses en 2009 y 2010, realizando aproximadamente 300 horas de trabajo de campo"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 5,
+        "paso": "Realizar observaciones participantes en patrullajes, reuniones Compstat, procesamiento de escenas del crimen y operaciones cotidianas de la unidad"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 6,
+        "paso": "Tomar notas de campo durante todas las sesiones de observación"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 7,
+        "paso": "Integrar entrevistas semiestructuradas en cada sesión de patrullaje, con un estilo conversacional guiado por protocolo, generando de 2 a 3 horas adicionales de datos por sesión"
+      },
+      {
+        "fase": "pre_analisis",
+        "orden_global": 8,
+        "paso": "Registrar electrónicamente y transcribir las entrevistas y notas de campo"
+      },
+      {
+        "fase": "interpretacion_fuentes",
+        "orden_global": 9,
+        "paso": "Realizar una primera inmersión en los datos transcritos para obtener impresiones generales sobre los temas emergentes"
+      },
+      {
+        "fase": "interpretacion_fuentes",
+        "orden_global": 10,
+        "paso": "Organizar los datos en el software NVivo para facilitar la gestión y el análisis cualitativo"
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 11,
+        "paso": "Aplicar un protocolo de codificación y análisis basado en análisis de contenido temático y el método comparativo constante"
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 12,
+        "paso": "Realizar pases de codificación inicial utilizando los encabezados temáticos de la guía de entrevista para generar temas genéricos en los datos"
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 13,
+        "paso": "Realizar pases de codificación posteriores particionando los datos según categorías conceptuales relevantes para la tipificación de casos y los preceptos del análisis de marcos de Goffman"
+      },
+      {
+        "fase": "analisis_profundo",
+        "orden_global": 14,
+        "paso": "Identificar y descubrir patrones en los datos relacionados con la tipificación de víctimas y la priorización de casos"
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 15,
+        "paso": "Integrar los hallazgos empíricos con el marco teórico de Goffman para construir un modelo explicativo sobre cómo los detectives priorizan y justifican sus casos"
+      },
+      {
+        "fase": "sintesis",
+        "orden_global": 16,
+        "paso": "Redactar el reporte final estructurado en secciones de hallazgos, discusión e implicaciones, presentando citas textuales de los entrevistados para respaldar las interpretaciones"
+      },
+      {
+        "fase": "pasos_adicionales",
+        "orden_global": 17,
+        "paso": "Realizar un proceso iterativo de comparación constante entre los datos y las categorías teóricas emergentes para refinar la codificación y las interpretaciones"
+      },
+      {
+        "fase": "pasos_adicionales",
+        "orden_global": 18,
+        "paso": "Validar los hallazgos mediante la triangulación de datos provenientes de observaciones participantes, notas de campo y entrevistas semiestructuradas"
+      }
+    ],
     "metadatos_extraidos": {
       "tipo_documento": "paper",
-      "titulo": "THE FRAME ANALYSIS OF PARTICIPATION: A GOFFMANIAN TAKE ON DEMOCRATIC INTERACTION AND ITS AMBIGUITIES",
+      "titulo": "Are All Cases Treated Equal?: Using Goffman's Frame Analysis to Understand How Homicide Detectives Orient to Their Work",
       "autores": [
-        "Mathieu Berger"
+        "Shila R. Hawk",
+        "Dean A. Dabney"
       ],
-      "anio_publicacion": null,
-      "metodo_identificado": "análisis de marcos (frame analysis) de Goffman",
-      "confianza": "baja",
-      "notas_limitaciones": "El texto proporcionado es solo la introducción del artículo. No se describen pasos procedimentales concretos del método cualitativo. La extracción se limita a metadatos y al método identificado a partir del título y la introducción."
+      "anio_publicacion": "2014",
+      "metodo_identificado": "etnografia",
+      "confianza": "alta",
+      "notas_limitaciones": "El texto no detalla explícitamente pasos de validación por pares ni procesos de verificación con los participantes; los pasos adicionales se infieren de la descripción metodológica general."
     }
   },
   {
@@ -10003,7 +10317,6 @@
     },
     "hallazgos": "El desglose lógico confirmó que los granjeros no actúan por altruismo ambiental ni de forma irracional, sino que siguen un cálculo racional y una lógica condicional estricta basada en la ecuación entre el esfuerzo requerido y el pago ofrecido.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show three circles in a row, increasing in size from left to right. Each circle has a logical symbol inside (e.g., '&', '∴', '→'). Arrows connect them sequentially, indicating a logical argument progression. Clean, horizontal, flat, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -10245,7 +10558,6 @@
     },
     "hallazgos": "El estudio demostró que elementos aparentemente triviales como las fórmulas de despedida cumplían una función vital en la economía del relato: mantener la jerarquía social y expresar el respeto adecuado según el contexto histórico específico.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a large circle divided into four equal pie slices. Each slice contains a different arrangement of small circles (e.g., one cluster, a line, a pair, a single circle) representing different narrative functions. The segments are distinct but part of a whole. Flat, no text.",
-    "imagen": "site/assets/images/analisis_narrativo_funcional.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -10515,7 +10827,6 @@
     },
     "hallazgos": "Se descubrió que la figura del pishtaco funciona como una herramienta cultural pragmática: un mecanismo simbólico que permite a la comunidad explicar, procesar y comunicar el trauma histórico y continuo de la explotación colonial y la violencia foránea.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show three concentric circles representing cultural frameworks. Inside the innermost circle, place small dot clusters representing situated actions. Connect these dots to the outer circles with faint radial lines, showing how micro-actions gain meaning from broader cultural context. Flat, clean style with clear layering.",
-    "imagen": "site/assets/images/analisis_pragmatico_cultural.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -10738,7 +11049,6 @@
     },
     "hallazgos": "El análisis de estos incidentes clave permitió identificar una lista de comportamientos prácticos y específicos que definen la excelencia docente en la realidad clínica, superando las descripciones teóricas generales sobre la enseñanza.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a field of many small, light grey circles. Among them, three circles are significantly larger, with bold double outlines and solid black fill, standing out as critical incidents. The contrast should be stark. Flat, scattered arrangement, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -11017,7 +11327,6 @@
     },
     "hallazgos": "El mapeo de constructos reveló una paradoja: los ciudadanos con mayor conocimiento político perciben menor legitimidad en la UE, precisamente porque sus estándares mentales para evaluar la democracia son más exigentes y críticos.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Create a 4x4 grid of circles. Fill the circles in each row with a gradient from dark to light, representing ratings for a construct. The grid should be neat, with rows and columns clearly aligned. Flat vector, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -11239,7 +11548,6 @@
     },
     "hallazgos": "La comparación evidenció una profunda transformación: lo que en otras culturas era un complejo ritual social o religioso, en el occidente actual se ha reducido a un simple tropo de terror para el consumo en medios de comunicación.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Show a row of three large circles, each representing a different culture. Inside each large circle, place the same set of four small circles but in different spatial arrangements (e.g., clustered, linear, scattered) to show cultural variation in organizing institutions. Flat, aligned, no text.",
-    "imagen": null,
     "pasos_procedimentales": {
       "pre_analisis": [
         {
@@ -11479,7 +11787,6 @@
     },
     "hallazgos": "La comparación histórica identificó un punto de divergencia crucial donde el Estado cooptó el término. Se demostró cómo el significado original fue transformado para legitimar una agenda desarrollista estatal que contradecía las raíces del concepto.",
     "image_prompt": "Minimalistic vector illustration using only round symbols: Depict two parallel horizontal lines, each with four circles placed at corresponding points. The circles on the top line are filled with stripes, those on the bottom line with dots. Arrows connect corresponding circles, indicating comparative analysis of historical trajectories. Flat, no text.",
-    "imagen": "site/assets/images/historia_comparada.png",
     "pasos_procedimentales": {
       "pre_analisis": [
         {

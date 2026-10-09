@@ -29,13 +29,13 @@ Arrancar Chrome con debugging remoto (otra terminal):
   # Linux
   google-chrome --remote-debugging-port=9222 --user-data-dir=/tmp/chrome-debug
 
-Uso:
-  python extract_procedural_steps.py download --cdp-url http://localhost:9222 --verbose
-  python extract_procedural_steps.py download --phases 0,0.5,1,2 --verbose
-  python extract_procedural_steps.py extract
-  python extract_procedural_steps.py steps --model deepseek-ai/DeepSeek-V4-Flash-0731
-  python extract_procedural_steps.py merge
-  python extract_procedural_steps.py all
+Uso (desde la raíz del proyecto):
+  python scrape_out/app/extract_procedural_steps.py download --cdp-url http://localhost:9222 --verbose
+  python scrape_out/app/extract_procedural_steps.py download --phases 0,0.5,1,2 --verbose
+  python scrape_out/app/extract_procedural_steps.py extract
+  python scrape_out/app/extract_procedural_steps.py steps --model deepseek-ai/DeepSeek-V4-Flash-0731
+  python scrape_out/app/extract_procedural_steps.py merge
+  python scrape_out/app/extract_procedural_steps.py all
 """
 
 import argparse
@@ -74,7 +74,7 @@ from playwright.sync_api import sync_playwright
 # CONFIGURACIÓN
 # =============================================================================
 
-BASE = Path("scrape_out")
+BASE = Path(__file__).resolve().parent.parent
 DATA = BASE / "data"
 
 UA_DESKTOP = (
@@ -2546,7 +2546,6 @@ if __name__ == "__main__":
     ap.add_argument(
         "cmd", choices=["download", "extract", "steps", "merge", "retry", "all"]
     )
-    ap.add_argument("--base", default="scrape_out")
     ap.add_argument(
         "--model",
         default="deepseek-ai/DeepSeek-V4-Flash-0731",
@@ -2586,7 +2585,6 @@ if __name__ == "__main__":
     ap.add_argument("--verbose", action="store_true")
     a = ap.parse_args()
 
-    BASE = Path(a.base)
     mirrors = (
         [m.strip() for m in a.mirrors.split(",") if m.strip()]
         if a.mirrors
