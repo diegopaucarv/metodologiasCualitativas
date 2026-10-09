@@ -1,0 +1,470 @@
+{
+  "ANALISIS INTERNO": {
+    "Descripcion pura": {
+      "Analisis naturalista": [
+        {
+          "metodo": "Etnometodologia",
+          "descripcion": "El investigador se sumergió en el laboratorio con los ingenieros robóticos, observando y registrando en tiempo real las prácticas cotidianas de programación y las decisiones técnicas que tomaban al intentar dotar a los robots de capacidades \"sociales\".",
+          "good_for": "Entender cómo se produce y reproduce el orden social en interacciones cotidianas.",
+          "ejemplo_aplicacion": "Social robots as designed artifacts: the impact of programming tools on “human–robot interaction”",
+          "url": "https://link.springer.com/article/10.1007/s00146-025-02743-7",
+          "resumen_hallazgos": "Se descubrió que la incapacidad de los robots para conversar naturalmente no era un fallo de diseño abstracto, sino el resultado directo de las limitaciones de las herramientas de software utilizadas, las cuales no permitían programar aspectos sutiles como el manejo de los silencios, forzando una interacción social artificial.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a dynamic arrangement of small circles in motion. The circles should be in staggered positions forming an emergent flow pattern, with occasional slight overlaps to indicate micro-coordination in real-time. The composition should have ample negative space, centered arrangement, flat monochrome line style. No shadows, no text."
+        },
+        {
+          "metodo": "Hermeneutica objetiva",
+          "descripcion": "Se analizaron transcripciones de entrevistas a familias agricultoras secuencia por secuencia, buscando no solo lo que decían explícitamente, sino las estructuras de significado ocultas y las reglas latentes que gobernaban sus decisiones sobre la herencia.",
+          "good_for": "Descubrir significados profundos y estructurados en textos o expresiones culturales.",
+          "ejemplo_aplicacion": "Understanding Farm Succession by the Objective Hermeneutics Method",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9523.2007.00442.x",
+          "resumen_hallazgos": "El análisis reveló que la sucesión de la granja no es una decisión puramente económica, sino que está regida por una \"jerarquía emocional oculta\". Para que el traspaso funcione, el sucesor debe someterse simbólicamente a la autoridad del padre, independientemente de la lógica empresarial.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Display a target-like formation of four concentric circles with varying stroke thickness. The innermost circle should be solid or have a dense pattern, representing the latent meaning. The outer rings should be progressively lighter, suggesting layers of interpretation peeling back to reveal core structure. Symmetrical, centered, with clean negative space. Flat vector style, no text."
+        },
+        {
+          "metodo": "Analisis de contenido cualitativo",
+          "descripcion": "Se recolectaron cientos de textos y artículos críticos sobre el crecimiento económico y se aplicó un sistema de codificación deductivo e inductivo para clasificar sistemáticamente los argumentos principales y agruparlos en categorías temáticas.",
+          "good_for": "Identificar y cuantificar patrones explícitos en grandes volúmenes de datos textuales.",
+          "ejemplo_aplicacion": "Economic growth as phenomenon, institution and ideology: A qualitative content analysis of the 21st century growth critique",
+          "url": "https://doi.org/10.1016/j.jclepro.2015.10.024",
+          "resumen_hallazgos": "El análisis estructurado mostró que las innumerables críticas se reducen a tres visiones fundamentales: el crecimiento como daño físico y ecológico, el crecimiento como una institución social ya obsoleta, y el crecimiento como una ideología cuasi-religiosa que ciega ante otras alternativas.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict one large, open circle acting as a sieve or container. Inside, cluster many small circles into distinct groups of varying density to show frequent themes or categories. Some small circles should be outside the large circle, representing uncoded data. Clean, flat, centered composition with high contrast. No text."
+        },
+        {
+          "metodo": "Analisis de practicas",
+          "descripcion": "El estudio observó y registró las rutinas físicas y corporales de los profesores de educación física durante sus clases, enfocándose en sus movimientos, gestos y reacciones automáticas en lugar de sus planificaciones teóricas.",
+          "good_for": "Estudiar cómo se realizan y reproducen las actividades cotidianas a través de la acción corporal y material.",
+          "ejemplo_aplicacion": "Analysis of Practices, Habitus Transformation and Reflective Processes in the Field of Physical Education",
+          "url": "https://www.researchgate.net/publication/395498166_ANALYSIS_OF_PRACTICES_HABITUS_TRANSFORMATION_AND_REFLECTIVE_PROCESSES_IN_THE_FIELD_OF_PHYSICAL_EDUCATION",
+          "resumen_hallazgos": "Se demostró que un cambio real en la enseñanza no ocurre solo con la reflexión intelectual; los profesores necesitan reentrenar físicamente sus hábitos corporales y reacciones automáticas arraigadas durante la acción misma de dar clase.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a horizontal trail of circles of slightly varying sizes and opacities. The circles should be arranged in a meandering line, with the sequence suggesting repeated, habitual steps. The first circles in the trail should be slightly darker or larger, fading to lighter/smaller, indicating embodied routine. Flat style, clean negative space, no text."
+        },
+        {
+          "metodo": "Fenomenografia",
+          "descripcion": "Se realizaron entrevistas en profundidad preguntando a los participantes cómo experimentan el proceso de buscar información, para luego comparar estas descripciones y mapear el conjunto limitado de categorías cualitativamente distintas que existen.",
+          "good_for": "Mapear las variaciones cualitativas en cómo se experimenta o entiende un fenómeno específico.",
+          "ejemplo_aplicacion": "Exploring information experiences through phenomenography",
+          "url": "https://lirgjournal.org.uk/index.php/lir/article/view/496",
+          "resumen_hallazgos": "El estudio identificó que no hay una sola forma de buscar información; las personas operan bajo categorías mentales distintas, desde quienes lo ven como una simple recolección de datos hasta quienes lo experimentan como un proceso complejo de construcción de nuevo conocimiento.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a constellation of seven equally-sized circles arranged in three distinct, separate clusters. The space between the clusters should be significant. Within each cluster, the circles should be closely grouped. This represents different ways of experiencing the same phenomenon. Symmetric negative space, flat vector, no text."
+        }
+      ],
+      "Analisis linguistico": [
+        {
+          "metodo": "Analisis de la conversacion",
+          "descripcion": "Se grabaron y transcribieron minuciosamente interacciones en el aula, analizando turno por turno cómo se estructuran los momentos en que el profesor corrige a un alumno, prestando atención a pausas, entonación y la secuencia exacta de las palabras.",
+          "good_for": "Comprender las reglas estructurales y secuenciales de las interacciones habladas en tiempo real.",
+          "ejemplo_aplicacion": "La organización secuencial de las reparaciones en interacciones entre profesor y alumnos",
+          "url": "https://www.tdx.cat/handle/10803/390950",
+          "resumen_hallazgos": "El microanálisis demostró que la corrección de errores en clase es una estructura social altamente organizada donde el profesor asume sistemáticamente la responsabilidad de \"reparar\" la conversación para mantener el flujo y el orden institucional del aula.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create an arc of five circles in sequential order. Each circle should have one or two subtle inner rings (like a bullseye) to represent repair or response mechanisms in turn-taking. The circles should be evenly spaced along a gentle curve, suggesting a structured exchange. Clean, centered, flat vector, no text."
+        },
+        {
+          "metodo": "Analisis narrativo dialogico",
+          "descripcion": "El investigador analizó las historias de vida contadas por ancianos Sami, prestando atención no solo al contenido, sino a cómo sus narraciones dialogaban y contradecían las narrativas oficiales del gobierno sobre su identidad.",
+          "good_for": "Analizar la construcción interactiva de identidades y posiciones en el diálogo.",
+          "ejemplo_aplicacion": "Struggles of being and becoming: A dialogical narrative analysis of the life stories of Sami elderly",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0890406513000236",
+          "resumen_hallazgos": "El análisis reveló una tensión: mientras los líderes Sami promueven una identidad cultural unificada, las historias personales de los ancianos son más fluidas y contradictorias, distanciándose tanto de la versión oficial del gobierno como de la nueva identidad política de su propio grupo.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict two interleaved chains of circles. Use two rows of four circles each, offset so that each circle in the top row sits between two circles in the bottom row. Slight overlaps where the circles from different rows meet, indicating interactive positioning. Minimal spacing, flat style, no text."
+        },
+        {
+          "metodo": "Analisis narrativo performativo",
+          "descripcion": "El estudio siguió cómo el dueño de un hotel en crisis creó y difundió una historia específica de \"salvación\" del negocio, analizando cómo este relato actuó en la práctica para movilizar a empleados y conseguir recursos.",
+          "good_for": "Entender cómo las historias moldean activamente identidades y realidades sociales.",
+          "ejemplo_aplicacion": "Performative Narrative and Actor-Network Theory - A Study of a Hotel in Administration",
+          "url": "https://knowledge.lancashire.ac.uk/id/eprint/24102/1/PDF_Proof%202018.PDF",
+          "resumen_hallazgos": "La narrativa del dueño no solo describió la situación, sino que funcionó como una herramienta performativa que reclutó aliados y recursos, creando una nueva red de poder capaz de desafiar y eventualmente superar la realidad económica impuesta por el banco.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a semi-circular arrangement of five circles with graduated sizes. The central circle should be the largest, with size decreasing towards the ends. The largest circle should have a thin, subtle halo or double outline to show performative emphasis. Clean, vector style, no text."
+        }
+      ],
+      "Conceptualizacion": [
+        {
+          "metodo": "Tematizacion",
+          "descripcion": "Se revisó sistemáticamente la literatura sobre investigación cualitativa en salud para identificar, agrupar y definir los pasos y criterios que hacen que el proceso de encontrar \"temas\" en los datos sea riguroso y confiable.",
+          "good_for": "Organizar datos en temas identificables sin desarrollar marcos teóricos complejos.",
+          "ejemplo_aplicacion": "Rigor metodológico en la investigación cualitativa: apuntes sobre el análisis temático",
+          "url": "https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpmesp/v34n2/1726-4642-rpmesp-34-02-00167.pdf",
+          "resumen_hallazgos": "El estudio validó que el análisis temático, cuando se realiza con rigor, es un método robusto para identificar patrones transversales en experiencias complejas (como vivir con una enfermedad), haciendo que los resultados sean accesibles y útiles para la práctica de salud.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a central, medium-sized circle surrounded by three distinct clusters of small circles. The small circles should be grouped close together but separated from other groups, as if magnetically attracted to the central circle. This represents themes clustering around a core concept. Minimal layout, flat vector, no text."
+        },
+        {
+          "metodo": "Descripcion interpretativa",
+          "descripcion": "Los investigadores, utilizando su propia experiencia clínica como lente, analizaron datos cualitativos sobre problemas médicos complejos para construir una descripción rica que fuera directamente útil para la práctica médica.",
+          "good_for": "Crear descripciones ricas y contextualizadas que capturan la complejidad de un fenómeno.",
+          "ejemplo_aplicacion": "Interpretive description: A flexible qualitative methodology for medical education research",
+          "url": "https://link.springer.com/content/pdf/10.1186/s43058-020-00070-0.pdf",
+          "resumen_hallazgos": "Al integrar la experticia clínica en el análisis, el método permitió pasar de meros datos a guías conceptuales y prácticas aplicables, respondiendo eficazmente a la necesidad de conocimiento útil en situaciones clínicas reales.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create a large circle acting as a magnifying lens. Inside this circle, show a dense, intricate cluster of many tiny circles and dots. Outside the lens, the same area should be represented by just a few, sparse dots. This shows the transformation into thick, detailed description. Centered, flat style, no text."
+        },
+        {
+          "metodo": "Teoria fundamentada straussiana",
+          "descripcion": "Se recopiló un gran corpus de noticias sobre el Rey Juan Carlos I y se aplicó un proceso formal de codificación (abierta, axial y selectiva) para abstraer sistemáticamente los datos hasta desarrollar una teoría explicativa central.",
+          "good_for": "Generar teoría formal mediante procedimientos sistemáticos y estructurados.",
+          "ejemplo_aplicacion": "La construcción de la Teoría del Tabú Real",
+          "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4975305",
+          "resumen_hallazgos": "El análisis sistemático permitió formular la teoría del \"Tabú Real\", identificando un pacto implícito de silencio en los medios que funcionó durante décadas como un escudo institucional para proteger la imagen del monarca.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a central circle (core category) surrounded by two concentric rings. The inner ring should have small dots representing open codes. The outer ring should have slightly larger dots connected by faint lines to the inner ring, showing axial coding. A single arrow points from the central circle outward, indicating selective coding. Schematic, clean, no text."
+        },
+        {
+          "metodo": "Teoria fundamentada constructivista o Analisis situacional",
+          "descripcion": "Los investigadores mapearon las interacciones y el contexto social de las salas de urgencia, analizando junto con los participantes cómo el entorno de alta presión influía en las relaciones laborales y la construcción del acoso.",
+          "good_for": "Desarrollar teoría que refleja la co-construcción del conocimiento entre investigador y participantes.",
+          "ejemplo_aplicacion": "Workplace bullying in emergency nursing: Development of a grounded theory using situational analysis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28958419/",
+          "resumen_hallazgos": "El estudio reveló que el acoso en urgencias no son solo actos individuales, sino un sistema de \"exclusión deliberada\" alimentado por el entorno de alta presión, donde el ostracismo actúa como un mecanismo de defensa grupal ante el estrés.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show three overlapping circles of different sizes, representing researcher, participants, and context. The overlaps should be clearly defined. One circle has a thicker border to indicate the researcher's agency. Within the overlaps, new, smaller circles appear, symbolizing co-constructed knowledge. Flat vector, no text."
+        }
+      ]
+    },
+    "Descripcion limitada por teoria": {
+      "Analisis naturalista": [
+        {
+          "metodo": "Análisis fenomenológico interpretativo",
+          "descripcion": "Se realizaron entrevistas en profundidad a adolescentes hijos de padres alcohólicos para explorar cómo ellos mismos dan sentido y significado a su experiencia de vida en ese entorno familiar específico.",
+          "good_for": "Explorar en profundidad experiencias humanas subjetivas y comprender el significado personal que las personas atribuyen a sus vivencias, emociones y acciones.",
+          "ejemplo_aplicacion": "Estudio de las experiencias de vida cotidiana en adolescentes, hijos de padres con consumo dependiente de alcohol",
+          "url": "https://doi.org/10.35383/cietna.v8i1.570",
+          "resumen_hallazgos": "La investigación sacó a la luz las percepciones únicas y las estrategias de adaptación que desarrollan estos adolescentes para lidiar con su realidad familiar, proporcionando información clave para diseñar intervenciones de apoyo basadas en sus experiencias reales.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create four concentric circles with a solid core. The outer circles should have fragments breaking away or being 'peeled back' to reveal inner layers, representing the search for essence in lived experience. Use subtle opacity gradients from outer (surface) to inner (core meaning). Centered, symmetrical."
+        },
+        {
+          "metodo": "Analisis narrativo",
+          "descripcion": "Se analizaron los relatos autobiográficos de pacientes en terapia, no como registros históricos, sino interpretando cómo la estructura y coherencia de la narración reflejaban su estado psíquico y sus conflictos internos.",
+          "good_for": "Revelar significados inconscientes y dinámicas psíquicas subyacentes.",
+          "ejemplo_aplicacion": "Relato autobiográfico e identidad personal: un modelo de análisis narrativo",
+          "url": "https://www.ubiobio.cl/miweb/webfile/media/267/62320205%5B1%5D.pdf",
+          "resumen_hallazgos": "Se encontró que la identidad es una narración en constante construcción. El sufrimiento psicológico surge cuando esta historia se vuelve incoherente, y el proceso terapéutico implica \"reescribir\" el relato para integrar los eventos traumáticos de forma funcional.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a linear sequence of seven circles of equal size, like beads on a string. Two of these circles (not adjacent) should have a double outline or a different inner pattern (like a swirl), representing narrative knots or turning points. The sequence suggests a coherent life story. Clean, centered, no text."
+        },
+        {
+          "metodo": "Analisis psicoanalitico",
+          "descripcion": "El autor aplicó una \"escucha flotante\" a textos escritos, prestando atención específica a las rupturas, omisiones y negaciones en el discurso para interpretar los deseos inconscientes latentes en el texto.",
+          "good_for": "Revelar significados inconscientes y dinámicas psíquicas subyacentes.",
+          "ejemplo_aplicacion": "El análisis de textos en el método psicoanalítico",
+          "url": "https://docta.ucm.es/rest/api/core/bitstreams/1634c20c-4f86-4818-b23a-88ee1688d24d/content",
+          "resumen_hallazgos": "El análisis demostró que los deseos inconscientes no están ausentes en los textos escritos, sino que están \"escondidos a plena vista\", revelándose a través de las fallas y las estructuras defensivas del propio discurso.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a large circle with a solid border. Inside, overlay a slightly smaller circle with a dashed or very light border, offset so part of it is outside the larger circle. This represents the conscious overlapping with and concealing the unconscious. Use minimal shading to suggest depth. Flat vector, no text."
+        },
+        {
+          "metodo": "Analisis tematico reflexivo",
+          "descripcion": "Las investigadoras documentaron su propio proceso de análisis, haciendo explícito cómo sus propias perspectivas y subjetividades influyeron activamente en la generación y definición de los temas en los datos.",
+          "good_for": "Desarrollar análisis temáticos profundos que reconocen explícitamente la subjetividad del investigador.",
+          "ejemplo_aplicacion": "Reflexive Thematic Analysis",
+          "url": "https://link.springer.com/content/pdf/10.1007/s11135-021-01182-y.pdf",
+          "resumen_hallazgos": "El estudio estableció que los temas no se \"descubren\" pasivamente, sino que se construyen. La subjetividad del investigador se redefinió no como un sesgo a eliminar, sino como la herramienta fundamental para lograr un análisis cualitativo profundo.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create a mosaic of nine circles arranged in a 3x3 grid. Each circle has a simple, unique internal pattern (dots, lines, crosshatch). The patterns should vary subtly, and one circle is outlined with a thicker border, representing the researcher's active role in generating themes. Flat, geometric, no text."
+        },
+        {
+          "metodo": "Analisis basado en giros post",
+          "descripcion": "Se realizó una inmersión en un colectivo alternativo, analizando sus prácticas diarias bajo la lente de teorías post-estructuralistas (como Deleuze y Guattari) para entender las tensiones entre su deseo de libertad y las estructuras de poder que intentaban evitar.",
+          "good_for": "Cuestionar supuestos establecidos y comprender partes nuevas, desconocidas o malentendidas de la sociedad.",
+          "ejemplo_aplicacion": "Guerrilla de la paz: micropolítica de transformación molecular",
+          "url": "https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/20410",
+          "resumen_hallazgos": "El análisis reveló que el grupo no vivía en una libertad absoluta, sino en una tensión constante de \"re-territorialización\", donde las necesidades materiales y las viejas estructuras de poder siempre amenazaban con reaparecer dentro de su intento de vida alternativa.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show an asymmetric arrangement of circles of various sizes. There should be no central circle; instead, circles are scattered, some overlapping, some isolated. A few circles have unconventional internal marks (like a slash or star). This represents challenging traditional assumptions. Clean, flat, no text."
+        }
+      ],
+      "Analisis linguistico": [
+        {
+          "metodo": "Analisis del discurso",
+          "descripcion": "Se rastreó la evolución histórica y el uso político del término \"Buen Vivir\" en Ecuador, examinando cómo diferentes actores (indígenas vs. Estado) utilizaron el lenguaje para construir definiciones opuestas de la realidad.",
+          "good_for": "Analizar cómo el lenguaje construye representaciones de la realidad e identidades sociales.",
+          "ejemplo_aplicacion": "Genealogía inmediata de los discursos del buen vivir en Ecuador",
+          "url": "https://base.socioeco.org/docs/el_buen_vivir.pdf",
+          "resumen_hallazgos": "El análisis demostró que el concepto original indígena de \"Buen Vivir\" fue apropiado y vaciado de contenido por el poder político estatal, transformándolo en un eslogan para legitimar una agenda de desarrollo contraria a los intereses comunitarios originales.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a central circle (speaker) from which three concentric rings of small dots emanate, like ripples. The dots in each ring should be evenly spaced but decrease in size as they move outward, showing how discourse constructs and projects representations. Flat vector, centered, no text."
+        },
+        {
+          "metodo": "Analisis del discurso critico",
+          "descripcion": "Se deconstruyeron sistemáticamente los discursos electorales de Nicolás Maduro, identificando las estrategias lingüísticas y retóricas utilizadas para establecer relaciones de poder y definir a los adversarios.",
+          "good_for": "Revelar y desafiar relaciones de poder, ideologías y desigualdades en el discurso.",
+          "ejemplo_aplicacion": "Estrategias de resistencia en los discursos electorales de Nicolás Maduro",
+          "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7316682",
+          "resumen_hallazgos": "El estudio reveló un uso sistemático de la polarización discursiva (\"nosotros\" contra \"ellos\") y argumentos puramente emocionales, diseñados estratégicamente para desviar la responsabilidad de la gestión interna hacia enemigos externos construidos por el propio discurso.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a network of seven circles connected by lines of varying thickness. One circle is significantly larger and placed centrally, with thicker connection lines radiating to others, indicating power steering discourse. Use solid lines for dominant flows and dashed lines for resisted ones. Flat, no text."
+        }
+      ],
+      "Conceptualizacion": [
+        {
+          "metodo": "Codificacion OCM",
+          "descripcion": "Se utilizaron códigos culturales estándar para analizar datos etnográficos de diversas tribus de cazadores-recolectores, buscando mapear cómo estas culturas perciben las causas y métodos del aprendizaje social.",
+          "good_for": "Mapear modelos causales subjetivos de actores sobre fenómenos complejos.",
+          "ejemplo_aplicacion": "A Cross-Cultural Analysis of Hunter-Gatherer Social Learning",
+          "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2322883121",
+          "resumen_hallazgos": "El análisis comparativo reveló un patrón universal en estas sociedades: el aprendizaje se percibe y se realiza fundamentalmente de forma horizontal y mediante la observación directa, en contraste con la dependencia de la instrucción formal vertical típica de otras culturas.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a central circle (the outcome) surrounded by five smaller circles arranged radially. Light, curved arrows point from each surrounding circle to the center, indicating perceived causal links. Some arrows are solid, some dashed, representing different strengths. Clean, schematic, no text."
+        },
+        {
+          "metodo": "Analisis funcional",
+          "descripcion": "El estudio examinó la tradición de la Guelaguetza no por su valor folclórico, sino analizando qué función práctica cumplía la ayuda mutua para el mantenimiento y la supervivencia del sistema social de la comunidad.",
+          "good_for": "Entender cómo los elementos sociales contribuyen al mantenimiento del sistema.",
+          "ejemplo_aplicacion": "Análisis funcional de la Guelaguetza agrícola",
+          "url": "https://ru.iis.sociales.unam.mx/handle/IIS/5934",
+          "resumen_hallazgos": "Se determinó que la función real de la Guelaguetza no era la caridad, sino un mecanismo de cohesión social que obligaba a una reciprocidad estricta, asegurando la supervivencia del grupo en tiempos de crisis económica o agrícola.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create three interlocking circles arranged in a triangular formation. Each circle has a small, distinct symbol inside (a gear, a heart, a shield) to represent different functions. A circular arrow encloses the entire set, indicating systemic maintenance. Flat vector, no text."
+        },
+        {
+          "metodo": "Analisis de redes sociales cualitativo",
+          "descripcion": "Se realizó un seguimiento de 30 pacientes durante un año, mapeando sus redes personales de apoyo (familia, médicos) y realizando entrevistas cualitativas para entender cómo y por qué estas relaciones cambiaban en respuesta a su estado de salud.",
+          "good_for": "Integrar análisis estructural de relaciones sociales con comprensión cualitativa de su significado y evolución en contextos de la vida real.",
+          "ejemplo_aplicacion": "Critical moments in long-term condition management: a longitudinal qualitative social network study",
+          "url": "https://doi.org/10.1177/1742395317714033",
+          "resumen_hallazgos": "El estudio longitudinal encontró una interdependencia profunda: los cambios en la salud provocan rupturas o fortalecimientos en la red social, y a su vez, la calidad de esta red determina directamente la capacidad del paciente para manejar su enfermedad día a día.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Display a constellation of circles (nodes) of different sizes clustered into two main groups. The circles within each cluster are close, with some overlapping lightly. A few circles sit between the clusters, and one circle has a double outline, indicating a key actor. Proximity implies ties. Flat, no text."
+        },
+        {
+          "metodo": "Analisis sistemico",
+          "descripcion": "El autor analizó la sociedad latinoamericana como un conjunto de subsistemas (político, económico, judicial) interconectados, observando cómo las fallas en la delimitación entre ellos generaban problemas estructurales.",
+          "good_for": "Analizar fenómenos como partes de sistemas complejos con propiedades emergentes.",
+          "ejemplo_aplicacion": "Diferenciación y contingencia en América Latina",
+          "url": "https://revintsociologia.revistas.csic.es/index.php/revintsociologia/article/download/481/502/742",
+          "resumen_hallazgos": "El análisis sistémico concluyó que la corrupción en América Latina no es un problema aislado, sino el resultado de una diferenciación insuficiente entre sistemas, donde la lógica política interfiere estructuralmente en los sistemas judicial y económico.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate three horizontal layers of circles. The top layer has two circles connected by a double-headed arrow. The middle layer has one circle that connects to both top and bottom layers. The bottom layer has three circles. This shows cascading feedback loops in a system. Schematic, clean, no text."
+        },
+        {
+          "metodo": "Analisis organizacional o institucional",
+          "descripcion": "Mediante una etnografía en una escuela católica, la investigadora observó cómo se utilizaban los símbolos y rituales religiosos en la práctica diaria para establecer jerarquías y ejercer autoridad dentro de la institución.",
+          "good_for": "Analizar la cultura, poder y dinámicas de significado dentro de las organizaciones.",
+          "ejemplo_aplicacion": "Organisational Culture in a Catholic School",
+          "url": "https://eprints.qut.edu.au/236241/1/Jeanine%2BGallagher%2Bthesis%282%29.pdf",
+          "resumen_hallazgos": "El estudio reveló que los símbolos religiosos en la escuela no eran meros adornos decorativos, sino mecanismos activos de poder utilizados para definir la jerarquía organizacional y legitimar quién tenía la autoridad para tomar decisiones.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a hierarchical tree made of circles. A large circle at the bottom as the root. Above it, two medium circles, and above each of those, two smaller circles. The top circles have tiny crowns or stars inside, indicating symbols of power. Implies cultural hierarchy. Flat vector, no text."
+        }
+      ]
+    }
+  },
+  "ANALISIS FORMAL": {
+    "Induccion comparativa desde datos abiertos": {
+      "Analisis linguistico": [
+        {
+          "metodo": "Analisis de metaforas",
+          "descripcion": "Los investigadores compararon dos métodos (manual vs. automático) para identificar las metáforas morales utilizadas en discursos presidenciales, evaluando cómo cada método afectaba la interpretación de los resultados.",
+          "good_for": "Descubrir estructuras conceptuales implícitas que organizan el pensamiento y discurso.",
+          "ejemplo_aplicacion": "How to identify moral language in presidential speeches",
+          "url": "https://www.researchgate.net/publication/311394489_How_to_identify_moral_language_in_presidential_speeches_A_comparison_between_a_social-psychological_and_a_cognitive-linguistic_approach_to_corpus_analysis",
+          "resumen_hallazgos": "El estudio demostró que la elección de la herramienta de análisis no es neutral: el análisis manual de metáforas reveló matices cruciales sobre la moralidad política que el análisis automático pasó por alto, cambiando radicalmente la interpretación final.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create two columns, each with three circles stacked vertically. The circles in the left column are filled with horizontal lines; the right column with vertical lines. A faint dashed line connects each pair, showing how one domain structures the other. Clean, mirrored layout, no text."
+        },
+        {
+          "metodo": "Analisis de recursos",
+          "descripcion": "Se examinó un corpus de productos de la cultura popular (cine, literatura) para identificar cómo se utiliza retóricamente la figura del \"caníbal\" y cómo ha cambiado su función comunicativa en el siglo XXI.",
+          "good_for": "Identificar estrategias lingüísticas específicas usadas en prácticas comunicativas.",
+          "ejemplo_aplicacion": "Canibalismo siglo XXI",
+          "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3002927",
+          "resumen_hallazgos": "El análisis de los recursos retóricos mostró que la figura del caníbal ha perdido su antiguo poder como símbolo de alteridad cultural temible, transformándose en un recurso trivializado para el consumo masivo en la forma de \"neocanibalismo\".",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a large circle (container) holding five smaller circles of varying sizes. Each small circle has a different simple pattern inside (dots, stripes, grid, etc.), representing distinct rhetorical resources. The largest resource circle is at the forefront. Flat style, centered, no text."
+        },
+        {
+          "metodo": "Modelos mentales",
+          "descripcion": "A través del análisis de dibujos y explicaciones de niños, los investigadores infirieron las estructuras cognitivas y las reglas implícitas que los niños utilizan para entender el concepto de \"carnívoro\" antes de la instrucción formal.",
+          "good_for": "Inferir estructuras de conocimiento y representaciones internas.",
+          "ejemplo_aplicacion": "Modelos mentales en los procesos iniciales de aprendizaje",
+          "url": "https://dialnet.unirioja.es/servlet/tesis?codigo=45486",
+          "resumen_hallazgos": "Se descubrió que los niños operan con modelos mentales rígidos previos (ej. \"ferocidad igual a carnívoro\"). Estos modelos actúan como barreras resistentes que impiden el aprendizaje escolar si la enseñanza no aborda explícitamente estas preconcepciones.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a central circle (core belief) connected by straight lines to five surrounding circles (related beliefs), forming a simple network. One connecting line should be dashed, representing a false but internally coherent assumption. All circles within a faint outer circle boundary representing the mind. Clean, schematic style."
+        }
+      ],
+      "Conceptualizacion": [
+        {
+          "metodo": "Induccion analitica",
+          "descripcion": "Los investigadores probaron la hipótesis de que la separación física detiene el abuso doméstico, buscando activamente \"casos negativos\" donde el abuso continuó tras la separación para refinar la teoría.",
+          "good_for": "Probar y refinar hipótesis causales mediante la búsqueda de excepciones.",
+          "ejemplo_aplicacion": "Post-Separation Abuse of Women and their Children",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3743119/",
+          "resumen_hallazgos": "El análisis de los casos negativos confirmó que la separación por sí sola no detiene el abuso. Se validó que el sistema legal falla sistemáticamente en proteger a las víctimas, refinando la teoría para incluir la necesidad de una intervención institucional efectiva post-separación.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a central circle with a solid outline. Around its perimeter, place five small 'exception' circles, each touching the main circle. The main circle's outline becomes dashed or thinner where the exceptions touch, showing refinement of the hypothesis. Clean, flat, no text."
+        },
+        {
+          "metodo": "Teoria fundamentada clasica",
+          "descripcion": "Se analizaron datos disponibles sobre familias recicladoras en Perú sin hipótesis previas, codificando inductivamente la información para descubrir cuál era su principal preocupación y cómo la resolvían.",
+          "good_for": "Explorar áreas poco estudiadas para desarrollar teorías sustantivas nuevas sobre procesos sociales. Ideal cuando se intenta explicar cómo una población resuelve una preocupación central desde la perspectiva de las mismas personas.",
+          "ejemplo_aplicacion": "How Do Waste-Picker Families Endure? Resolving Pains and Managing Support Systems as Close Relationship 'Resourcing:' A CGT with Readily Available Data",
+          "url": "https://doaj.org/article/10af5f94a47543b8b7264143d51ff8bc",
+          "resumen_hallazgos": "Emergió la teoría del \"resourcing relacional\": estas familias sobreviven en la precariedad no solo buscando materiales, sino gestionando activamente sus redes de apoyo cercano, negociando dependencias y anclando motivaciones colectivas para resistir.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a central, dark circle (core category) with five smaller circles emerging radially from it, like petals. Each petal circle is connected to the core by a thin line. This shows theory emerging directly from data with minimal preconception. Flat style, no text."
+        },
+        {
+          "metodo": "Metodo Gioia",
+          "descripcion": "Se aplicó una estructura rigurosa de análisis a entrevistas con fundadores de startups, organizando los datos en conceptos de primer orden (palabras de los informantes), temas de segundo orden (teoría) y dimensiones agregadas para garantizar la transparencia del análisis.",
+          "good_for": "Demostrar rigor en el análisis cualitativo estructurando claramente los conceptos emergentes.",
+          "ejemplo_aplicacion": "SCALING FINNISH SAAS STARTUPS: AN EMPIRICAL STUDY",
+          "url": "https://lutpub.lut.fi/bitstream/handle/10024/169783/Mastersthesis_Engblom_Esa.pdf",
+          "resumen_hallazgos": "El análisis estructurado reveló que el escalado exitoso de estas startups depende fundamentalmente de adoptar una \"mentalidad global\" desde el primer día y del uso intensivo de datos para compensar las limitaciones del mercado local.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create two concentric rings of circles. The inner ring has six small, solid circles (first-order concepts). The outer ring has six larger, hollow circles (second-order themes). Lines connect each inner circle to one outer circle, showing systematic abstraction. Schematic, no text."
+        },
+        {
+          "metodo": "Systematic combining",
+          "descripcion": "Los investigadores utilizaron un proceso iterativo y abductivo, moviéndose constantemente entre la literatura teórica sobre estrategia global y los datos empíricos de las empresas multinacionales para refinar un nuevo modelo conceptual.",
+          "good_for": "Refinar teoría existente mediante iteración constante con datos empíricos.",
+          "ejemplo_aplicacion": "Dynamic Capabilities and MNE Global Strategy: A Systematic Literature Review‐Based Novel Conceptual Framework",
+          "url": "https://eprints.whiterose.ac.uk/id/eprint/205075/",
+          "resumen_hallazgos": "La iteración entre teoría y datos permitió desarrollar un modelo que explica que el éxito global no depende de la mera posesión de recursos, sino de la \"capacidad dinámica\" de la empresa para orquestar y reconfigurar activos internos y externos simultáneamente.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate two large, intersecting circles. Label one with a faint 'T' (theory) and the other with a faint 'D' (data). At their intersection, a cluster of three small, solid circles appears. Arrows show a looping path going from T to intersection to D and back, indicating iterative abductive process. Clean, symmetric, no text."
+        },
+        {
+          "metodo": "Enfoque de Construcción de Teoría desde Casos (Eisenhardt)",
+          "descripcion": "Metodología centrada en el uso de múltiples casos como experimentos independientes para crear teoría testable, generalizable y lógicamente coherente [13], [14]. Utiliza una lógica de replicación donde cada caso sirve para confirmar o refutar patrones emergentes, empleando fuentes de datos variadas como entrevistas, archivos y observaciones [14], [15], [16].",
+          "good_for": "Responder a preguntas de 'cómo' y 'por qué' en áreas donde la teoría existente es problemática o inexistente, buscando identificar causas y relaciones entre variables [13], [17], [18].",
+          "ejemplo_aplicacion": "Finding Theory–Method Fit: A Comparison of Three Qualitative Approaches to Theory Building",
+          "url": "https://doi.org/10.1177/1056492617706029",
+          "resumen_hallazgos": "Produce teorías robustas mediante la comparación de casos 'polares' o diseños de 'carreras', integrando datos para explicar la lógica subyacente de 'por qué' ocurren los fenómenos [15], [19], [20].",
+          "image_prompt": "Minimalist diagram showing three distinct folders labeled 'Case 1', 'Case 2', and 'Case 3'. From each folder, similar highlighted patterns emerge and converge into a single, bold mathematical formula (A -> B). Clean, analytical blueprint aesthetic."
+        },
+        {
+          "metodo": "Teorización Centrada en el Diseño (Stigliani, Corley & Gioia)",
+          "descripcion": "Un enfoque prospectivo que aplica principios de diseño para crear teorías más relevantes para la práctica mediante cuatro fases: Resonancia, Reencuadre, Reimaginación y Realización [31], [32]. Introduce el concepto de 'Teoría Mínima Viable' (MVT) para probar supuestos teóricos rápidamente con usuarios reales [33], [34].",
+          "good_for": "Cerrar la brecha entre la academia y la práctica, permitiendo a los teóricos no solo explicar el pasado, sino anticipar e influir en futuros organizacionales deseados [35], [36], [37].",
+          "ejemplo_aplicacion": "Thinking Differently About Thinking Theoretically: Developing a Design-Centered Approach to Organizational Theorizing",
+          "url": "https://doi.org/10.1177/10564926251377740",
+          "resumen_hallazgos": "Fomenta la creación de prototipos teóricos que se refinan iterativamente con gerentes y académicos, priorizando la utilidad práctica y el alcance de la teoría ante desafíos sociales complejos [33], [38], [39].",
+          "image_prompt": "A futuristic architectural blueprint being actively adjusted by glowing hands. Part of the blueprint is turning into a solid, realistic structure. The text 'What If?' is subtly integrated into the light lines. High-tech, creative, and transformative style."
+        }
+      ],
+      "Metodos causales": [
+        {
+          "metodo": "Analisis cualitativo comparativo",
+          "descripcion": "Se compararon sistemáticamente diferentes zonas de riego en Uzbekistán utilizando álgebra booleana para identificar qué combinaciones de condiciones (ej. liderazgo, participación) eran necesarias o suficientes para el éxito de la gobernanza.",
+          "good_for": "Identificar combinaciones complejas de condiciones que producen un resultado.",
+          "ejemplo_aplicacion": "Institutional design in transformation: A comparative study of local irrigation governance in Uzbekistan",
+          "url": "https://doi.org/10.1016/j.envsci.2014.05.007",
+          "resumen_hallazgos": "El análisis QCA reveló \"equifinalidad\": no hay una única receta para el éxito. La gobernanza del agua funciona bien sea con un liderazgo local fuerte O con una alta participación comunitaria, pero raramente tiene éxito si faltan ambos elementos.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Display three rows of three circles each (conditions). The top row has all circles filled (leadership strong). The middle row has only the right circle filled (community participation). Both rows point to a single large outcome circle below, showing equifinal paths. Grid layout with clear pattern logic."
+        },
+        {
+          "metodo": "Process tracing",
+          "descripcion": "Se reconstruyó la secuencia detallada y cronológica de eventos dentro de una fábrica para rastrear los mecanismos causales específicos que llevaron al desarrollo de una innovación, abriendo la \"caja negra\" entre causa y efecto.",
+          "good_for": "Desempaquetar la 'caja negra' de la causalidad rastreando mecanismos específicos.",
+          "ejemplo_aplicacion": "An innovative application of event structure analysis (ESA)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34434779/",
+          "resumen_hallazgos": "El rastreo del proceso demostró que la innovación no fue un evento aislado, sino el resultado de una cadena histórica acumulativa, donde cada decisión y evento anterior habilitó lógicamente el siguiente paso en la secuencia de innovación.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a chain of five circles linked sequentially. Each circle contains a tiny, distinct icon inside (a lock, a key, a door, a path, a flag) representing steps in a causal mechanism. The links are solid lines. Clean, horizontal layout, flat, no text."
+        },
+        {
+          "metodo": "Event Structure Analysis",
+          "descripcion": "Utilizando un software especializado (ESA), los investigadores mapearon las conexiones lógicas y las dependencias temporales entre una serie compleja de eventos para entender la estructura causal profunda de un proceso de innovación.",
+          "good_for": "Analizar la lógica temporal y causal de secuencias de eventos complejas.",
+          "ejemplo_aplicacion": "An innovative application of event structure analysis (ESA)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34434779/",
+          "resumen_hallazgos": "El análisis de la estructura de eventos reveló cómo las decisiones tomadas en el pasado crearon un camino de dependencia, limitando las opciones disponibles y habilitando rutas específicas para la innovación futura.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show five circles of varying sizes arranged along a curved timeline. Connect them with arrows showing forward progression, with one arrow branching back to a previous circle, indicating how past decisions constrain future options. The largest circle represents the key innovation event. Clean, logical layout."
+        },
+        {
+          "metodo": "Análisis cualitativo longitudinal",
+          "descripcion": "El estudio realizó entrevistas repetidas a los mismos participantes (Niños del Milenio en Perú) a lo largo de 15 años (2002-2016), rastreando cómo sus vidas, salud y aspiraciones cambiaban mientras transitaban de la infancia a la adultez.",
+          "good_for": "Identificar procesos y mecanismos complejos y poco entendidos a lo largo de la vida de las personas con mucho detalle",
+          "ejemplo_aplicacion": "Hallazgos del estudio Niños del Milenio en Perú",
+          "url": "https://www.ssoar.info/ssoar/handle/document/94996",
+          "resumen_hallazgos": "El seguimiento a largo plazo permitió documentar la interacción dinámica entre las políticas sociales, la nutrición y la educación en la vida de los jóvenes, revelando cómo las condiciones tempranas y las experiencias de violencia impactan sus aspiraciones y bienestar en la adultez.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show three concentric rings, each representing a time period. Inside each ring, place a cluster of small circles. The clusters should change pattern or density from the innermost to outermost ring, showing transformation over time. Flat vector, no text."
+        },
+        {
+          "metodo": "Estrategias de Teorización de Procesos (Langley)",
+          "descripcion": "Enfoque centrado en datos longitudinales que analiza cómo fluyen y evolucionan los eventos y actividades a lo largo del tiempo [21], [22], [23]. Utiliza herramientas prácticas como el mapeo visual para conectar eventos y el 'paréntesis temporal' para descomponer flujos complejos en fases analizables [24], [25].",
+          "good_for": "Comprender fenómenos donde el tiempo es esencial y los resultados son múltiples y cambiantes, evitando simplificaciones estáticas que ignoran el esfuerzo necesario para sostener procesos organizacionales [26], [27], [23].",
+          "ejemplo_aplicacion": "Strategies for Theorizing From Process Data",
+          "url": "https://doi.org/10.1177/1056492617706029",
+          "resumen_hallazgos": "Identifica mecanismos impulsores y patrones de cambio temporales, capturando la esencia del movimiento organizacional en lugar de solo correlaciones de variables [28], [29], [30].",
+          "image_prompt": "A continuous flowing river made of light, segmented into chronological sections (temporal brackets) with glowing clock icons. The flow shows different intensities and ripples representing events and activities over time. Fluid, cinematic landscape style."
+        }
+      ]
+    },
+    "Construccion de modelos basados en tecnicas especificas": {
+      "Analisis linguistico": [
+        {
+          "metodo": "Dominios culturales",
+          "descripcion": "Se utilizaron técnicas de listado libre pidiendo a miembros de la comunidad que nombraran todo lo relacionado con la \"malaria\", para luego analizar cómo organizan y categorizan mentalmente esos conceptos.",
+          "good_for": "Entender cómo diferentes culturas organizan y categorizan el conocimiento.",
+          "ejemplo_aplicacion": "Los dominios culturales de la malaria: una aproximación a los saberes no institucionales",
+          "url": "https://revistabiomedica.org/index.php/biomedica/article/view/1629",
+          "resumen_hallazgos": "El mapeo reveló una \"enciclopedia\" local de la malaria que mezcla conocimientos médicos con creencias populares. Esta estructura cognitiva híbrida es la que determina realmente sus comportamientos de búsqueda de salud, más allá de la información biomédica oficial.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate three large, separate circles (cultural domains). Inside each, place a unique arrangement of small circles (like a star, a line, a scatter) to represent how each culture categorizes knowledge. The domains should not overlap. Flat, clean, no text."
+        },
+        {
+          "metodo": "Metodologia Q",
+          "descripcion": "Se pidió a estudiantes que ordenaran un conjunto de afirmaciones sobre el aprendizaje de idiomas en una distribución forzada (de \"más acuerdo\" a \"más desacuerdo\"), y se aplicó análisis factorial para identificar patrones de subjetividad compartidos.",
+          "good_for": "Identificar patrones compartidos de subjetividad o puntos de vista en una población.",
+          "ejemplo_aplicacion": "Aprendizaje simultáneo del inglés y el español en China",
+          "url": "https://revistas.ucm.es/index.php/CLAC/article/view/65649",
+          "resumen_hallazgos": "El análisis identificó estadísticamente dos perfiles de estudiantes con motivaciones opuestas: los \"instrumentales\" (motivados por dinero/trabajo) y los \"integradores\" (motivados por la cultura), demostrando que la motivación depende de la utilidad percibida del idioma.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a fan-shaped arc of seven circles arranged from left to right. The leftmost circle is solid black, the rightmost is hollow, and those in between graduate in fill density. This represents forced sorting along a subjective continuum. Flat, no text."
+        },
+        {
+          "metodo": "Analisis de marco",
+          "descripcion": "El estudio examinó cómo las autoridades organizaban y presentaban las reuniones ciudadanas, analizando las reglas implícitas y la estructura del evento para determinar cómo se \"encuadraba\" la participación posible.",
+          "good_for": "Analizar cómo se definen y negocian problemas sociales en el discurso público.",
+          "ejemplo_aplicacion": "The Frame Analysis of Participation: A Goffmanian Take on Democratic Interaction",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.1211",
+          "resumen_hallazgos": "El análisis demostró que, aunque se invitaba a participar, el \"marco\" impuesto por las autoridades restringía implícitamente qué se podía decir y cómo, convirtiendo la interacción en un ritual vacío que aseguraba que no se desafiara el poder establecido.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create a large circular frame. Inside, group small circles into three distinct zones, each zone separated by space. The zones represent different interpretative frames organizing the elements. The frame circle has a bold outline. Flat vector, no text."
+        },
+        {
+          "metodo": "Analisis logico",
+          "descripcion": "Los investigadores reconstruyeron la estructura argumentativa de las explicaciones dadas por los granjeros, identificando las premisas (\"si el pago es bajo...\") y las conclusiones (\"...no participo\") para evaluar la coherencia de su razonamiento.",
+          "good_for": "Evaluar la validez lógica y coherencia de argumentos y razonamientos.",
+          "ejemplo_aplicacion": "Effort for money: Farmers’ rationale for participation in agri-environmental schemes",
+          "url": "https://doi.org/10.1016/j.landusepol.2013.01.006",
+          "resumen_hallazgos": "El desglose lógico confirmó que los granjeros no actúan por altruismo ambiental ni de forma irracional, sino que siguen un cálculo racional y una lógica condicional estricta basada en la ecuación entre el esfuerzo requerido y el pago ofrecido.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show three circles in a row, increasing in size from left to right. Each circle has a logical symbol inside (e.g., '&', '∴', '→'). Arrows connect them sequentially, indicating a logical argument progression. Clean, horizontal, flat, no text."
+        },
+        {
+          "metodo": "Analisis narrativo funcional",
+          "descripcion": "Se analizaron cartas antiguas no solo por su contenido informativo, sino examinando qué función pragmática cumplían partes específicas de la estructura de la carta, como las fórmulas de saludo y despedida.",
+          "good_for": "Entender las funciones que cumplen diferentes elementos dentro de una narrativa.",
+          "ejemplo_aplicacion": "Speech Acts in Cross-Cultural Pragmatic Research",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S037821662030193X",
+          "resumen_hallazgos": "El estudio demostró que elementos aparentemente triviales como las fórmulas de despedida cumplían una función vital en la economía del relato: mantener la jerarquía social y expresar el respeto adecuado según el contexto histórico específico.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict a large circle divided into four equal pie slices. Each slice contains a different arrangement of small circles (e.g., one cluster, a line, a pair, a single circle) representing different narrative functions. The segments are distinct but part of a whole. Flat, no text."
+        },
+        {
+          "metodo": "Análisis Pragmático Cultural",
+          "descripcion": "Los investigadores analizaron el mito del \"pishtaco\" (sacagrasas) no como una simple leyenda, sino observando cómo se utiliza esta narración en la vida cotidiana andina para dar sentido a experiencias de violencia y explotación externa.",
+          "good_for": "Integrar análisis de acción situada con marcos culturales más amplios para comprender cómo las prácticas sociales concretas dan forma y son moldeadas por el contexto cultural.",
+          "ejemplo_aplicacion": "La figura del pishtaco andino como expresión simbólica de trauma social",
+          "url": "https://estudioslatinoamericanos.pl/index.php/estudios/article/download/326/254/",
+          "resumen_hallazgos": "Se descubrió que la figura del pishtaco funciona como una herramienta cultural pragmática: un mecanismo simbólico que permite a la comunidad explicar, procesar y comunicar el trauma histórico y continuo de la explotación colonial y la violencia foránea.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show three concentric circles representing cultural frameworks. Inside the innermost circle, place small dot clusters representing situated actions. Connect these dots to the outer circles with faint radial lines, showing how micro-actions gain meaning from broader cultural context. Flat, clean style with clear layering."
+        }
+      ],
+      "Analisis naturalista": [
+        {
+          "metodo": "Tecnica del incidente critico",
+          "descripcion": "Se pidió a los participantes que recordaran y describieran con detalle eventos específicos \"exitosos\" o \"fallidos\" con profesores clínicos, para identificar conductas concretas en lugar de opiniones generales.",
+          "good_for": "Identificar comportamientos efectivos o problemáticos mediante análisis de eventos significativos.",
+          "ejemplo_aplicacion": "Attributes of an effective clinical teacher",
+          "url": "https://ecommons.aku.edu/cgi/viewcontent.cgi?article=1001&context=pakistan_fhs_mc_fam_med",
+          "resumen_hallazgos": "El análisis de estos incidentes clave permitió identificar una lista de comportamientos prácticos y específicos que definen la excelencia docente en la realidad clínica, superando las descripciones teóricas generales sobre la enseñanza.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Illustrate a field of many small, light grey circles. Among them, three circles are significantly larger, with bold double outlines and solid black fill, standing out as critical incidents. The contrast should be stark. Flat, scattered arrangement, no text."
+        }
+      ],
+      "Conceptualizacion": [
+        {
+          "metodo": "Repertory grid",
+          "descripcion": "Mediante entrevistas estructuradas, se pidió a los ciudadanos que compararan diferentes figuras o entidades políticas para elicitar los \"constructos personales\" (las lentes mentales) que utilizan para evaluar la política.",
+          "good_for": "Mapear sistemas de significado personal y constructos individuales.",
+          "ejemplo_aplicacion": "Innovating Empirical Research on Legitimacy: Repertory Grid Analysis",
+          "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.832250/full",
+          "resumen_hallazgos": "El mapeo de constructos reveló una paradoja: los ciudadanos con mayor conocimiento político perciben menor legitimidad en la UE, precisamente porque sus estándares mentales para evaluar la democracia son más exigentes y críticos.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Create a 4x4 grid of circles. Fill the circles in each row with a gradient from dark to light, representing ratings for a construct. The grid should be neat, with rows and columns clearly aligned. Flat vector, no text."
+        },
+        {
+          "metodo": "Antropologia comparada",
+          "descripcion": "Se realizó una comparación sistemática del tratamiento cultural del canibalismo en diversas sociedades históricas frente a su representación en la cultura occidental contemporánea para identificar cambios en su significado social.",
+          "good_for": "Identificar patrones universales y variaciones culturales en instituciones sociales.",
+          "ejemplo_aplicacion": "Canibalismo siglo XXI. La actualidad popular de una vieja preocupación antropológica",
+          "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3002927",
+          "resumen_hallazgos": "La comparación evidenció una profunda transformación: lo que en otras culturas era un complejo ritual social o religioso, en el occidente actual se ha reducido a un simple tropo de terror para el consumo en medios de comunicación.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Show a row of three large circles, each representing a different culture. Inside each large circle, place the same set of four small circles but in different spatial arrangements (e.g., clustered, linear, scattered) to show cultural variation in organizing institutions. Flat, aligned, no text."
+        },
+        {
+          "metodo": "Historia comparada",
+          "descripcion": "Se contrastó la trayectoria histórica y el significado original del concepto indígena de \"Buen Vivir\" con la historia de su adopción e implementación posterior en la política estatal ecuatoriana.",
+          "good_for": "Identificar configuraciones causales en procesos históricos mediante comparación sistemática.",
+          "ejemplo_aplicacion": "Genealogía inmediata de los discursos del buen vivir en Ecuador",
+          "url": "https://base.socioeco.org/docs/el_buen_vivir.pdf",
+          "resumen_hallazgos": "La comparación histórica identificó un punto de divergencia crucial donde el Estado cooptó el término. Se demostró cómo el significado original fue transformado para legitimar una agenda desarrollista estatal que contradecía las raíces del concepto.",
+          "image_prompt": "Minimalistic vector illustration using only round symbols: Depict two parallel horizontal lines, each with four circles placed at corresponding points. The circles on the top line are filled with stripes, those on the bottom line with dots. Arrows connect corresponding circles, indicating comparative analysis of historical trajectories. Flat, no text."
+        }
+      ]
+    }
+  }
+}

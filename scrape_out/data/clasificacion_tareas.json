@@ -1,0 +1,8118 @@
+{
+ "fuente": "deepseek-ai/DeepSeek-V4-Pro-0813",
+ "metodos": {
+  "etnometodologia": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "hermeneutica-objetiva": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "B"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-de-contenido-cualitativo": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-de-practicas": {
+   "1": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NAR",
+    "datos": [],
+    "narrativa": "CAU",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "fenomenografia": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "NC",
+    "datos": [
+     "ENC",
+     "ENT",
+     "OTR"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   }
+  },
+  "analisis-de-la-conversacion": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-narrativo-dialogico": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NAR",
+    "datos": [],
+    "narrativa": "BIO",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "EVP",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-narrativo-performativo": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS",
+     "DOC",
+     "DIG"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "DIG",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NAR",
+    "datos": [],
+    "narrativa": "CAU",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NAR",
+    "datos": [],
+    "narrativa": "HIS",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "tematizacion": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "descripcion-interpretativa": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "teoria-fundamentada-straussiana": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CAL",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "teoria-fundamentada-constructivista-o-analisis-situacional": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "DIG"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "AVI",
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-fenomenologico-interpretativo": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "17": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-narrativo": {
+   "1": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-psicoanalitico": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-tematico-reflexivo": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "31": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "32": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "33": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "34": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "35": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "36": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-basado-en-giros-post": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-del-discurso": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-del-discurso-critico": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "DOC",
+     "DIG"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "AVI",
+     "DIG"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   }
+  },
+  "codificacion-ocm": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-funcional": {
+   "1": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-de-redes-sociales-cualitativo": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "CNV",
+    "datos": [
+     "AVI",
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "DIG"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-organizacional-o-institucional": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-de-metaforas": {
+   "1": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-de-recursos": {
+   "1": {
+    "tipo": "NC",
+    "datos": [
+     "LIT",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "DOC",
+     "LIT",
+     "AVI",
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "13": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   }
+  },
+  "modelos-mentales": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "16": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "DED",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "induccion-analitica": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "31": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "teoria-fundamentada-clasica": {
+   "1": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "6": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "metodo-gioia": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "systematic-combining": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CAL",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CAL",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CAL",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "EVP",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "enfoque-de-construccion-de-teoria-desde-casos-eisenhardt": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "teorizacion-centrada-en-el-diseno-stigliani-corley-gioia": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-cualitativo-comparativo": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "OTR"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "CAL",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "process-tracing": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "DIA",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "31": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "32": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "event-structure-analysis": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "31": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-cualitativo-longitudinal": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "10": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "M"
+   },
+   "12": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "estrategias-de-teorizacion-de-procesos-langley": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS",
+     "DOC",
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "OBS",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "31": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "32": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "33": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "34": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "35": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "36": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "dominios-culturales": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "EVP",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "metodologia-q": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "CMP",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-logico": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ADE",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "DOC",
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-narrativo-funcional": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "DIG"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "EVP",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "CAS",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "analisis-pragmatico-cultural": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [
+     "DOC",
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [
+     "DOC",
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "MEM",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NC",
+    "datos": [
+     "OBS",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "NC",
+    "datos": [
+     "ENT",
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "tecnica-del-incidente-critico": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "NC",
+    "datos": [
+     "OTR"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "ENC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CNV",
+    "datos": [
+     "AVI"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "EVP",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "repertory-grid": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "NC",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "antropologia-comparada": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "ETI",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "NC",
+    "datos": [
+     "DOC"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "ESQ",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "NC",
+    "datos": [
+     "OBS"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "NC",
+    "datos": [
+     "ENT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   }
+  },
+  "historia-comparada": {
+   "1": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "2": {
+    "tipo": "ADE",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "3": {
+    "tipo": "CNV",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "4": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "5": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "6": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "7": {
+    "tipo": "CNV",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "8": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "9": {
+    "tipo": "ADE",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "10": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "11": {
+    "tipo": "CAL",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "12": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "13": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "14": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "15": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "16": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "17": {
+    "tipo": "IND",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "18": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "19": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "20": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "21": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "22": {
+    "tipo": "ABD",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "23": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "24": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "25": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "26": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "27": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   },
+   "28": {
+    "tipo": "CAL",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "29": {
+    "tipo": "NC",
+    "datos": [
+     "LIT"
+    ],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "30": {
+    "tipo": "DED",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "NA",
+    "conf": "A"
+   },
+   "31": {
+    "tipo": "ARG",
+    "datos": [],
+    "narrativa": "NA",
+    "tono": "CIE",
+    "conf": "A"
+   }
+  }
+ }
+}

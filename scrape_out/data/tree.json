@@ -1,0 +1,3715 @@
+[
+  {
+    "path": [
+      7
+    ],
+    "depth": 1,
+    "element": {
+      "tag": "div",
+      "text": "Analisis interno\n\nDescompone la realidad en partes para aprender de la fragmentación.\n\n24 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Descripcion pura",
+      "Describe fenómenos directamente sin filtros teóricos previos.",
+      "12 métodos en 3 categorías",
+      "Descripcion limitada por teoria",
+      "Utiliza marcos teóricos específicos para guiar la descripción.",
+      "12 métodos en 3 categorías"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11
+    ],
+    "depth": 1,
+    "element": {
+      "tag": "div",
+      "text": "Analisis formal\n\nSintetiza patrones para revelar estructuras formales y sistemáticas.\n\n24 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Induccion comparativa desde datos abiertos",
+      "Compara casos para identificar patrones emergentes.",
+      "14 métodos en 3 categorías",
+      "Construccion de modelos basados en tecnicas especificas",
+      "Aplica técnicas formales para modelar estructuras sociales.",
+      "10 métodos en 3 categorías"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      18
+    ],
+    "depth": 1,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      7
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "button",
+      "text": "Inicio",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Metodologías Cualitativas",
+      "Explora 48 métodos especializados de análisis cualitativo",
+      "24 Métodos",
+      "Analisis formal",
+      "Sintetiza patrones para revelar estructuras formales y sistemáticas.",
+      "24 Métodos"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "div",
+      "text": "Descripcion pura\n\nDescribe fenómenos directamente sin filtros teóricos previos.\n\n12 métodos en 3 categorías",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis naturalista",
+      "Examina fenómenos en contextos naturales sin imposición teórica.",
+      "5 Métodos",
+      "Analisis linguistico",
+      "Analiza el uso del lenguaje en contextos reales.",
+      "3 Métodos",
+      "Conceptualizacion",
+      "Identifica temas y conceptos que emergen directamente de los datos.",
+      "4 Métodos"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "div",
+      "text": "Descripcion limitada por teoria\n\nUtiliza marcos teóricos específicos para guiar la descripción.\n\n12 métodos en 3 categor",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis naturalista",
+      "Examina fenómenos en contextos naturales sin imposición teórica.",
+      "5 Métodos",
+      "Analisis linguistico",
+      "Analiza el uso del lenguaje en contextos reales.",
+      "2 Métodos",
+      "Conceptualizacion",
+      "Identifica temas y conceptos que emergen directamente de los datos.",
+      "5 Métodos"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      17
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "div",
+      "text": "Induccion comparativa desde datos abiertos\n\nCompara casos para identificar patrones emergentes.\n\n14 métodos en 3 categor",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis linguistico",
+      "Analiza el uso del lenguaje en contextos reales.",
+      "3 Métodos",
+      "Conceptualizacion",
+      "Identifica temas y conceptos que emergen directamente de los datos.",
+      "6 Métodos",
+      "Metodos causales",
+      "5 Métodos"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "div",
+      "text": "Construccion de modelos basados en tecnicas especificas\n\nAplica técnicas formales para modelar estructuras sociales.\n\n10",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis linguistico",
+      "Analiza el uso del lenguaje en contextos reales.",
+      "6 Métodos",
+      "Analisis naturalista",
+      "Examina fenómenos en contextos naturales sin imposición teórica.",
+      "1 Métodos",
+      "Conceptualizacion",
+      "Identifica temas y conceptos que emergen directamente de los datos.",
+      "3 Métodos"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      17
+    ],
+    "depth": 2,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis naturalista\n\nExamina fenómenos en contextos naturales sin imposición teórica.\n\n5 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Etnometodologia",
+      "El investigador se sumergió en el laboratorio con los ingenieros robóticos, observando y registrando en tiempo real las prácticas cotidianas de programación y las decisiones técnicas que tomaban al intentar dotar a los robots de capacidades \"sociales\".",
+      "Ver detalles",
+      "Hermeneutica objetiva",
+      "Se analizaron transcripciones de entrevistas a familias agricultoras secuencia por secuencia, buscando no solo lo que decían explícitamente, sino las estructuras de significado ocultas y las reglas latentes que gobernaban sus decisiones sobre la herencia.",
+      "Ver detalles",
+      "Analisis de contenido cualitativo",
+      "Se recolectaron cientos de textos y artículos críticos sobre el crecimiento económico y se aplicó un sistema de codificación deductivo e inductivo para clasificar sistemáticamente los argumentos principales y agruparlos en categorías temáticas.",
+      "Ver detalles",
+      "Analisis de practicas",
+      "El estudio observó y registró las rutinas físicas y corporales de los profesores de educación física durante sus clases, enfocándose en sus movimientos, gestos y reacciones automáticas en lugar de sus planificaciones teóricas.",
+      "Ver detalles",
+      "Fenomenografia",
+      "Se realizaron entrevistas en profundidad preguntando a los participantes cómo experimentan el proceso de buscar información, para luego comparar estas descripciones y mapear el conjunto limitado de categorías cualitativamente distintas que existen.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis linguistico\n\nAnaliza el uso del lenguaje en contextos reales.\n\n3 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis de la conversacion",
+      "Se grabaron y transcribieron minuciosamente interacciones en el aula, analizando turno por turno cómo se estructuran los momentos en que el profesor corrige a un alumno, prestando atención a pausas, entonación y la secuencia exacta de las palabras.",
+      "Ver detalles",
+      "Analisis narrativo dialogico",
+      "El investigador analizó las historias de vida contadas por ancianos Sami, prestando atención no solo al contenido, sino a cómo sus narraciones dialogaban y contradecían las narrativas oficiales del gobierno sobre su identidad.",
+      "Ver detalles",
+      "Analisis narrativo performativo",
+      "El estudio siguió cómo el dueño de un hotel en crisis creó y difundió una historia específica de \"salvación\" del negocio, analizando cómo este relato actuó en la práctica para movilizar a empleados y conseguir recursos.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Conceptualizacion\n\nIdentifica temas y conceptos que emergen directamente de los datos.\n\n4 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Tematizacion",
+      "Se revisó sistemáticamente la literatura sobre investigación cualitativa en salud para identificar, agrupar y definir los pasos y criterios que hacen que el proceso de encontrar \"temas\" en los datos sea riguroso y confiable.",
+      "Ver detalles",
+      "Descripcion interpretativa",
+      "Los investigadores, utilizando su propia experiencia clínica como lente, analizaron datos cualitativos sobre problemas médicos complejos para construir una descripción rica que fuera directamente útil para la práctica médica.",
+      "Ver detalles",
+      "Teoria fundamentada straussiana",
+      "Se recopiló un gran corpus de noticias sobre el Rey Juan Carlos I y se aplicó un proceso formal de codificación (abierta, axial y selectiva) para abstraer sistemáticamente los datos hasta desarrollar una teoría explicativa central.",
+      "Ver detalles",
+      "Teoria fundamentada constructivista o Analisis situacional",
+      "Los investigadores mapearon las interacciones y el contexto social de las salas de urgencia, analizando junto con los participantes cómo el entorno de alta presión influía en las relaciones laborales y la construcción del acoso.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      21
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis naturalista\n\nExamina fenómenos en contextos naturales sin imposición teórica.\n\n5 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Análisis fenomenológico interpretativo",
+      "Se realizaron entrevistas en profundidad a adolescentes hijos de padres alcohólicos para explorar cómo ellos mismos dan sentido y significado a su experiencia de vida en ese entorno familiar específico.",
+      "Ver detalles",
+      "Analisis narrativo",
+      "Se analizaron los relatos autobiográficos de pacientes en terapia, no como registros históricos, sino interpretando cómo la estructura y coherencia de la narración reflejaban su estado psíquico y sus conflictos internos.",
+      "Ver detalles",
+      "Analisis psicoanalitico",
+      "El autor aplicó una \"escucha flotante\" a textos escritos, prestando atención específica a las rupturas, omisiones y negaciones en el discurso para interpretar los deseos inconscientes latentes en el texto.",
+      "Ver detalles",
+      "Analisis tematico reflexivo",
+      "Las investigadoras documentaron su propio proceso de análisis, haciendo explícito cómo sus propias perspectivas y subjetividades influyeron activamente en la generación y definición de los temas en los datos.",
+      "Ver detalles",
+      "Analisis basado en giros post",
+      "Se realizó una inmersión en un colectivo alternativo, analizando sus prácticas diarias bajo la lente de teorías post-estructuralistas (como Deleuze y Guattari) para entender las tensiones entre su deseo de libertad y las estructuras de poder que intentaban evitar.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      14
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis linguistico\n\nAnaliza el uso del lenguaje en contextos reales.\n\n2 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis del discurso",
+      "Se rastreó la evolución histórica y el uso político del término \"Buen Vivir\" en Ecuador, examinando cómo diferentes actores (indígenas vs. Estado) utilizaron el lenguaje para construir definiciones opuestas de la realidad.",
+      "Ver detalles",
+      "Analisis del discurso critico",
+      "Se deconstruyeron sistemáticamente los discursos electorales de Nicolás Maduro, identificando las estrategias lingüísticas y retóricas utilizadas para establecer relaciones de poder y definir a los adversarios.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Conceptualizacion\n\nIdentifica temas y conceptos que emergen directamente de los datos.\n\n5 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Codificacion OCM",
+      "Se utilizaron códigos culturales estándar para analizar datos etnográficos de diversas tribus de cazadores-recolectores, buscando mapear cómo estas culturas perciben las causas y métodos del aprendizaje social.",
+      "Ver detalles",
+      "Analisis funcional",
+      "El estudio examinó la tradición de la Guelaguetza no por su valor folclórico, sino analizando qué función práctica cumplía la ayuda mutua para el mantenimiento y la supervivencia del sistema social de la comunidad.",
+      "Ver detalles",
+      "Analisis de redes sociales cualitativo",
+      "Se realizó un seguimiento de 30 pacientes durante un año, mapeando sus redes personales de apoyo (familia, médicos) y realizando entrevistas cualitativas para entender cómo y por qué estas relaciones cambiaban en respuesta a su estado de salud.",
+      "Ver detalles",
+      "Analisis sistemico",
+      "El autor analizó la sociedad latinoamericana como un conjunto de subsistemas (político, económico, judicial) interconectados, observando cómo las fallas en la delimitación entre ellos generaban problemas estructurales.",
+      "Ver detalles",
+      "Analisis organizacional o institucional",
+      "Mediante una etnografía en una escuela católica, la investigadora observó cómo se utilizaban los símbolos y rituales religiosos en la práctica diaria para establecer jerarquías y ejercer autoridad dentro de la institución.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      21
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis linguistico\n\nAnaliza el uso del lenguaje en contextos reales.\n\n3 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis de metaforas",
+      "Los investigadores compararon dos métodos (manual vs. automático) para identificar las metáforas morales utilizadas en discursos presidenciales, evaluando cómo cada método afectaba la interpretación de los resultados.",
+      "Ver detalles",
+      "Analisis de recursos",
+      "Se examinó un corpus de productos de la cultura popular (cine, literatura) para identificar cómo se utiliza retóricamente la figura del \"caníbal\" y cómo ha cambiado su función comunicativa en el siglo XXI.",
+      "Ver detalles",
+      "Modelos mentales",
+      "A través del análisis de dibujos y explicaciones de niños, los investigadores infirieron las estructuras cognitivas y las reglas implícitas que los niños utilizan para entender el concepto de \"carnívoro\" antes de la instrucción formal.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Conceptualizacion\n\nIdentifica temas y conceptos que emergen directamente de los datos.\n\n6 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Induccion analitica",
+      "Los investigadores probaron la hipótesis de que la separación física detiene el abuso doméstico, buscando activamente \"casos negativos\" donde el abuso continuó tras la separación para refinar la teoría.",
+      "Ver detalles",
+      "Teoria fundamentada clasica",
+      "Se analizaron datos disponibles sobre familias recicladoras en Perú sin hipótesis previas, codificando inductivamente la información para descubrir cuál era su principal preocupación y cómo la resolvían.",
+      "Ver detalles",
+      "Metodo Gioia",
+      "Se aplicó una estructura rigurosa de análisis a entrevistas con fundadores de startups, organizando los datos en conceptos de primer orden (palabras de los informantes), temas de segundo orden (teoría) y dimensiones agregadas para garantizar la transparencia del análisis.",
+      "Ver detalles",
+      "Systematic combining",
+      "Los investigadores utilizaron un proceso iterativo y abductivo, moviéndose constantemente entre la literatura teórica sobre estrategia global y los datos empíricos de las empresas multinacionales para refinar un nuevo modelo conceptual.",
+      "Ver detalles",
+      "Enfoque de Construcción de Teoría desde Casos (Eisenhardt)",
+      "Metodología centrada en el uso de múltiples casos como experimentos independientes para crear teoría testable, generalizable y lógicamente coherente [13], [14]. Utiliza una lógica de replicación donde cada caso sirve para confirmar o refutar patrones emergentes, empleando fuentes de datos variadas como entrevistas, archivos y observaciones [14], [15], [16].",
+      "Ver detalles",
+      "Teorización Centrada en el Diseño (Stigliani, Corley & Gioia)",
+      "Un enfoque prospectivo que aplica principios de diseño para crear teorías más relevantes para la práctica mediante cuatro fases: Resonancia, Reencuadre, Reimaginación y Realización [31], [32]. Introduce el concepto de 'Teoría Mínima Viable' (MVT) para probar supuestos teóricos rápidamente con usuarios reales [33], [34].",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Metodos causales\n\n5 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Analisis cualitativo comparativo",
+      "Se compararon sistemáticamente diferentes zonas de riego en Uzbekistán utilizando álgebra booleana para identificar qué combinaciones de condiciones (ej. liderazgo, participación) eran necesarias o suficientes para el éxito de la gobernanza.",
+      "Ver detalles",
+      "Process tracing",
+      "Se reconstruyó la secuencia detallada y cronológica de eventos dentro de una fábrica para rastrear los mecanismos causales específicos que llevaron al desarrollo de una innovación, abriendo la \"caja negra\" entre causa y efecto.",
+      "Ver detalles",
+      "Event Structure Analysis",
+      "Utilizando un software especializado (ESA), los investigadores mapearon las conexiones lógicas y las dependencias temporales entre una serie compleja de eventos para entender la estructura causal profunda de un proceso de innovación.",
+      "Ver detalles",
+      "Análisis cualitativo longitudinal",
+      "El estudio realizó entrevistas repetidas a los mismos participantes (Niños del Milenio en Perú) a lo largo de 15 años (2002-2016), rastreando cómo sus vidas, salud y aspiraciones cambiaban mientras transitaban de la infancia a la adultez.",
+      "Ver detalles",
+      "Estrategias de Teorización de Procesos (Langley)",
+      "Enfoque centrado en datos longitudinales que analiza cómo fluyen y evolucionan los eventos y actividades a lo largo del tiempo [21], [22], [23]. Utiliza herramientas prácticas como el mapeo visual para conectar eventos y el 'paréntesis temporal' para descomponer flujos complejos en fases analizables [24], [25].",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      21
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis linguistico\n\nAnaliza el uso del lenguaje en contextos reales.\n\n6 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Dominios culturales",
+      "Se utilizaron técnicas de listado libre pidiendo a miembros de la comunidad que nombraran todo lo relacionado con la \"malaria\", para luego analizar cómo organizan y categorizan mentalmente esos conceptos.",
+      "Ver detalles",
+      "Metodologia Q",
+      "Se pidió a estudiantes que ordenaran un conjunto de afirmaciones sobre el aprendizaje de idiomas en una distribución forzada (de \"más acuerdo\" a \"más desacuerdo\"), y se aplicó análisis factorial para identificar patrones de subjetividad compartidos.",
+      "Ver detalles",
+      "Analisis de marco",
+      "El estudio examinó cómo las autoridades organizaban y presentaban las reuniones ciudadanas, analizando las reglas implícitas y la estructura del evento para determinar cómo se \"encuadraba\" la participación posible.",
+      "Ver detalles",
+      "Analisis logico",
+      "Los investigadores reconstruyeron la estructura argumentativa de las explicaciones dadas por los granjeros, identificando las premisas (\"si el pago es bajo...\") y las conclusiones (\"...no participo\") para evaluar la coherencia de su razonamiento.",
+      "Ver detalles",
+      "Analisis narrativo funcional",
+      "Se analizaron cartas antiguas no solo por su contenido informativo, sino examinando qué función pragmática cumplían partes específicas de la estructura de la carta, como las fórmulas de saludo y despedida.",
+      "Ver detalles",
+      "Análisis Pragmático Cultural",
+      "Los investigadores analizaron el mito del \"pishtaco\" (sacagrasas) no como una simple leyenda, sino observando cómo se utiliza esta narración en la vida cotidiana andina para dar sentido a experiencias de violencia y explotación externa.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      14
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Analisis naturalista\n\nExamina fenómenos en contextos naturales sin imposición teórica.\n\n1 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Tecnica del incidente critico",
+      "Se pidió a los participantes que recordaran y describieran con detalle eventos específicos \"exitosos\" o \"fallidos\" con profesores clínicos, para identificar conductas concretas en lugar de opiniones generales.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "div",
+      "text": "Conceptualizacion\n\nIdentifica temas y conceptos que emergen directamente de los datos.\n\n3 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Repertory grid",
+      "Mediante entrevistas estructuradas, se pidió a los ciudadanos que compararan diferentes figuras o entidades políticas para elicitar los \"constructos personales\" (las lentes mentales) que utilizan para evaluar la política.",
+      "Ver detalles",
+      "Antropologia comparada",
+      "Se realizó una comparación sistemática del tratamiento cultural del canibalismo en diversas sociedades históricas frente a su representación en la cultura occidental contemporánea para identificar cambios en su significado social.",
+      "Ver detalles",
+      "Historia comparada",
+      "Se contrastó la trayectoria histórica y el significado original del concepto indígena de \"Buen Vivir\" con la historia de su adopción e implementación posterior en la política estatal ecuatoriana.",
+      "Ver detalles"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      21
+    ],
+    "depth": 3,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Etnometodologia\n\nEl investigador se sumergió en el laboratorio con los ingenieros robóticos, observando y registrando en",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Se descubrió que la incapacidad de los robots para conversar naturalmente no era un fallo de diseño abstracto, sino el resultado directo de las limitaciones de las herramientas de software utilizadas, las cuales no permitían programar aspectos sutiles como el manejo de los silencios, forzando una interacción social artificial.",
+      "FUENTE",
+      "Social robots as designed artifacts: the impact of programming tools on “human–robot interaction”",
+      "IDEAL PARA:",
+      "Entender cómo se produce y reproduce el orden social en interacciones cotidianas."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Etnometodologia ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Hermeneutica objetiva\n\nSe analizaron transcripciones de entrevistas a familias agricultoras secuencia por secuencia, bus",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis reveló que la sucesión de la granja no es una decisión puramente económica, sino que está regida por una \"jerarquía emocional oculta\". Para que el traspaso funcione, el sucesor debe someterse simbólicamente a la autoridad del padre, independientemente de la lógica empresarial.",
+      "FUENTE",
+      "Understanding Farm Succession by the Objective Hermeneutics Method",
+      "IDEAL PARA:",
+      "Descubrir significados profundos y estructurados en textos o expresiones culturales."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Hermeneutica objetiva ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de contenido cualitativo\n\nSe recolectaron cientos de textos y artículos críticos sobre el crecimiento económico",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis estructurado mostró que las innumerables críticas se reducen a tres visiones fundamentales: el crecimiento como daño físico y ecológico, el crecimiento como una institución social ya obsoleta, y el crecimiento como una ideología cuasi-religiosa que ciega ante otras alternativas.",
+      "FUENTE",
+      "Economic growth as phenomenon, institution and ideology: A qualitative content analysis of the 21st century growth critique",
+      "IDEAL PARA:",
+      "Identificar y cuantificar patrones explícitos en grandes volúmenes de datos textuales."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de contenido cualitativo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de practicas\n\nEl estudio observó y registró las rutinas físicas y corporales de los profesores de educación fís",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Se demostró que un cambio real en la enseñanza no ocurre solo con la reflexión intelectual; los profesores necesitan reentrenar físicamente sus hábitos corporales y reacciones automáticas arraigadas durante la acción misma de dar clase.",
+      "FUENTE",
+      "Analysis of Practices, Habitus Transformation and Reflective Processes in the Field of Physical Education",
+      "IDEAL PARA:",
+      "Estudiar cómo se realizan y reproducen las actividades cotidianas a través de la acción corporal y material."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de practicas ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      30
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Fenomenografia\n\nSe realizaron entrevistas en profundidad preguntando a los participantes cómo experimentan el proceso de",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio identificó que no hay una sola forma de buscar información; las personas operan bajo categorías mentales distintas, desde quienes lo ven como una simple recolección de datos hasta quienes lo experimentan como un proceso complejo de construcción de nuevo conocimiento.",
+      "FUENTE",
+      "Exploring information experiences through phenomenography",
+      "IDEAL PARA:",
+      "Mapear las variaciones cualitativas en cómo se experimenta o entiende un fenómeno específico."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      31
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Fenomenografia ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      12,
+      37
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de la conversacion\n\nSe grabaron y transcribieron minuciosamente interacciones en el aula, analizando turno por ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El microanálisis demostró que la corrección de errores en clase es una estructura social altamente organizada donde el profesor asume sistemáticamente la responsabilidad de \"reparar\" la conversación para mantener el flujo y el orden institucional del aula.",
+      "FUENTE",
+      "La organización secuencial de las reparaciones en interacciones entre profesor y alumnos",
+      "IDEAL PARA:",
+      "Comprender las reglas estructurales y secuenciales de las interacciones habladas en tiempo real."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de la conversacion ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis narrativo dialogico\n\nEl investigador analizó las historias de vida contadas por ancianos Sami, prestando atenci",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis reveló una tensión: mientras los líderes Sami promueven una identidad cultural unificada, las historias personales de los ancianos son más fluidas y contradictorias, distanciándose tanto de la versión oficial del gobierno como de la nueva identidad política de su propio grupo.",
+      "FUENTE",
+      "Struggles of being and becoming: A dialogical narrative analysis of the life stories of Sami elderly",
+      "IDEAL PARA:",
+      "Analizar la construcción interactiva de identidades y posiciones en el diálogo."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis narrativo dialogico ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis narrativo performativo\n\nEl estudio siguió cómo el dueño de un hotel en crisis creó y difundió una historia espe",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "La narrativa del dueño no solo describió la situación, sino que funcionó como una herramienta performativa que reclutó aliados y recursos, creando una nueva red de poder capaz de desafiar y eventualmente superar la realidad económica impuesta por el banco.",
+      "FUENTE",
+      "Performative Narrative and Actor-Network Theory - A Study of a Hotel in Administration",
+      "IDEAL PARA:",
+      "Entender cómo las historias moldean activamente identidades y realidades sociales."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis narrativo performativo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      14,
+      29
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Tematizacion\n\nSe revisó sistemáticamente la literatura sobre investigación cualitativa en salud para identificar, agrupa",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio validó que el análisis temático, cuando se realiza con rigor, es un método robusto para identificar patrones transversales en experiencias complejas (como vivir con una enfermedad), haciendo que los resultados sean accesibles y útiles para la práctica de salud.",
+      "FUENTE",
+      "Rigor metodológico en la investigación cualitativa: apuntes sobre el análisis temático",
+      "IDEAL PARA:",
+      "Organizar datos en temas identificables sin desarrollar marcos teóricos complejos."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Tematizacion ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Descripcion interpretativa\n\nLos investigadores, utilizando su propia experiencia clínica como lente, analizaron datos cu",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Al integrar la experticia clínica en el análisis, el método permitió pasar de meros datos a guías conceptuales y prácticas aplicables, respondiendo eficazmente a la necesidad de conocimiento útil en situaciones clínicas reales.",
+      "FUENTE",
+      "Interpretive description: A flexible qualitative methodology for medical education research",
+      "IDEAL PARA:",
+      "Crear descripciones ricas y contextualizadas que capturan la complejidad de un fenómeno."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Descripcion interpretativa ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Teoria fundamentada straussiana\n\nSe recopiló un gran corpus de noticias sobre el Rey Juan Carlos I y se aplicó un proces",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis sistemático permitió formular la teoría del \"Tabú Real\", identificando un pacto implícito de silencio en los medios que funcionó durante décadas como un escudo institucional para proteger la imagen del monarca.",
+      "FUENTE",
+      "La construcción de la Teoría del Tabú Real",
+      "IDEAL PARA:",
+      "Generar teoría formal mediante procedimientos sistemáticos y estructurados."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Teoria fundamentada straussiana ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Teoria fundamentada constructivista o Analisis situacional\n\nLos investigadores mapearon las interacciones y el contexto ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio reveló que el acoso en urgencias no son solo actos individuales, sino un sistema de \"exclusión deliberada\" alimentado por el entorno de alta presión, donde el ostracismo actúa como un mecanismo de defensa grupal ante el estrés.",
+      "FUENTE",
+      "Workplace bullying in emergency nursing: Development of a grounded theory using situational analysis",
+      "IDEAL PARA:",
+      "Desarrollar teoría que refleja la co-construcción del conocimiento entre investigador y participantes."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Teoria fundamentada constructivista o Analisis situacional ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      10,
+      16,
+      33
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Análisis fenomenológico interpretativo\n\nSe realizaron entrevistas en profundidad a adolescentes hijos de padres alcohóli",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "La investigación sacó a la luz las percepciones únicas y las estrategias de adaptación que desarrollan estos adolescentes para lidiar con su realidad familiar, proporcionando información clave para diseñar intervenciones de apoyo basadas en sus experiencias reales.",
+      "FUENTE",
+      "Estudio de las experiencias de vida cotidiana en adolescentes, hijos de padres con consumo dependiente de alcohol",
+      "IDEAL PARA:",
+      "Explorar en profundidad experiencias humanas subjetivas y comprender el significado personal que las personas atribuyen a sus vivencias, emociones y acciones."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Análisis fenomenológico interpretativo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis narrativo\n\nSe analizaron los relatos autobiográficos de pacientes en terapia, no como registros históricos, sin",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Se encontró que la identidad es una narración en constante construcción. El sufrimiento psicológico surge cuando esta historia se vuelve incoherente, y el proceso terapéutico implica \"reescribir\" el relato para integrar los eventos traumáticos de forma funcional.",
+      "FUENTE",
+      "Relato autobiográfico e identidad personal: un modelo de análisis narrativo",
+      "IDEAL PARA:",
+      "Revelar significados inconscientes y dinámicas psíquicas subyacentes."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis narrativo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis psicoanalitico\n\nEl autor aplicó una \"escucha flotante\" a textos escritos, prestando atención específica a las r",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis demostró que los deseos inconscientes no están ausentes en los textos escritos, sino que están \"escondidos a plena vista\", revelándose a través de las fallas y las estructuras defensivas del propio discurso.",
+      "FUENTE",
+      "El análisis de textos en el método psicoanalítico",
+      "IDEAL PARA:",
+      "Revelar significados inconscientes y dinámicas psíquicas subyacentes."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis psicoanalitico ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis tematico reflexivo\n\nLas investigadoras documentaron su propio proceso de análisis, haciendo explícito cómo sus ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio estableció que los temas no se \"descubren\" pasivamente, sino que se construyen. La subjetividad del investigador se redefinió no como un sesgo a eliminar, sino como la herramienta fundamental para lograr un análisis cualitativo profundo.",
+      "FUENTE",
+      "Reflexive Thematic Analysis",
+      "IDEAL PARA:",
+      "Desarrollar análisis temáticos profundos que reconocen explícitamente la subjetividad del investigador."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis tematico reflexivo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      30
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis basado en giros post\n\nSe realizó una inmersión en un colectivo alternativo, analizando sus prácticas diarias ba",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis reveló que el grupo no vivía en una libertad absoluta, sino en una tensión constante de \"re-territorialización\", donde las necesidades materiales y las viejas estructuras de poder siempre amenazaban con reaparecer dentro de su intento de vida alternativa.",
+      "FUENTE",
+      "Guerrilla de la paz: micropolítica de transformación molecular",
+      "IDEAL PARA:",
+      "Cuestionar supuestos establecidos y comprender partes nuevas, desconocidas o malentendidas de la sociedad."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      31
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis basado en giros post ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      12,
+      37
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      14,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis del discurso\n\nSe rastreó la evolución histórica y el uso político del término \"Buen Vivir\" en Ecuador, examinan",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis demostró que el concepto original indígena de \"Buen Vivir\" fue apropiado y vaciado de contenido por el poder político estatal, transformándolo en un eslogan para legitimar una agenda de desarrollo contraria a los intereses comunitarios originales.",
+      "FUENTE",
+      "Genealogía inmediata de los discursos del buen vivir en Ecuador",
+      "IDEAL PARA:",
+      "Analizar cómo el lenguaje construye representaciones de la realidad e identidades sociales."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      14,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis del discurso ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      14,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis del discurso critico\n\nSe deconstruyeron sistemáticamente los discursos electorales de Nicolás Maduro, identific",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio reveló un uso sistemático de la polarización discursiva (\"nosotros\" contra \"ellos\") y argumentos puramente emocionales, diseñados estratégicamente para desviar la responsabilidad de la gestión interna hacia enemigos externos construidos por el propio discurso.",
+      "FUENTE",
+      "Estrategias de resistencia en los discursos electorales de Nicolás Maduro",
+      "IDEAL PARA:",
+      "Revelar y desafiar relaciones de poder, ideologías y desigualdades en el discurso."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      14,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis del discurso critico ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      14,
+      25
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Codificacion OCM\n\nSe utilizaron códigos culturales estándar para analizar datos etnográficos de diversas tribus de cazad",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis comparativo reveló un patrón universal en estas sociedades: el aprendizaje se percibe y se realiza fundamentalmente de forma horizontal y mediante la observación directa, en contraste con la dependencia de la instrucción formal vertical típica de otras culturas.",
+      "FUENTE",
+      "A Cross-Cultural Analysis of Hunter-Gatherer Social Learning",
+      "IDEAL PARA:",
+      "Mapear modelos causales subjetivos de actores sobre fenómenos complejos."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Codificacion OCM ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis funcional\n\nEl estudio examinó la tradición de la Guelaguetza no por su valor folclórico, sino analizando qué fu",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Se determinó que la función real de la Guelaguetza no era la caridad, sino un mecanismo de cohesión social que obligaba a una reciprocidad estricta, asegurando la supervivencia del grupo en tiempos de crisis económica o agrícola.",
+      "FUENTE",
+      "Análisis funcional de la Guelaguetza agrícola",
+      "IDEAL PARA:",
+      "Entender cómo los elementos sociales contribuyen al mantenimiento del sistema."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis funcional ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de redes sociales cualitativo\n\nSe realizó un seguimiento de 30 pacientes durante un año, mapeando sus redes per",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio longitudinal encontró una interdependencia profunda: los cambios en la salud provocan rupturas o fortalecimientos en la red social, y a su vez, la calidad de esta red determina directamente la capacidad del paciente para manejar su enfermedad día a día.",
+      "FUENTE",
+      "Critical moments in long-term condition management: a longitudinal qualitative social network study",
+      "IDEAL PARA:",
+      "Integrar análisis estructural de relaciones sociales con comprensión cualitativa de su significado y evolución en contextos de la vida real."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de redes sociales cualitativo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis sistemico\n\nEl autor analizó la sociedad latinoamericana como un conjunto de subsistemas (político, económico, j",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis sistémico concluyó que la corrupción en América Latina no es un problema aislado, sino el resultado de una diferenciación insuficiente entre sistemas, donde la lógica política interfiere estructuralmente en los sistemas judicial y económico.",
+      "FUENTE",
+      "Diferenciación y contingencia en América Latina",
+      "IDEAL PARA:",
+      "Analizar fenómenos como partes de sistemas complejos con propiedades emergentes."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis sistemico ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      30
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis organizacional o institucional\n\nMediante una etnografía en una escuela católica, la investigadora observó cómo ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS INTERNO",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio reveló que los símbolos religiosos en la escuela no eran meros adornos decorativos, sino mecanismos activos de poder utilizados para definir la jerarquía organizacional y legitimar quién tenía la autoridad para tomar decisiones.",
+      "FUENTE",
+      "Organisational Culture in a Catholic School",
+      "IDEAL PARA:",
+      "Analizar la cultura, poder y dinámicas de significado dentro de las organizaciones."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      31
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis organizacional o institucional ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      7,
+      12,
+      16,
+      37
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de metaforas\n\nLos investigadores compararon dos métodos (manual vs. automático) para identificar las metáforas ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio demostró que la elección de la herramienta de análisis no es neutral: el análisis manual de metáforas reveló matices cruciales sobre la moralidad política que el análisis automático pasó por alto, cambiando radicalmente la interpretación final.",
+      "FUENTE",
+      "How to identify moral language in presidential speeches",
+      "IDEAL PARA:",
+      "Descubrir estructuras conceptuales implícitas que organizan el pensamiento y discurso."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de metaforas ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de recursos\n\nSe examinó un corpus de productos de la cultura popular (cine, literatura) para identificar cómo s",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis de los recursos retóricos mostró que la figura del caníbal ha perdido su antiguo poder como símbolo de alteridad cultural temible, transformándose en un recurso trivializado para el consumo masivo en la forma de \"neocanibalismo\".",
+      "FUENTE",
+      "Canibalismo siglo XXI",
+      "IDEAL PARA:",
+      "Identificar estrategias lingüísticas específicas usadas en prácticas comunicativas."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de recursos ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Modelos mentales\n\nA través del análisis de dibujos y explicaciones de niños, los investigadores infirieron las estructur",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Se descubrió que los niños operan con modelos mentales rígidos previos (ej. \"ferocidad igual a carnívoro\"). Estos modelos actúan como barreras resistentes que impiden el aprendizaje escolar si la enseñanza no aborda explícitamente estas preconcepciones.",
+      "FUENTE",
+      "Modelos mentales en los procesos iniciales de aprendizaje",
+      "IDEAL PARA:",
+      "Inferir estructuras de conocimiento y representaciones internas."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Modelos mentales ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      12,
+      29
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Induccion analitica\n\nLos investigadores probaron la hipótesis de que la separación física detiene el abuso doméstico, bu",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis de los casos negativos confirmó que la separación por sí sola no detiene el abuso. Se validó que el sistema legal falla sistemáticamente en proteger a las víctimas, refinando la teoría para incluir la necesidad de una intervención institucional efectiva post-separación.",
+      "FUENTE",
+      "Post-Separation Abuse of Women and their Children",
+      "IDEAL PARA:",
+      "Probar y refinar hipótesis causales mediante la búsqueda de excepciones."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Induccion analitica ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Teoria fundamentada clasica\n\nSe analizaron datos disponibles sobre familias recicladoras en Perú sin hipótesis previas, ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Emergió la teoría del \"resourcing relacional\": estas familias sobreviven en la precariedad no solo buscando materiales, sino gestionando activamente sus redes de apoyo cercano, negociando dependencias y anclando motivaciones colectivas para resistir.",
+      "FUENTE",
+      "How Do Waste-Picker Families Endure? Resolving Pains and Managing Support Systems as Close Relationship 'Resourcing:' A CGT with Readily Available Data",
+      "IDEAL PARA:",
+      "Explorar áreas poco estudiadas para desarrollar teorías sustantivas nuevas sobre procesos sociales. Ideal cuando se intenta explicar cómo una población resuelve una preocupación central desde la perspectiva de las mismas personas."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Teoria fundamentada clasica ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Metodo Gioia\n\nSe aplicó una estructura rigurosa de análisis a entrevistas con fundadores de startups, organizando los da",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis estructurado reveló que el escalado exitoso de estas startups depende fundamentalmente de adoptar una \"mentalidad global\" desde el primer día y del uso intensivo de datos para compensar las limitaciones del mercado local.",
+      "FUENTE",
+      "SCALING FINNISH SAAS STARTUPS: AN EMPIRICAL STUDY",
+      "IDEAL PARA:",
+      "Demostrar rigor en el análisis cualitativo estructurando claramente los conceptos emergentes."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Metodo Gioia ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Systematic combining\n\nLos investigadores utilizaron un proceso iterativo y abductivo, moviéndose constantemente entre la",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "La iteración entre teoría y datos permitió desarrollar un modelo que explica que el éxito global no depende de la mera posesión de recursos, sino de la \"capacidad dinámica\" de la empresa para orquestar y reconfigurar activos internos y externos simultáneamente.",
+      "FUENTE",
+      "Dynamic Capabilities and MNE Global Strategy: A Systematic Literature Review‐Based Novel Conceptual Framework",
+      "IDEAL PARA:",
+      "Refinar teoría existente mediante iteración constante con datos empíricos."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Systematic combining ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      30
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Enfoque de Construcción de Teoría desde Casos (Eisenhardt)\n\nMetodología centrada en el uso de múltiples casos como exper",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Produce teorías robustas mediante la comparación de casos 'polares' o diseños de 'carreras', integrando datos para explicar la lógica subyacente de 'por qué' ocurren los fenómenos [15], [19], [20].",
+      "FUENTE",
+      "Finding Theory–Method Fit: A Comparison of Three Qualitative Approaches to Theory Building",
+      "IDEAL PARA:",
+      "Responder a preguntas de 'cómo' y 'por qué' en áreas donde la teoría existente es problemática o inexistente, buscando identificar causas y relaciones entre variables [13], [17], [18]."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      31
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Enfoque de Construcción de Teoría desde Casos (Eisenhardt) ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      34
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Teorización Centrada en el Diseño (Stigliani, Corley & Gioia)\n\nUn enfoque prospectivo que aplica principios de diseño pa",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Fomenta la creación de prototipos teóricos que se refinan iterativamente con gerentes y académicos, priorizando la utilidad práctica y el alcance de la teoría ante desafíos sociales complejos [33], [38], [39].",
+      "FUENTE",
+      "Thinking Differently About Thinking Theoretically: Developing a Design-Centered Approach to Organizational Theorizing",
+      "IDEAL PARA:",
+      "Cerrar la brecha entre la academia y la práctica, permitiendo a los teóricos no solo explicar el pasado, sino anticipar e influir en futuros organizacionales deseados [35], [36], [37]."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      35
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Teorización Centrada en el Diseño (Stigliani, Corley & Gioia) ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      14,
+      41
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis cualitativo comparativo\n\nSe compararon sistemáticamente diferentes zonas de riego en Uzbekistán utilizando álge",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis QCA reveló \"equifinalidad\": no hay una única receta para el éxito. La gobernanza del agua funciona bien sea con un liderazgo local fuerte O con una alta participación comunitaria, pero raramente tiene éxito si faltan ambos elementos.",
+      "FUENTE",
+      "Institutional design in transformation: A comparative study of local irrigation governance in Uzbekistan",
+      "IDEAL PARA:",
+      "Identificar combinaciones complejas de condiciones que producen un resultado."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis cualitativo comparativo ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Process tracing\n\nSe reconstruyó la secuencia detallada y cronológica de eventos dentro de una fábrica para rastrear los ",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El rastreo del proceso demostró que la innovación no fue un evento aislado, sino el resultado de una cadena histórica acumulativa, donde cada decisión y evento anterior habilitó lógicamente el siguiente paso en la secuencia de innovación.",
+      "FUENTE",
+      "An innovative application of event structure analysis (ESA)",
+      "IDEAL PARA:",
+      "Desempaquetar la 'caja negra' de la causalidad rastreando mecanismos específicos."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Process tracing ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Event Structure Analysis\n\nUtilizando un software especializado (ESA), los investigadores mapearon las conexiones lógicas",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis de la estructura de eventos reveló cómo las decisiones tomadas en el pasado crearon un camino de dependencia, limitando las opciones disponibles y habilitando rutas específicas para la innovación futura.",
+      "FUENTE",
+      "An innovative application of event structure analysis (ESA)",
+      "IDEAL PARA:",
+      "Analizar la lógica temporal y causal de secuencias de eventos complejas."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Event Structure Analysis ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Análisis cualitativo longitudinal\n\nEl estudio realizó entrevistas repetidas a los mismos participantes (Niños del Mileni",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El seguimiento a largo plazo permitió documentar la interacción dinámica entre las políticas sociales, la nutrición y la educación en la vida de los jóvenes, revelando cómo las condiciones tempranas y las experiencias de violencia impactan sus aspiraciones y bienestar en la adultez.",
+      "FUENTE",
+      "Hallazgos del estudio Niños del Milenio en Perú",
+      "IDEAL PARA:",
+      "Identificar procesos y mecanismos complejos y poco entendidos a lo largo de la vida de las personas con mucho detalle"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Análisis cualitativo longitudinal ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      30
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Estrategias de Teorización de Procesos (Langley)\n\nEnfoque centrado en datos longitudinales que analiza cómo fluyen y evo",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Identifica mecanismos impulsores y patrones de cambio temporales, capturando la esencia del movimiento organizacional en lugar de solo correlaciones de variables [28], [29], [30].",
+      "FUENTE",
+      "Strategies for Theorizing From Process Data",
+      "IDEAL PARA:",
+      "Comprender fenómenos donde el tiempo es esencial y los resultados son múltiples y cambiantes, evitando simplificaciones estáticas que ignoran el esfuerzo necesario para sostener procesos organizacionales [26], [27], [23]."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      31
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Estrategias de Teorización de Procesos (Langley) ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      10,
+      16,
+      37
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Dominios culturales\n\nSe utilizaron técnicas de listado libre pidiendo a miembros de la comunidad que nombraran todo lo r",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El mapeo reveló una \"enciclopedia\" local de la malaria que mezcla conocimientos médicos con creencias populares. Esta estructura cognitiva híbrida es la que determina realmente sus comportamientos de búsqueda de salud, más allá de la información biomédica oficial.",
+      "FUENTE",
+      "Los dominios culturales de la malaria: una aproximación a los saberes no institucionales",
+      "IDEAL PARA:",
+      "Entender cómo diferentes culturas organizan y categorizan el conocimiento."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Dominios culturales ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Metodologia Q\n\nSe pidió a estudiantes que ordenaran un conjunto de afirmaciones sobre el aprendizaje de idiomas en una d",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis identificó estadísticamente dos perfiles de estudiantes con motivaciones opuestas: los \"instrumentales\" (motivados por dinero/trabajo) y los \"integradores\" (motivados por la cultura), demostrando que la motivación depende de la utilidad percibida del idioma.",
+      "FUENTE",
+      "Aprendizaje simultáneo del inglés y el español en China",
+      "IDEAL PARA:",
+      "Identificar patrones compartidos de subjetividad o puntos de vista en una población."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Metodologia Q ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis de marco\n\nEl estudio examinó cómo las autoridades organizaban y presentaban las reuniones ciudadanas, analizand",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis demostró que, aunque se invitaba a participar, el \"marco\" impuesto por las autoridades restringía implícitamente qué se podía decir y cómo, convirtiendo la interacción en un ritual vacío que aseguraba que no se desafiara el poder establecido.",
+      "FUENTE",
+      "The Frame Analysis of Participation: A Goffmanian Take on Democratic Interaction",
+      "IDEAL PARA:",
+      "Analizar cómo se definen y negocian problemas sociales en el discurso público."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis de marco ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      26
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis logico\n\nLos investigadores reconstruyeron la estructura argumentativa de las explicaciones dadas por los granje",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El desglose lógico confirmó que los granjeros no actúan por altruismo ambiental ni de forma irracional, sino que siguen un cálculo racional y una lógica condicional estricta basada en la ecuación entre el esfuerzo requerido y el pago ofrecido.",
+      "FUENTE",
+      "Effort for money: Farmers’ rationale for participation in agri-environmental schemes",
+      "IDEAL PARA:",
+      "Evaluar la validez lógica y coherencia de argumentos y razonamientos."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      27
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis logico ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      30
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Analisis narrativo funcional\n\nSe analizaron cartas antiguas no solo por su contenido informativo, sino examinando qué fu",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El estudio demostró que elementos aparentemente triviales como las fórmulas de despedida cumplían una función vital en la economía del relato: mantener la jerarquía social y expresar el respeto adecuado según el contexto histórico específico.",
+      "FUENTE",
+      "Speech Acts in Cross-Cultural Pragmatic Research",
+      "IDEAL PARA:",
+      "Entender las funciones que cumplen diferentes elementos dentro de una narrativa."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      31
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Analisis narrativo funcional ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      34
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Análisis Pragmático Cultural\n\nLos investigadores analizaron el mito del \"pishtaco\" (sacagrasas) no como una simple leyen",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "Se descubrió que la figura del pishtaco funciona como una herramienta cultural pragmática: un mecanismo simbólico que permite a la comunidad explicar, procesar y comunicar el trauma histórico y continuo de la explotación colonial y la violencia foránea.",
+      "FUENTE",
+      "La figura del pishtaco andino como expresión simbólica de trauma social",
+      "IDEAL PARA:",
+      "Integrar análisis de acción situada con marcos culturales más amplios para comprender cómo las prácticas sociales concretas dan forma y son moldeadas por el contexto cultural."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      35
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Análisis Pragmático Cultural ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      12,
+      41
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      14,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Tecnica del incidente critico\n\nSe pidió a los participantes que recordaran y describieran con detalle eventos específico",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El análisis de estos incidentes clave permitió identificar una lista de comportamientos prácticos y específicos que definen la excelencia docente en la realidad clínica, superando las descripciones teóricas generales sobre la enseñanza.",
+      "FUENTE",
+      "Attributes of an effective clinical teacher",
+      "IDEAL PARA:",
+      "Identificar comportamientos efectivos o problemáticos mediante análisis de eventos significativos."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      14,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Tecnica del incidente critico ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      14,
+      21
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      14
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Repertory grid\n\nMediante entrevistas estructuradas, se pidió a los ciudadanos que compararan diferentes figuras o entida",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "El mapeo de constructos reveló una paradoja: los ciudadanos con mayor conocimiento político perciben menor legitimidad en la UE, precisamente porque sus estándares mentales para evaluar la democracia son más exigentes y críticos.",
+      "FUENTE",
+      "Innovating Empirical Research on Legitimacy: Repertory Grid Analysis",
+      "IDEAL PARA:",
+      "Mapear sistemas de significado personal y constructos individuales."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      15
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Repertory grid ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      18
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Antropologia comparada\n\nSe realizó una comparación sistemática del tratamiento cultural del canibalismo en diversas soci",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "La comparación evidenció una profunda transformación: lo que en otras culturas era un complejo ritual social o religioso, en el occidente actual se ha reducido a un simple tropo de terror para el consumo en medios de comunicación.",
+      "FUENTE",
+      "Canibalismo siglo XXI. La actualidad popular de una vieja preocupación antropológica",
+      "IDEAL PARA:",
+      "Identificar patrones universales y variaciones culturales en instituciones sociales."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      19
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Antropologia comparada ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      22
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "div",
+      "text": "Historia comparada\n\nSe contrastó la trayectoria histórica y el significado original del concepto indígena de \"Buen Vivir",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "ANALISIS FORMAL",
+      "DESCRIPCIÓN",
+      "EJEMPLO",
+      "La comparación histórica identificó un punto de divergencia crucial donde el Estado cooptó el término. Se demostró cómo el significado original fue transformado para legitimar una agenda desarrollista estatal que contradecía las raíces del concepto.",
+      "FUENTE",
+      "Genealogía inmediata de los discursos del buen vivir en Ecuador",
+      "IDEAL PARA:",
+      "Identificar configuraciones causales en procesos históricos mediante comparación sistemática."
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      23
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "button"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Comparar (1/3)",
+      "Historia comparada ×",
+      "Limpiar"
+    ],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "path": [
+      11,
+      12,
+      16,
+      29
+    ],
+    "depth": 4,
+    "element": {
+      "tag": "button",
+      "text": "",
+      "aria": "Close",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [],
+    "url": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  }
+]

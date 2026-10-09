@@ -1,0 +1,5081 @@
+{
+  "version": 1,
+  "fuente": "https://v0-sunburst-diagram-webpage.vercel.app/",
+  "categorias": {
+    "interno": "Descompone la realidad en partes para aprender de la fragmentación.",
+    "formal": "Sintetiza patrones para revelar estructuras formales y sistemáticas."
+  },
+  "animacion": {
+    "entrada": "slide-right",
+    "retraso_ms_por_fase": 220,
+    "flecha": "draw",
+    "grupo_retroalimentacion": [
+      "ana",
+      "sin"
+    ]
+  },
+  "metodos": [
+    {
+      "id": "etnometodologia",
+      "nombre": "Etnometodologia",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Creativity as a Methodological dimension of Social Research between Quantity and Quality",
+              "anio": 2019,
+              "doi": "https://doi.org/10.24215/18537863e049",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://www.relmecs.fahce.unlp.edu.ar/article/download/Relmecse049/10744",
+              "revisado": false
+            },
+            {
+              "titulo": "Innovations in the teaching-learning process of psychiatric nursing and mental health",
+              "anio": 2021,
+              "doi": "https://doi.org/10.1590/0034-7167-2020-0525",
+              "citas": 19,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/reben/a/vmH6N5PwVHYtjS7TVQtGJLz/?lang=en&format=pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "HIPSTERS VERSUS POSERS: FANNISH SPLIT IN THE INDIE MUSIC WORLD",
+              "anio": 2021,
+              "doi": "https://doi.org/10.1590/1678-6971/eramg210202",
+              "citas": 5,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/ram/a/ykvGt4VFWnkywmcSC3t6cjS/?lang=en&format=pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Cocriação & inspiração: proposta de um modelo aplicado para cocriação de valor",
+              "anio": 2024,
+              "doi": "https://doi.org/10.5585/2024.25667",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://periodicos.uninove.br/riae/article/download/25667/11156",
+              "revisado": false
+            },
+            {
+              "titulo": "Discursive devices for inserting morality into law: initial exploration from the analysis of a Brazilian Supreme Court decision",
+              "anio": 2019,
+              "doi": "https://doi.org/10.21747/21833745/lanlaw/6_1a1",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "http://ojs.letras.up.pt/index.php/LLLD/article/download/6261/5896",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "hermeneutica-objetiva",
+      "nombre": "Hermeneutica objetiva",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-contenido-cualitativo",
+      "nombre": "Analisis de contenido cualitativo",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Fiabilidad y validez de la escala de competencias docentes de educación media superior",
+              "anio": 2025,
+              "doi": "https://doi.org/10.9781/rep.2025.384",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://revistas.unir.net/index.php/rep/article/download/384/941",
+              "revisado": false
+            },
+            {
+              "titulo": "Valoracion de la importancia de la denominacion de origen desde la perspectiva de la empresa. El caso DO Ribera del Guadiana",
+              "anio": 2010,
+              "doi": "https://doi.org/10.22004/ag.econ.186505",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "http://ageconsearch.umn.edu/record/186505",
+              "revisado": false
+            },
+            {
+              "titulo": "Propuesta del Perfil de Cargos por Competencias para un Gerente General, aplicable a Hoteles de segunda categoría en la Ciudad de Guayaquil.",
+              "anio": 2016,
+              "doi": "https://doi.org/10.47189/rcct.v1i3.68",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://cienciaytecnologia.uteg.edu.ec/revista/index.php/cienciaytecnologia/article/download/68/12",
+              "revisado": false
+            },
+            {
+              "titulo": "A adoção de proxies informacionais em alternativa à ausência de mecanismos formais de controle gerencial em startups",
+              "anio": 2023,
+              "doi": "https://doi.org/10.5007/2175-8069.2023.e84137",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.5007/2175-8069.2023.e84137",
+              "revisado": false
+            },
+            {
+              "titulo": "Diseño de una intervención pedagógica hibrida en la promoción de un aprendizaje lingüístico e intercultural",
+              "anio": 2024,
+              "doi": "https://doi.org/10.35622/j.rie.2024.01.004",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://revistainnovaeducacion.com/index.php/rie/article/download/903/850",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-practicas",
+      "nombre": "Analisis de practicas",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Controversies as method for ANTi-History",
+              "anio": 2021,
+              "doi": null,
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "https://dialnet.unirioja.es/descarga/articulo/8088351.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Current Research Inventory",
+              "anio": 1975,
+              "doi": "https://doi.org/10.1017/s0023879100041856",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1996F7D7B8D02B383DE706B202025CEE/S0023879100041856a.pdf/div-class-title-current-research-inventory-div.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Por qué y cómo usar software educativo para la apropiación de conceptos geométricos",
+              "anio": 2012,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": false,
+              "url": null,
+              "revisado": false
+            },
+            {
+              "titulo": "Tendencias y características de la realidad virtual",
+              "anio": 2020,
+              "doi": "https://doi.org/10.17981/cesta.01.01.2020.04",
+              "citas": 8,
+              "acceso_abierto": true,
+              "url": "https://revistascientificas.cuc.edu.co/CESTA/article/download/3214/3153",
+              "revisado": false
+            },
+            {
+              "titulo": "The gender gap in intellectual property in Latin America and Iberia: the case of patents",
+              "anio": 2020,
+              "doi": "https://doi.org/10.1504/ijipm.2020.112417",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "http://rua.ua.es/dspace/bitstream/10045/112527/5/Parra-Merono_etal_2020_IntJIntellectPropertyManag_revised.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "fenomenografia",
+      "nombre": "Fenomenografia",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Phenomenography as a research method for Management education",
+              "anio": 2022,
+              "doi": "https://doi.org/10.19094/contextus.2022.71414",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "http://periodicos.ufc.br/contextus/article/download/71414/218143",
+              "revisado": false
+            },
+            {
+              "titulo": "It is the Shared Aims, Trust and Compassion that Allow People to Prosper: Teacher Educators´ Lifelong Learning in Competence-based Education",
+              "anio": 2022,
+              "doi": "https://doi.org/10.12973/eu-jer.11.2.965",
+              "citas": 9,
+              "acceso_abierto": true,
+              "url": "https://pdf.eu-jer.com/EU-JER_11_2_965.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Patterns of knowledge used by nurses in caring for the patient in the first psychotic outbreak",
+              "anio": 2017,
+              "doi": "https://doi.org/10.1590/2177-9465-ean-2017-0001",
+              "citas": 10,
+              "acceso_abierto": true,
+              "url": "http://www.scielo.br/pdf/ean/v21n3/1414-8145-ean-2177-9465-ean-2017-0001.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Graphemic Awareness Development of Polish Learners of Chinese as a Foreign Language",
+              "anio": 2024,
+              "doi": "https://doi.org/10.31261/tapsla.14693",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://journals.us.edu.pl/index.php/TAPSLA/article/download/14693/13260",
+              "revisado": false
+            },
+            {
+              "titulo": "Experiencing parenthood in early adulthood",
+              "anio": 2020,
+              "doi": "https://doi.org/10.25167/ff/1094",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.25167/ff/1094",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-la-conversacion",
+      "nombre": "Analisis de la conversacion",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Lead-acid battery recycling in Costa Rica.",
+              "anio": 2001,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://digitalcommons.wpi.edu/iqp-all/3544",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-narrativo-dialogico",
+      "nombre": "Analisis narrativo dialogico",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Creazione e sviluppo di corpora multimediali. Nuove metodologie di ricerca nella traduzione audiovisiva",
+              "anio": 2009,
+              "doi": "https://doi.org/10.6092/unibo/amsdottorato/2125",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "http://amsdottorato.unibo.it/2125/1/Valentini_Cristina_Tesi.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "The mapping between prosody and information structure in German and in Italian L2 learners",
+              "anio": 2021,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://repozitorij.ung.si/Dokument.php?id=23560&dn=",
+              "revisado": false
+            },
+            {
+              "titulo": "Luci e ombre delle disuguaglianze digitali nei Centri per l’impiego in Italia",
+              "anio": 2018,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://riviste.unimi.it/index.php/dc/en/issue/download/2875/939",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-narrativo-performativo",
+      "nombre": "Analisis narrativo performativo",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Creazione e sviluppo di corpora multimediali. Nuove metodologie di ricerca nella traduzione audiovisiva",
+              "anio": 2009,
+              "doi": "https://doi.org/10.6092/unibo/amsdottorato/2125",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "http://amsdottorato.unibo.it/2125/1/Valentini_Cristina_Tesi.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "tematizacion",
+      "nombre": "Tematizacion",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "descripcion-interpretativa",
+      "nombre": "Descripcion interpretativa",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "teoria-fundamentada-straussiana",
+      "nombre": "Teoria fundamentada straussiana",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Análise de dados: comparação entre as diferentes perspectivas metodológicas da Teoria Fundamentada nos Dados",
+              "anio": 2018,
+              "doi": "https://doi.org/10.1590/s1980-220x2017021803303",
+              "citas": 39,
+              "acceso_abierto": true,
+              "url": "http://www.scielo.br/pdf/reeusp/v52/en_0080-6234-reeusp-S1980-220X2017021803303.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "USE OF GROUNDED THEORY IN THE EXTRACTION, CODING AND ANALYSIS OF DATA IN LITERATURE META-ANALYSES",
+              "anio": 2023,
+              "doi": "https://doi.org/10.1590/1980-265x-tce-2021-0445en",
+              "citas": 7,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/tce/a/jTRJx8VvmdXjSgst9xS8CGt/?lang=en&format=pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "teoria-fundamentada-constructivista-o-analisis-situacional",
+      "nombre": "Teoria fundamentada constructivista o Analisis situacional",
+      "categoria": "Descripcion pura",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-fenomenologico-interpretativo",
+      "nombre": "Análisis fenomenológico interpretativo",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Estudios sobre trayectoria profesional y acceso de la mujer a cargos directivos: un análisis bibliométrico",
+              "anio": 2011,
+              "doi": "https://doi.org/10.5093/tr2011v27n3a6",
+              "citas": 16,
+              "acceso_abierto": true,
+              "url": "https://journals.copmadrid.org/jwop/files/tr2011v27n3a6.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "A qualitative exploration of video-based motor action observation perceptions in patients with chronic low back pain and asymptomatic participants: An interpretative phenomenological analysis",
+              "anio": 2026,
+              "doi": "https://doi.org/10.1371/journal.pone.0326638",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0326638&type=printable",
+              "revisado": false
+            },
+            {
+              "titulo": "“I suppose we’ve all been on a bit of a journey”: a qualitative study on providers’ lived experiences with liberalised abortion care in the Republic of Ireland",
+              "anio": 2023,
+              "doi": "https://doi.org/10.1080/26410397.2023.2216526",
+              "citas": 8,
+              "acceso_abierto": true,
+              "url": "https://www.tandfonline.com/doi/pdf/10.1080/26410397.2023.2216526?download=true",
+              "revisado": false
+            },
+            {
+              "titulo": "From Migration Corridor to Conservation Destination: Integrating Birdwatching into Biodiversity Protection in Artvin, Türkiye",
+              "anio": 2026,
+              "doi": "https://doi.org/10.36677/elperiplo.v0i50.27804",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://rperiplo.uaemex.mx/article/download/27804/20503",
+              "revisado": false
+            },
+            {
+              "titulo": "La hegemonía del inglés: una mirada desde las concepciones de un grupo de profesores de inglés en Venezuela",
+              "anio": 2018,
+              "doi": "https://doi.org/10.17533/udea.ikala.v23n02a02",
+              "citas": 7,
+              "acceso_abierto": true,
+              "url": "http://aprendeenlinea.udea.edu.co/revistas/index.php/ikala/article/download/325706/20789413",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-narrativo",
+      "nombre": "Analisis narrativo",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Qualitative syntheses of research in the field of higher education: methodological perspectives, heuristic procedures and practical applications",
+              "anio": 2018,
+              "doi": "https://doi.org/10.13128/formare-22567",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://oaj.fupress.net/index.php/formare/article/download/3722/3722",
+              "revisado": false
+            },
+            {
+              "titulo": "Visual tools for supporting interviews in qualitative research: new approaches",
+              "anio": 2023,
+              "doi": "https://doi.org/10.1108/qrj-07-2023-0113",
+              "citas": 25,
+              "acceso_abierto": true,
+              "url": "https://www.emerald.com/insight/content/doi/10.1108/QRJ-07-2023-0113/full/pdf?title=visual-tools-for-supporting-interviews-in-qualitative-research-new-approaches",
+              "revisado": false
+            },
+            {
+              "titulo": "Quality of Life and Psychopathology in Adults Who Underwent Hematopoietic Stem Cell Transplantation (HSCT) in Childhood: A Qualitative and Quantitative Analysis",
+              "anio": 2017,
+              "doi": "https://doi.org/10.3389/fpsyg.2017.01316",
+              "citas": 14,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01316/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "An integrated narrative nursing model: towards a new healthcare paradigm.",
+              "anio": 2016,
+              "doi": null,
+              "citas": 34,
+              "acceso_abierto": true,
+              "url": "https://www.mattioli1885journals.com/index.php/actabiomedica/article/download/5949/4201",
+              "revisado": false
+            },
+            {
+              "titulo": "Interdisciplinary Conceptualizations of Variables and Parameters Through Narratives",
+              "anio": 2026,
+              "doi": "https://doi.org/10.3390/educsci16020217",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2227-7102/16/2/217/pdf?version=1770002150",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-psicoanalitico",
+      "nombre": "Analisis psicoanalitico",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-tematico-reflexivo",
+      "nombre": "Analisis tematico reflexivo",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-basado-en-giros-post",
+      "nombre": "Analisis basado en giros post",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "APROXIMACIONES ANALÍTICAS SOBRE LA EDUCACIÓN, EL DISEÑO Y EL PATRIMONIO",
+              "anio": 2022,
+              "doi": "https://doi.org/10.37135/u.editorial.05.47",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.37135/u.editorial.05.47",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-del-discurso",
+      "nombre": "Analisis del discurso",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Visual tools for supporting interviews in qualitative research: new approaches",
+              "anio": 2023,
+              "doi": "https://doi.org/10.1108/qrj-07-2023-0113",
+              "citas": 25,
+              "acceso_abierto": true,
+              "url": "https://www.emerald.com/insight/content/doi/10.1108/QRJ-07-2023-0113/full/pdf?title=visual-tools-for-supporting-interviews-in-qualitative-research-new-approaches",
+              "revisado": false
+            },
+            {
+              "titulo": "Modelación y tecnología. Las resignificaciones del uso del conocimiento matemático: la escuela, el trabajo y la ciudad",
+              "anio": 2012,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": false,
+              "url": null,
+              "revisado": false
+            },
+            {
+              "titulo": "Quality of Life and Psychopathology in Adults Who Underwent Hematopoietic Stem Cell Transplantation (HSCT) in Childhood: A Qualitative and Quantitative Analysis",
+              "anio": 2017,
+              "doi": "https://doi.org/10.3389/fpsyg.2017.01316",
+              "citas": 14,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01316/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Current Research Inventory",
+              "anio": 1975,
+              "doi": "https://doi.org/10.1017/s0023879100041856",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1996F7D7B8D02B383DE706B202025CEE/S0023879100041856a.pdf/div-class-title-current-research-inventory-div.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "CONOCIMIENTOS Y PREJUICIOS ACERCA DE LA VEJEZ EN LA CAPACITACIÓN DE CUIDADORES.",
+              "anio": 2005,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": false,
+              "url": null,
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-del-discurso-critico",
+      "nombre": "Analisis del discurso critico",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "L’IA générative dans l’enseignement des langues étrangères",
+              "anio": 2025,
+              "doi": "https://doi.org/10.55393/babylonia.v1i.626",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://babylonia.online/index.php/babylonia/article/download/626/710",
+              "revisado": false
+            },
+            {
+              "titulo": "L’IA générative dans l’enseignement des langues étrangères",
+              "anio": 2025,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://access.archive-ouverte.unige.ch/access/metadata/25cfa651-e459-4170-a58f-c808b02e1110/download",
+              "revisado": false
+            },
+            {
+              "titulo": "Bringing the Cuban Economy into Focus: Conceptual and Empirical Challenges",
+              "anio": 1991,
+              "doi": "https://doi.org/10.1017/s002387910002392x",
+              "citas": 5,
+              "acceso_abierto": true,
+              "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B7E316C085DE41CEA3E41BB803956E49/S002387910002392Xa.pdf/div-class-title-bringing-the-cuban-economy-into-focus-conceptual-and-empirical-challenges-div.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "codificacion-ocm",
+      "nombre": "Codificacion OCM",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-funcional",
+      "nombre": "Analisis funcional",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Performance Evaluation of PT. Bank Mandiri Tbk based on Balanced Scorecard Method",
+              "anio": 2021,
+              "doi": "https://doi.org/10.52403/ijrr.20211124",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.52403/ijrr.20211124",
+              "revisado": false
+            },
+            {
+              "titulo": "Developing the Integrated Control Systems Media for Enhancing the Electrification Competency of Electric Railway Drive",
+              "anio": 2025,
+              "doi": "https://doi.org/10.21831/elinvo.v10i1.78039",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://journal.uny.ac.id/index.php/elinvo/article/download/78039/23926",
+              "revisado": false
+            },
+            {
+              "titulo": "AN ERROR ANALYSIS OF USING SIMPLE PRESENT TENSE IN DESCRIPTIVE TEXT WRITTEN BY THE EIGHTH GRADE STUDENTS OF SMP BINA SATRIA MEDAN",
+              "anio": 2021,
+              "doi": "https://doi.org/10.22303/melt.5.2.2020.186-202",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "http://e-journal.potensi-utama.ac.id/ojs/index.php/MELT/article/download/1167/1737",
+              "revisado": false
+            },
+            {
+              "titulo": "Archaeological and Experimental Lithic Microwear Classification Through 2D Textural Analysis and Machine Learning",
+              "anio": 2025,
+              "doi": "https://doi.org/10.1007/s10816-025-09701-z",
+              "citas": 5,
+              "acceso_abierto": true,
+              "url": "https://link.springer.com/content/pdf/10.1007/s10816-025-09701-z.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "The national accounts for Italy, Spain and Portugal",
+              "anio": 1995,
+              "doi": "https://doi.org/10.1080/03585522.1995.10415898",
+              "citas": 29,
+              "acceso_abierto": true,
+              "url": "https://www.tandfonline.com/doi/pdf/10.1080/03585522.1995.10415898?download=true",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-redes-sociales-cualitativo",
+      "nombre": "Analisis de redes sociales cualitativo",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Valoracion de la importancia de la denominacion de origen desde la perspectiva de la empresa. El caso DO Ribera del Guadiana",
+              "anio": 2010,
+              "doi": "https://doi.org/10.22004/ag.econ.186505",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "http://ageconsearch.umn.edu/record/186505",
+              "revisado": false
+            },
+            {
+              "titulo": "Use of Social Network Analysis for Tax Control in Spain",
+              "anio": 2021,
+              "doi": "https://doi.org/10.7866/hpe-rpe.21.4.5",
+              "citas": 8,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.7866/hpe-rpe.21.4.5",
+              "revisado": false
+            },
+            {
+              "titulo": "Diseño de una intervención pedagógica hibrida en la promoción de un aprendizaje lingüístico e intercultural",
+              "anio": 2024,
+              "doi": "https://doi.org/10.35622/j.rie.2024.01.004",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://revistainnovaeducacion.com/index.php/rie/article/download/903/850",
+              "revisado": false
+            },
+            {
+              "titulo": "Cómo hacer revisiones bibliográficas tradicionales o sistemáticas utilizando bases de datos académicas",
+              "anio": 2020,
+              "doi": "https://doi.org/10.14201/orl.22977",
+              "citas": 113,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.14201/orl.22977",
+              "revisado": false
+            },
+            {
+              "titulo": "Social Dynamics Survival of the Paser Ethnic in Subalternity Relations in Moving the Capital of the State Indonesia",
+              "anio": 2022,
+              "doi": "https://doi.org/10.46652/pacha.v3i9.140",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://revistapacha.religacion.com/index.php/about/article/download/140/240",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-sistemico",
+      "nombre": "Analisis sistemico",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Qualitative syntheses of research in the field of higher education: methodological perspectives, heuristic procedures and practical applications",
+              "anio": 2018,
+              "doi": "https://doi.org/10.13128/formare-22567",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://oaj.fupress.net/index.php/formare/article/download/3722/3722",
+              "revisado": false
+            },
+            {
+              "titulo": "The different shades of innovation emergence in smart service systems: the case of Italian cluster for aerospace technology",
+              "anio": 2021,
+              "doi": "https://doi.org/10.1108/jbim-02-2020-0091",
+              "citas": 98,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.1108/jbim-02-2020-0091",
+              "revisado": false
+            },
+            {
+              "titulo": "The Clinical Generational Interview. An instrument for family assessment",
+              "anio": 2024,
+              "doi": "https://doi.org/10.3389/fpsyg.2024.1361028",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1361028/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Process innovations for the digitalization of public procurement: synergies between BIM and multi-criteria analysis",
+              "anio": 2017,
+              "doi": "https://doi.org/10.13128/techne-19737",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://oaj.fupress.net/index.php/techne/article/download/4651/4651",
+              "revisado": false
+            },
+            {
+              "titulo": "Urban regeneration in the digital era: how to develop Smart City strategies in large european cities",
+              "anio": 2015,
+              "doi": "https://doi.org/10.13128/techne-17507",
+              "citas": 28,
+              "acceso_abierto": true,
+              "url": "https://oaj.fupress.net/index.php/techne/article/download/4471/4471",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-organizacional-o-institucional",
+      "nombre": "Analisis organizacional o institucional",
+      "categoria": "Descripcion limitada por teoria",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "A adoção de proxies informacionais em alternativa à ausência de mecanismos formais de controle gerencial em startups",
+              "anio": 2023,
+              "doi": "https://doi.org/10.5007/2175-8069.2023.e84137",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.5007/2175-8069.2023.e84137",
+              "revisado": false
+            },
+            {
+              "titulo": "Risk management and prevention methodologies: a comparison",
+              "anio": 2016,
+              "doi": "https://doi.org/10.18046/syt.v14i36.2214",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://www.icesi.edu.co/revistas/index.php/sistemas_telematica/article/download/2214/2844",
+              "revisado": false
+            },
+            {
+              "titulo": "IV SIMPOSIO Y II ENCUENTRO INTERNACIONAL DE INVESTIGACIÓN EN AGRONEGOCIOS Y ECONOMÍA AGRARIA",
+              "anio": 2025,
+              "doi": "https://doi.org/10.15174/cia.v7i1.165",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://www.reiagro.ugto.mx/index.php/cia/article/download/165/160",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-metaforas",
+      "nombre": "Analisis de metaforas",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "The Phases of Qualitative and Quantitative Methods in Italian Sociology: Institutionalisation, Social Engagement, and Emerging Problems",
+              "anio": 2024,
+              "doi": "https://doi.org/10.1007/s12108-024-09615-5",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "https://link.springer.com/content/pdf/10.1007/s12108-024-09615-5.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "ANALISIS PENGGUNAAN KECERDASAN BUATAN PADA PEMBELAJARAN DALAM TALIAN: Analysis Of AI Implementation In Online Learning",
+              "anio": 2025,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "http://share.journals.unisel.edu.my/index.php/share/article/download/314/148",
+              "revisado": false
+            },
+            {
+              "titulo": "Du paradigme de Paris \"chef du royaume\" a la metaphore de la \"marche\" de la civilisation francaise. La plaque tournante des metaphores acquises.",
+              "anio": 2026,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://iris.unive.it/bitstream/10278/5125787/1/tab_cirm7%20%281%29.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "The Role of Education and Knowledge Science of Digital Era in The Perspective of Critical Thinking Teaching Method Norman Fairclough",
+              "anio": 2019,
+              "doi": "https://doi.org/10.25037/pancaran.v8i2.226",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "http://pancaranpendidikan.or.id/index.php/pancaran/article/download/226/265",
+              "revisado": false
+            },
+            {
+              "titulo": "Orizzonti e prospettive nella ricerca pedagogico-educativa / Horizons and Perspectives in Educational Research",
+              "anio": 2025,
+              "doi": "https://doi.org/10.7346/se-022025-02",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://ojs.pensamultimedia.it/index.php/studium/article/download/8382/7347/38518",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-recursos",
+      "nombre": "Analisis de recursos",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Multi-band technical imaging in the research of the execution of paintings. The case study of the portrait of Carlos IV, by Francisco de Goya",
+              "anio": 2018,
+              "doi": "https://doi.org/10.37558/gec.v14i1.583",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "http://hdl.handle.net/10459.1/65860",
+              "revisado": false
+            },
+            {
+              "titulo": "Imagen técnica multi-banda en la investigación del proceso de ejecución de las pinturas. El caso del retrato de Carlos IV, de Francisco de Goya",
+              "anio": 2018,
+              "doi": "https://doi.org/10.37558/gec.v14i1.583",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://ge-iic.com/ojs/index.php/revista/article/download/583/863",
+              "revisado": false
+            },
+            {
+              "titulo": "Cómo hacer revisiones bibliográficas tradicionales o sistemáticas utilizando bases de datos académicas",
+              "anio": 2020,
+              "doi": "https://doi.org/10.14201/orl.22977",
+              "citas": 113,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.14201/orl.22977",
+              "revisado": false
+            },
+            {
+              "titulo": "CONOCIMIENTOS Y PREJUICIOS ACERCA DE LA VEJEZ EN LA CAPACITACIÓN DE CUIDADORES.",
+              "anio": 2005,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": false,
+              "url": null,
+              "revisado": false
+            },
+            {
+              "titulo": "Ambientes de aprendizaje, inclusión e intersubjetividad",
+              "anio": 2013,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": false,
+              "url": null,
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "modelos-mentales",
+      "nombre": "Modelos mentales",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Upcoming Issues, New Methods: Using Interactive Qualitative Analysis (IQA) in Management Research",
+              "anio": 2022,
+              "doi": "https://doi.org/10.1590/1982-7849rac2022200417.en",
+              "citas": 5,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/rac/a/BRxLFhs4TQNTRrSQFJHkHff/?lang=en&format=pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "The Specificity of Observational Studies in Physical Activity and Sports Sciences: Moving Forward in Mixed Methods Research and Proposals for Achieving Quantitative and Qualitative Symmetry",
+              "anio": 2017,
+              "doi": "https://doi.org/10.3389/fpsyg.2017.02196",
+              "citas": 147,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02196/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Mental health of nursing professionals during the COVID19 pandemic: a qualitative analysis",
+              "anio": 2023,
+              "doi": "https://doi.org/10.5281/zenodo.7739322",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://zenodo.org/record/7739323",
+              "revisado": false
+            },
+            {
+              "titulo": "A narrative method for consciousness research",
+              "anio": 2013,
+              "doi": "https://doi.org/10.3389/fnhum.2013.00739",
+              "citas": 20,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00739/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Peeking into students’ mental imagery: the Report Aloud technique in Science Education research",
+              "anio": 2019,
+              "doi": "https://doi.org/10.1590/1516-731320190030004",
+              "citas": 10,
+              "acceso_abierto": true,
+              "url": "http://www.scielo.br/pdf/ciedu/v25n3/1516-7313-ciedu-25-03-0647.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "induccion-analitica",
+      "nombre": "Induccion analitica",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "teoria-fundamentada-clasica",
+      "nombre": "Teoria fundamentada clasica",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "metodo-gioia",
+      "nombre": "Metodo Gioia",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Il traffico di esseri umani: come approcciare le vittime attraverso il metodo antropologico.",
+              "anio": 2016,
+              "doi": "https://doi.org/10.32054/2499-1848-2016-2-2",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.32054/2499-1848-2016-2-2",
+              "revisado": false
+            },
+            {
+              "titulo": "Measuring Short Food Supply Chain Sustainability: A Selection of Attributes and Indicators through a Qualitative Approach",
+              "anio": 2023,
+              "doi": "https://doi.org/10.3390/agriculture13030646",
+              "citas": 18,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2077-0472/13/3/646/pdf?version=1678419716",
+              "revisado": false
+            },
+            {
+              "titulo": "Saverio Muratori and the Italian school of planning typology",
+              "anio": 2002,
+              "doi": "https://doi.org/10.51347/jum.v6i1.3899",
+              "citas": 143,
+              "acceso_abierto": true,
+              "url": "https://journal.urbanform.org/index.php/jum/article/download/3899/3219",
+              "revisado": false
+            },
+            {
+              "titulo": "Pulsed Thermography Applied to the Study of Cultural Heritage",
+              "anio": 2017,
+              "doi": "https://doi.org/10.3390/app7101010",
+              "citas": 62,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2076-3417/7/10/1010/pdf?version=1506827293",
+              "revisado": false
+            },
+            {
+              "titulo": "Valuation and scenario multi criteria analysis of transportation alternative strategies to mitigate the local sprawl",
+              "anio": 2023,
+              "doi": "https://doi.org/10.48264/vvsiev-20234304",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "https://siev.org/wp-content/uploads/2024/01/04_MUSOLINO-ET-AL.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "systematic-combining",
+      "nombre": "Systematic combining",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Systematic Metaphor Analysis as a Method of Qualitative Research",
+              "anio": 2015,
+              "doi": "https://doi.org/10.46743/2160-3715/2005.1854",
+              "citas": 438,
+              "acceso_abierto": true,
+              "url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1854&context=tqr",
+              "revisado": false
+            },
+            {
+              "titulo": "What is Qualitative in Qualitative Research",
+              "anio": 2019,
+              "doi": "https://doi.org/10.1007/s11133-019-9413-7",
+              "citas": 1274,
+              "acceso_abierto": true,
+              "url": "https://link.springer.com/content/pdf/10.1007/s11133-019-9413-7.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Reviewing the research methods literature: principles and strategies illustrated by a systematic overview of sampling in qualitative research",
+              "anio": 2016,
+              "doi": "https://doi.org/10.1186/s13643-016-0343-0",
+              "citas": 134,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.1186/s13643-016-0343-0",
+              "revisado": false
+            },
+            {
+              "titulo": "How to use and assess qualitative research methods",
+              "anio": 2020,
+              "doi": "https://doi.org/10.1186/s42466-020-00059-z",
+              "citas": 1455,
+              "acceso_abierto": true,
+              "url": "https://neurolrespract.biomedcentral.com/track/pdf/10.1186/s42466-020-00059-z",
+              "revisado": false
+            },
+            {
+              "titulo": "Qualitative research methods in health technology assessment: a review of the literature.",
+              "anio": 1998,
+              "doi": "https://doi.org/10.3310/hta2160",
+              "citas": 1126,
+              "acceso_abierto": true,
+              "url": "https://njl-admin.nihr.ac.uk/document/download/2003184",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "enfoque-de-construccion-de-teoria-desde-casos-eisenhardt",
+      "nombre": "Enfoque de Construcción de Teoría desde Casos (Eisenhardt)",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "La cooperativa como alternativa de emprendimiento colectivo. Su presencia y fomento en las universidades públicas andaluzas",
+              "anio": 2023,
+              "doi": "https://doi.org/10.7203/ciriec-e.109.24079",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://ojs.uv.es/index.php/ciriecespana/article/download/24079/23310",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "teorizacion-centrada-en-el-diseno-stigliani-corley-gioia",
+      "nombre": "Teorización Centrada en el Diseño (Stigliani, Corley & Gioia)",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-cualitativo-comparativo",
+      "nombre": "Analisis cualitativo comparativo",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Social Stratification Research in Latin America",
+              "anio": 1965,
+              "doi": "https://doi.org/10.1017/s0023879100020306",
+              "citas": 5,
+              "acceso_abierto": true,
+              "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CE12886BBDB51895E26D55F0895993B4/S0023879100020306a.pdf/div-class-title-social-stratification-research-in-latin-america-div.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "IS THERE ANY PERSONAL DATA PROTECTION IN THE CORE TAX ADMINISTRATION SYSTEM?",
+              "anio": 2025,
+              "doi": "https://doi.org/10.55908/sdgs.v13i4.4396",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://ojs.journalsdg.org/jlss/article/download/4396/2022",
+              "revisado": false
+            },
+            {
+              "titulo": "Propuesta del Perfil de Cargos por Competencias para un Gerente General, aplicable a Hoteles de segunda categoría en la Ciudad de Guayaquil.",
+              "anio": 2016,
+              "doi": "https://doi.org/10.47189/rcct.v1i3.68",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://cienciaytecnologia.uteg.edu.ec/revista/index.php/cienciaytecnologia/article/download/68/12",
+              "revisado": false
+            },
+            {
+              "titulo": "Risk management and prevention methodologies: a comparison",
+              "anio": 2016,
+              "doi": "https://doi.org/10.18046/syt.v14i36.2214",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://www.icesi.edu.co/revistas/index.php/sistemas_telematica/article/download/2214/2844",
+              "revisado": false
+            },
+            {
+              "titulo": "Fiabilidad y validez de la escala de competencias docentes de educación media superior",
+              "anio": 2025,
+              "doi": "https://doi.org/10.9781/rep.2025.384",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://revistas.unir.net/index.php/rep/article/download/384/941",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "process-tracing",
+      "nombre": "Process tracing",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Understanding Process Tracing",
+              "anio": 2011,
+              "doi": "https://doi.org/10.1017/s1049096511001429",
+              "citas": 2191,
+              "acceso_abierto": true,
+              "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/183A057AD6A36783E678CB37440346D1/S1049096511001429a.pdf/div-class-title-understanding-process-tracing-div.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Discourse Tracing as Qualitative Practice",
+              "anio": 2009,
+              "doi": "https://doi.org/10.1177/1077800409343064",
+              "citas": 163,
+              "acceso_abierto": true,
+              "url": "http://libres.uncg.edu/ir/uncg/f/M_LeGreco_Discourse_2009.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Qualitative investigation of theoretical models: the value of process tracing",
+              "anio": 2016,
+              "doi": "https://doi.org/10.1177/0951629816664420",
+              "citas": 68,
+              "acceso_abierto": true,
+              "url": "https://dspace.mit.edu/bitstream/1721.1/108450/1/Qualitative%20investigation.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "An introduction to process tracing as an innovative qualitative research method to explore affective variables in SLA",
+              "anio": 2023,
+              "doi": "https://doi.org/10.3389/fpsyg.2022.984444",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.984444/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Europeanization Mechanisms and Process Tracing: A Template for Empirical Research",
+              "anio": 2015,
+              "doi": "https://doi.org/10.1111/jcms.12294",
+              "citas": 25,
+              "acceso_abierto": true,
+              "url": "https://research.birmingham.ac.uk/en/publications/40527121-0565-4656-b8d7-fae0d410be46",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "event-structure-analysis",
+      "nombre": "Event Structure Analysis",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Systematic Metaphor Analysis as a Method of Qualitative Research",
+              "anio": 2015,
+              "doi": "https://doi.org/10.46743/2160-3715/2005.1854",
+              "citas": 438,
+              "acceso_abierto": true,
+              "url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1854&context=tqr",
+              "revisado": false
+            },
+            {
+              "titulo": "Saturation in qualitative research: An evolutionary concept analysis",
+              "anio": 2024,
+              "doi": "https://doi.org/10.1016/j.ijnsa.2024.100174",
+              "citas": 540,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.1016/j.ijnsa.2024.100174",
+              "revisado": false
+            },
+            {
+              "titulo": "Abductive analysis in qualitative research",
+              "anio": 2024,
+              "doi": "https://doi.org/10.1111/puar.13856",
+              "citas": 160,
+              "acceso_abierto": true,
+              "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/puar.13856",
+              "revisado": false
+            },
+            {
+              "titulo": "Using the framework method for the analysis of qualitative data in multi-disciplinary health research",
+              "anio": 2013,
+              "doi": "https://doi.org/10.1186/1471-2288-13-117",
+              "citas": 11643,
+              "acceso_abierto": true,
+              "url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-13-117",
+              "revisado": false
+            },
+            {
+              "titulo": "What is Qualitative in Qualitative Research",
+              "anio": 2019,
+              "doi": "https://doi.org/10.1007/s11133-019-9413-7",
+              "citas": 1274,
+              "acceso_abierto": true,
+              "url": "https://link.springer.com/content/pdf/10.1007/s11133-019-9413-7.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-cualitativo-longitudinal",
+      "nombre": "Análisis cualitativo longitudinal",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Keys to a successful writing program: a qualitative study / Claves para un programa de escritura de éxito: estudio cualitativo",
+              "anio": 2023,
+              "doi": "https://doi.org/10.17398/1988-8430.37.161",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://tejuelo.unex.es/article/download/4437/2860",
+              "revisado": false
+            },
+            {
+              "titulo": "Observation of Metacognitive Skills in Natural Environments: A Longitudinal Study With Mixed Methods",
+              "anio": 2019,
+              "doi": "https://doi.org/10.3389/fpsyg.2019.02398",
+              "citas": 13,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02398/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "La competencia “aprender a aprender” en Ciencias de la Salud. Un estudio cualitativo",
+              "anio": 2024,
+              "doi": "https://doi.org/10.13042/bordon.2024.99069",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://recyt.fecyt.es/index.php/BORDON/article/download/99069/76664",
+              "revisado": false
+            },
+            {
+              "titulo": "Las preferencias de los adolescentes iraníes en videojuegos y juegos en línea: un estudio cualitativo.",
+              "anio": 2020,
+              "doi": "https://doi.org/10.46377/dilemas.v32i1.2009",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://www.dilemascontemporaneoseducacionpoliticayvalores.com/index.php/dilemas/article/download/2009/2066",
+              "revisado": false
+            },
+            {
+              "titulo": "Can we do more than case studies? A scoping review about qualitative research in sport management in the Brazilian context",
+              "anio": 2025,
+              "doi": "https://doi.org/10.47197/retos.v64.107321",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://recyt.fecyt.es/index.php/retos/article/download/107321/81730",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "estrategias-de-teorizacion-de-procesos-langley",
+      "nombre": "Estrategias de Teorización de Procesos (Langley)",
+      "categoria": "Induccion comparativa desde datos abiertos",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "dominios-culturales",
+      "nombre": "Dominios culturales",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "International Immersion in Counselor Education: A Consensual Qualitative Research Investigation",
+              "anio": 2014,
+              "doi": "https://doi.org/10.1002/j.2161-1912.2014.00043.x",
+              "citas": 46,
+              "acceso_abierto": true,
+              "url": "http://libres.uncg.edu/ir/uncg/f/C_Cashwell_International_2014.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Between Steps and Emotions: Folk Dance as a Promoter of Youth Well-Being",
+              "anio": 2026,
+              "doi": "https://doi.org/10.3390/children13020211",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2227-9067/13/2/211/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "20 th Annual Thinking Qualitatively Virtual Conference",
+              "anio": 2021,
+              "doi": "https://doi.org/10.1177/16094069211053959",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.1177/16094069211053959",
+              "revisado": false
+            },
+            {
+              "titulo": "Implicit Theories on Learning Assessment and the Use of Triangulation as a Means of Qualitative Validity and Reliability",
+              "anio": 2022,
+              "doi": "https://doi.org/10.46743/2160-3715/2022.4231",
+              "citas": 10,
+              "acceso_abierto": true,
+              "url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=4231&context=tqr",
+              "revisado": false
+            },
+            {
+              "titulo": "Small steps to emerge from the tunnel",
+              "anio": 2012,
+              "doi": "https://doi.org/10.13128/techne-10862",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://oaj.fupress.net/index.php/techne/article/download/4201/4201",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "metodologia-q",
+      "nombre": "Metodologia Q",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Validity in Qualitative Research: A Processual Approach",
+              "anio": 2019,
+              "doi": "https://doi.org/10.46743/2160-3715/2019.3443",
+              "citas": 221,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.46743/2160-3715/2019.3443",
+              "revisado": false
+            },
+            {
+              "titulo": "Quality in Qualitative Organizational Research: types of triangulation as a methodological alternative",
+              "anio": 2018,
+              "doi": "https://doi.org/10.13058/raep.2018.v19n1.578",
+              "citas": 146,
+              "acceso_abierto": true,
+              "url": "https://raep.emnuvens.com.br/raep/article/download/578/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "The Qualitative Approach Interview in Administration: A Guide for Researchers",
+              "anio": 2022,
+              "doi": "https://doi.org/10.1590/1982-7849rac2022210011.en",
+              "citas": 23,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/rac/a/FNdhmJLJjTGLRGZ8qpxKtvf/?lang=en&format=pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "ACTIVE LEARNING IN THE TEACHING OF QUALITATIVE RESEARCH: APPLICATION PROPOSAL",
+              "anio": 2022,
+              "doi": "https://doi.org/10.47820/recima21.v3i10.1907",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://recima21.com.br/index.php/recima21/article/download/1907/1513",
+              "revisado": false
+            },
+            {
+              "titulo": "Application of a Multi-method to Identify a Research Problem",
+              "anio": 2022,
+              "doi": "https://doi.org/10.1590/1982-7849rac2022210020.en",
+              "citas": 12,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/rac/a/4bbXpzSQVdKD7JgRcMQbCbQ/?lang=en&format=pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-de-marco",
+      "nombre": "Analisis de marco",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Multi-band technical imaging in the research of the execution of paintings. The case study of the portrait of Carlos IV, by Francisco de Goya",
+              "anio": 2018,
+              "doi": "https://doi.org/10.37558/gec.v14i1.583",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "http://hdl.handle.net/10459.1/65860",
+              "revisado": false
+            },
+            {
+              "titulo": "Procedure for the Identification of Existing Roads Alignment from Georeferenced Points Database",
+              "anio": 2020,
+              "doi": "https://doi.org/10.3390/infrastructures6010002",
+              "citas": 18,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2412-3811/6/1/2/pdf?version=1608960204",
+              "revisado": false
+            },
+            {
+              "titulo": "Analisis Proses Pemecahan Masalah Mahasiswa Calon Guru Matematika pada Soal Cerita melalui Perspektif Model Polya",
+              "anio": 2026,
+              "doi": "https://doi.org/10.36312/panthera.v6i3.1725",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://e-journal.lp3kamandanu.com/index.php/panthera/article/download/1725/1188",
+              "revisado": false
+            },
+            {
+              "titulo": "Imagen técnica multi-banda en la investigación del proceso de ejecución de las pinturas. El caso del retrato de Carlos IV, de Francisco de Goya",
+              "anio": 2018,
+              "doi": "https://doi.org/10.37558/gec.v14i1.583",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://ge-iic.com/ojs/index.php/revista/article/download/583/863",
+              "revisado": false
+            },
+            {
+              "titulo": "Fiabilidad y validez de la escala de competencias docentes de educación media superior",
+              "anio": 2025,
+              "doi": "https://doi.org/10.9781/rep.2025.384",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://revistas.unir.net/index.php/rep/article/download/384/941",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-logico",
+      "nombre": "Analisis logico",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Psychopathological Functioning Levels (PFLs) and their possible relevance in psychiatric treatments: a qualitative research project",
+              "anio": 2016,
+              "doi": "https://doi.org/10.1186/s12888-016-0940-4",
+              "citas": 6,
+              "acceso_abierto": true,
+              "url": "https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-016-0940-4",
+              "revisado": false
+            },
+            {
+              "titulo": "Analisi delle configurazione e dei benefici della service modularity nelle piccole aziende di consulenza",
+              "anio": 2017,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "http://paduaresearch.cab.unipd.it/10261/1/Fiorentin_Enrico_tesi.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Penafsiran Hukum Penyidik Polri Dalam Penyidikan Perkara Pidana Pada Sistem Peradilan Pidana Indonesia Legal Interpretation Of The Indonesian National Police Investigators Within Criminal Case Investigations At The Indonesian Criminal Justice System",
+              "anio": 2012,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": false,
+              "url": null,
+              "revisado": false
+            },
+            {
+              "titulo": "‘Are They Merely Pictures?’: Delineating The Images Represented in Acrostic Poems of a Primary School Level EFL Textbook",
+              "anio": 2021,
+              "doi": "https://doi.org/10.31764/ijeca.v4i3.5834",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://journal.ummat.ac.id/index.php/IJECA/article/download/5834/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Interdisciplinary Conceptualizations of Variables and Parameters Through Narratives",
+              "anio": 2026,
+              "doi": "https://doi.org/10.3390/educsci16020217",
+              "citas": 1,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2227-7102/16/2/217/pdf?version=1770002150",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-narrativo-funcional",
+      "nombre": "Analisis narrativo funcional",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "APROXIMACIONES ANALÍTICAS SOBRE LA EDUCACIÓN, EL DISEÑO Y EL PATRIMONIO",
+              "anio": 2022,
+              "doi": "https://doi.org/10.37135/u.editorial.05.47",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.37135/u.editorial.05.47",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "analisis-pragmatico-cultural",
+      "nombre": "Análisis Pragmático Cultural",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "The design and implementation of an English for Research Publication Purposes course: A corpus-based genre-analytic pedagogical intervention",
+              "anio": 2021,
+              "doi": "https://doi.org/10.20420/rlfe.2021.438",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://doi.org/10.20420/rlfe.2021.438",
+              "revisado": false
+            },
+            {
+              "titulo": "Tackling reflexivity in human-centred design research to benefit user needs and sensitivities",
+              "anio": 2025,
+              "doi": "https://doi.org/10.52611/bdi.num11.2025.1121",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://revistas.udd.cl/index.php/BDI/article/download/1121/969",
+              "revisado": false
+            },
+            {
+              "titulo": "Breaking the Silence on Food Risks for Elderly People Living Alone",
+              "anio": 2024,
+              "doi": "https://doi.org/10.3390/nu16162655",
+              "citas": 4,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2072-6643/16/16/2655/pdf?version=1723367954",
+              "revisado": false
+            },
+            {
+              "titulo": "UTILIZATION OF ELECTRONIC BILLING AND SERVICE DELIVERY IN SELECTED PUBLIC HOSPITALS IN KENYA",
+              "anio": 2025,
+              "doi": "https://doi.org/10.26668/businessreview/2025.v10i4.5431",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://openaccessojs.com/JBReview/article/download/5431/2245",
+              "revisado": false
+            },
+            {
+              "titulo": "Anglicizing Humor in a Spanish Satirical TV Show—Pragmatic Functions and Discourse Strategies",
+              "anio": 2025,
+              "doi": "https://doi.org/10.3390/languages10090230",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2226-471X/10/9/230/pdf?version=1757466723",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "tecnica-del-incidente-critico",
+      "nombre": "Tecnica del incidente critico",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "Fattori di rischio scolastici e dropout nella percezione degli studenti: il progetto internazionale ERASMUS KA2 ACCESS - School risk factors and dropout in students’ perception: the international ERASMUS KA2 ACCESS project",
+              "anio": 2019,
+              "doi": "https://doi.org/10.7346/sird-022019-p48",
+              "citas": 2,
+              "acceso_abierto": true,
+              "url": "https://ojs.pensamultimedia.it/index.php/sird/issue/download/210/60",
+              "revisado": false
+            },
+            {
+              "titulo": "The “methane problem” as an ongoing challenge to climate change communication and understanding. When data estimate uncertainties become a social uncertainty",
+              "anio": 2023,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://www.rivistainternazionaledisociologiagiuridica.net/wp-content/uploads/2024/02/Riv.-int.-soc.-giur.-n.-6-2023.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "repertory-grid",
+      "nombre": "Repertory grid",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "A COMPARABLE INTERPRETABILITY STUDY BETWEEN EVALUATION GRID METHOD, REPERTORY GRID METHOD AND TYPICAL FREE DESCRIPTION",
+              "anio": 2016,
+              "doi": "https://doi.org/10.3130/aije.81.661",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "https://www.jstage.jst.go.jp/article/aije/81/726/81_661/_pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "The qualitative analysis of repertory grid data: Interpretive Clustering",
+              "anio": 2020,
+              "doi": "https://doi.org/10.1080/14780887.2020.1794088",
+              "citas": 12,
+              "acceso_abierto": true,
+              "url": "https://pure.hud.ac.uk/en/publications/8a26100b-ec77-41f9-bb6e-24b3e4252d79",
+              "revisado": false
+            },
+            {
+              "titulo": "Using Personal and Online Repertory Grid Methods for the Development of a Luxury Brand Personality",
+              "anio": 2009,
+              "doi": null,
+              "citas": 54,
+              "acceso_abierto": true,
+              "url": "https://academic-publishing.org/index.php/ejbrm/article/download/1240/1203",
+              "revisado": false
+            },
+            {
+              "titulo": "Innovating Empirical Research on Legitimacy: Repertory Grid Analysis",
+              "anio": 2022,
+              "doi": "https://doi.org/10.3389/fpos.2022.832250",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "https://www.frontiersin.org/articles/10.3389/fpos.2022.832250/pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Important characteristics of software development team members: an empirical investigation using Repertory Grid",
+              "anio": 2007,
+              "doi": "https://doi.org/10.1111/j.1365-2575.2007.00254.x",
+              "citas": 92,
+              "acceso_abierto": true,
+              "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2575.2007.00254.x",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "antropologia-comparada",
+      "nombre": "Antropologia comparada",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "The perceptions of medical researchers on qualitative methodologies",
+              "anio": 2015,
+              "doi": "https://doi.org/10.1590/0102-311x00094414",
+              "citas": 28,
+              "acceso_abierto": true,
+              "url": "https://www.scielo.br/j/csp/a/DzHtc8S5cj4SW9mB8qrwX7t/?lang=en&format=pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Percepção de pesquisadores médicos sobre metodologias qualitativas",
+              "anio": 2015,
+              "doi": "https://doi.org/10.1590/0102-311x00094414",
+              "citas": 7,
+              "acceso_abierto": true,
+              "url": "https://www.arca.fiocruz.br/handle/icict/28503",
+              "revisado": false
+            },
+            {
+              "titulo": "A Comparative Empirical Study of Negotiation in Criminal Proceedings Between Brazil and the United States of America",
+              "anio": 2016,
+              "doi": null,
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://scholarworks.law.ubalt.edu/cgi/viewcontent.cgi?article=1044&context=ubjil",
+              "revisado": false
+            },
+            {
+              "titulo": "Cultural Typologies and Organizational Environment: A Conceptual Analysis",
+              "anio": 2008,
+              "doi": "https://doi.org/10.1080/10978520802189047",
+              "citas": 28,
+              "acceso_abierto": true,
+              "url": "https://www.tandfonline.com/doi/pdf/10.1080/10978520802189047?needAccess=true",
+              "revisado": false
+            },
+            {
+              "titulo": "Income Volatility and Poverty Dynamics in Brazil",
+              "anio": 2026,
+              "doi": "https://doi.org/10.31389/eco.531",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://economia.lse.ac.uk/articles/531/files/69738c81250b8.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    },
+    {
+      "id": "historia-comparada",
+      "nombre": "Historia comparada",
+      "categoria": "Construccion de modelos basados en tecnicas especificas",
+      "fases": [
+        {
+          "id": "pre",
+          "nombre": "1. Pre-análisis",
+          "color": "#4B2A82",
+          "objetivo": "No perder información mientras sea posible.",
+          "tareas": [
+            "Elaborar fichas",
+            "Organizar base de datos y metadata",
+            "Recolectar datos faltantes",
+            "Registrar información fácil de olvidar o perder"
+          ],
+          "orden": 1,
+          "animacion": {
+            "retraso_ms": 0
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "exp",
+          "nombre": "2. Exploración",
+          "color": "#6C3FB5",
+          "objetivo": "Poner los datos en contexto; puede ser una investigación en sí misma.",
+          "tareas": [
+            "Validar calidad: sesgos, intertextualidades, validación con participantes",
+            "Preguntas de adecuación: contexto que desafía el problema",
+            "Procesos y tipologías desde metáforas u otros estudios"
+          ],
+          "orden": 2,
+          "animacion": {
+            "retraso_ms": 220
+          },
+          "herramientas": [],
+          "papers": []
+        },
+        {
+          "id": "ana",
+          "nombre": "3. Análisis",
+          "color": "#B26EF2",
+          "objetivo": "Análisis profundo de los datos.",
+          "tareas": [
+            "Codificación deductiva o inductiva",
+            "Comparación constante y conceptualización",
+            "Construcción y verificación iterativa de hipótesis",
+            "Apoyo cuantitativo"
+          ],
+          "orden": 3,
+          "animacion": {
+            "retraso_ms": 440
+          },
+          "herramientas": [],
+          "papers": [
+            {
+              "titulo": "School Inquiry in Secondary Education: The Experience of the Fiesta de la Historia Youth Congress in Seville",
+              "anio": 2021,
+              "doi": "https://doi.org/10.3390/socsci10050165",
+              "citas": 3,
+              "acceso_abierto": true,
+              "url": "https://www.mdpi.com/2076-0760/10/5/165/pdf?version=1620889213",
+              "revisado": false
+            },
+            {
+              "titulo": "A pre-history of the idea of Funds of Knowledge / Una pre-historia de la idea de Fondos de Conocimiento",
+              "anio": 2025,
+              "doi": "https://doi.org/10.1177/02109395251397403",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://journals.sagepub.com/doi/pdf/10.1177/02109395251397403?download=true",
+              "revisado": false
+            },
+            {
+              "titulo": "Recent Research on the Economic History of latin America",
+              "anio": 1968,
+              "doi": "https://doi.org/10.1017/s0023879100028818",
+              "citas": 8,
+              "acceso_abierto": true,
+              "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6E3EAB1C3EFEDAE5400027EF50E67A62/S0023879100028818a.pdf/div-class-title-recent-research-on-the-economic-history-of-latin-america-div.pdf",
+              "revisado": false
+            },
+            {
+              "titulo": "Otherness measuring scale: design and validation for social sciences",
+              "anio": 2024,
+              "doi": "https://doi.org/10.1186/s40359-023-01505-8",
+              "citas": 0,
+              "acceso_abierto": true,
+              "url": "https://bmcpsychology.biomedcentral.com/counter/pdf/10.1186/s40359-023-01505-8",
+              "revisado": false
+            },
+            {
+              "titulo": "Perspectives on online learning: Advantages and challenges in higher education",
+              "anio": 2024,
+              "doi": "https://doi.org/10.30935/cedtech/15011",
+              "citas": 18,
+              "acceso_abierto": true,
+              "url": "https://www.cedtech.net/download/perspectives-on-online-learning-advantages-and-challenges-in-higher-education-15011.pdf",
+              "revisado": false
+            }
+          ]
+        },
+        {
+          "id": "sin",
+          "nombre": "4. Síntesis",
+          "color": "#D2A8FF",
+          "objetivo": "Redacción iterativa bajo distintos estilos.",
+          "tareas": [
+            "Narrativo, comparativo, temático",
+            "Teoría fundamentada, síntesis de investigación"
+          ],
+          "orden": 4,
+          "animacion": {
+            "retraso_ms": 660
+          },
+          "herramientas": [],
+          "papers": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 7,
+    "action": "click",
+    "element": {
+      "tag": "div",
+      "text": "Analisis interno\n\nDescompone la realidad en partes para aprender de la fragmentación.\n\n24 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Descripcion pura",
+      "Describe fenómenos directamente sin filtros teóricos previos.",
+      "12 métodos en 3 categorías",
+      "Descripcion limitada por teoria",
+      "Utiliza marcos teóricos específicos para guiar la descripción.",
+      "12 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 8,
+    "action": "click",
+    "element": {
+      "tag": "path",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Descripcion pura",
+      "Describe fenómenos directamente sin filtros teóricos previos.",
+      "12 métodos en 3 categorías",
+      "Descripcion limitada por teoria",
+      "Utiliza marcos teóricos específicos para guiar la descripción.",
+      "12 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 9,
+    "action": "click",
+    "element": {
+      "tag": "path",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Descripcion pura",
+      "Describe fenómenos directamente sin filtros teóricos previos.",
+      "12 métodos en 3 categorías",
+      "Descripcion limitada por teoria",
+      "Utiliza marcos teóricos específicos para guiar la descripción.",
+      "12 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 10,
+    "action": "click",
+    "element": {
+      "tag": "path",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Descripcion pura",
+      "Describe fenómenos directamente sin filtros teóricos previos.",
+      "12 métodos en 3 categorías",
+      "Descripcion limitada por teoria",
+      "Utiliza marcos teóricos específicos para guiar la descripción.",
+      "12 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 11,
+    "action": "click",
+    "element": {
+      "tag": "div",
+      "text": "Analisis formal\n\nSintetiza patrones para revelar estructuras formales y sistemáticas.\n\n24 Métodos",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {
+        "data-slot": "card"
+      },
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Induccion comparativa desde datos abiertos",
+      "Compara casos para identificar patrones emergentes.",
+      "14 métodos en 3 categorías",
+      "Construccion de modelos basados en tecnicas especificas",
+      "Aplica técnicas formales para modelar estructuras sociales.",
+      "10 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 12,
+    "action": "click",
+    "element": {
+      "tag": "path",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Induccion comparativa desde datos abiertos",
+      "Compara casos para identificar patrones emergentes.",
+      "14 métodos en 3 categorías",
+      "Construccion de modelos basados en tecnicas especificas",
+      "Aplica técnicas formales para modelar estructuras sociales.",
+      "10 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 13,
+    "action": "click",
+    "element": {
+      "tag": "path",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Induccion comparativa desde datos abiertos",
+      "Compara casos para identificar patrones emergentes.",
+      "14 métodos en 3 categorías",
+      "Construccion de modelos basados en tecnicas especificas",
+      "Aplica técnicas formales para modelar estructuras sociales.",
+      "10 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  },
+  {
+    "page": "https://v0-sunburst-diagram-webpage.vercel.app/",
+    "index": 14,
+    "action": "click",
+    "element": {
+      "tag": "path",
+      "text": "",
+      "aria": "",
+      "title": "",
+      "href": "",
+      "data": {},
+      "fill": ""
+    },
+    "new_text": [
+      "Inicio",
+      "Induccion comparativa desde datos abiertos",
+      "Compara casos para identificar patrones emergentes.",
+      "14 métodos en 3 categorías",
+      "Construccion de modelos basados en tecnicas especificas",
+      "Aplica técnicas formales para modelar estructuras sociales.",
+      "10 métodos en 3 categorías"
+    ],
+    "tooltips": [],
+    "url_after": "https://v0-sunburst-diagram-webpage.vercel.app/"
+  }
+]

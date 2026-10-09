@@ -1,0 +1,514 @@
+{
+  "analisis-de-la-conversacion": [
+    {
+      "file": "analisis-de-la-conversacion_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "tesis",
+          "titulo": "La organización secuencial de las reparaciones en interacciones entre profesor y alumnos de español como lengua extranjera centradas en el significado: Repercusión en la intersubjetividad y la competencia interaccional de los hablantes",
+          "autores": [
+            "Jaume Batlle Rodríguez"
+          ],
+          "anio_publicacion": null
+        },
+        "metodo_identificado": "Análisis de la Conversación (AC)",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Asistir a congresos y formaciones especializadas en análisis de la conversación aplicado a la enseñanza de lenguas extranjeras para fundamentar la investigación"
+            },
+            {
+              "orden_global": 2,
+              "accion": "Realizar un máster en Investigación en Didáctica de la Lengua y la Literatura con memoria centrada en las reparaciones en el aula de español como lengua extranjera"
+            },
+            {
+              "orden_global": 3,
+              "accion": "Definir los objetivos de la investigación: analizar exhaustivamente cómo se llevan a cabo las reparaciones, descubrir qué ocurre tras la solución del problema y caracterizar la competencia interaccional de los participantes"
+            },
+            {
+              "orden_global": 4,
+              "accion": "Establecer el marco teórico sobre el Análisis de la Conversación, la estructura de la conversación, la interacción institucional y la reparación como fenómeno conversacional"
+            },
+            {
+              "orden_global": 5,
+              "accion": "Revisar el estado de la cuestión sobre la reparación en el ámbito de la enseñanza y aprendizaje de lenguas extranjeras"
+            },
+            {
+              "orden_global": 6,
+              "accion": "Seleccionar el Análisis de la Conversación como metodología de investigación"
+            },
+            {
+              "orden_global": 7,
+              "accion": "Obtener permiso y colaboración de profesores y alumnos para grabar las interacciones en el aula"
+            },
+            {
+              "orden_global": 8,
+              "accion": "Grabar en vídeo/audio las interacciones entre profesor y alumnos durante un trimestre otoñal en 2012"
+            },
+            {
+              "orden_global": 9,
+              "accion": "Registrar los datos: contexto de recogida, informantes (12 estudiantes y 2 profesores) y características de las interacciones"
+            },
+            {
+              "orden_global": 10,
+              "accion": "Transcribir los datos utilizando un sistema de transcripción específico (detallado en el anejo II)"
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 11,
+              "accion": "Realizar una exploración inicial de las transcripciones para identificar los diferentes tipos de reparación presentes en los datos"
+            },
+            {
+              "orden_global": 12,
+              "accion": "Ordenar y clasificar las interacciones según los tipos de reparación establecidos en función de quién señala el problema y quién aporta la solución"
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 13,
+              "accion": "Aplicar el análisis secuencial propio del Análisis de la Conversación para examinar cómo se desarrollan las secuencias de reparación"
+            },
+            {
+              "orden_global": 14,
+              "accion": "Codificar y categorizar los datos según la tipología de reparaciones: ARAI, ARHI, HRAI, HRHI, iniciadas por alumno o profesor, y sus variantes (didácticas, conversacionales, encubiertas, etc.)"
+            },
+            {
+              "orden_global": 15,
+              "accion": "Analizar en detalle cada tipo de reparación encontrado, incluyendo su carácter didáctico o conversacional, y las implicaciones para la intersubjetividad"
+            },
+            {
+              "orden_global": 16,
+              "accion": "Examinar cómo se recupera la interacción tras la secuencia de reparación y quién es el encargado de restablecerla"
+            },
+            {
+              "orden_global": 17,
+              "accion": "Identificar patrones en la organización secuencial de las reparaciones y su relación con la competencia interaccional de los participantes"
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 18,
+              "accion": "Redactar memos analíticos y reflexiones sobre los hallazgos obtenidos en el análisis"
+            },
+            {
+              "orden_global": 19,
+              "accion": "Integrar los resultados teóricos y empíricos para caracterizar la competencia interaccional del aula y de los estudiantes"
+            },
+            {
+              "orden_global": 20,
+              "accion": "Elaborar el reporte final de la tesis doctoral, incluyendo la discusión de resultados, conclusiones y futuras líneas de investigación"
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 21,
+              "accion": "Validar los resultados mediante la discusión con la directora de tesis y la comunidad académica"
+            },
+            {
+              "orden_global": 22,
+              "accion": "Revisar y refinar el análisis de forma iterativa a lo largo del proceso de investigación"
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto proporcionado corresponde principalmente a la introducción, índice y marco teórico de la tesis. No se incluyen los capítulos de metodología y análisis completos, por lo que algunos pasos procedimentales (especialmente los de análisis profundo y síntesis) se han inferido a partir de la estructura y descripciones del documento. La fecha de publicación no se especifica en el fragmento."
+      }
+    }
+  ],
+  "analisis-funcional": [
+    {
+      "file": "analisis-funcional_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "tesis",
+          "titulo": "Análisis funcional de la Guelaguetza agrícola",
+          "autores": [
+            "Jorge Martínez Ríos"
+          ],
+          "anio_publicacion": "1963"
+        },
+        "metodo_identificado": "análisis funcional",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Realizar varias temporadas de trabajo de campo en los Valles Centrales de Oaxaca para recopilar información empírica sobre la comunidad zapoteca de San Juan Guelavía."
+            },
+            {
+              "orden_global": 2,
+              "accion": "Seleccionar informantes clave de la comunidad de San Juan Guelavía para levantar la información etnográfica."
+            },
+            {
+              "orden_global": 3,
+              "accion": "Revisar la literatura teórica sobre el análisis funcional en sociología y antropología, incluyendo a Durkheim, Mauss, Malinowski, Radcliffe-Brown y Merton."
+            },
+            {
+              "orden_global": 4,
+              "accion": "Construir un marco teórico basado en el paradigma de análisis funcional de Merton para guiar la investigación."
+            },
+            {
+              "orden_global": 5,
+              "accion": "Definir el problema de investigación: el papel de la Guelaguetza agrícola en las relaciones entre individuos y grupos, y su influencia por los cambios económicos (reforma agraria y cestería)."
+            },
+            {
+              "orden_global": 6,
+              "accion": "Formular preguntas de investigación sobre el efecto de equilibrio, la imposición por grupos y la aceptación dinámica de las normas de la institución."
+            },
+            {
+              "orden_global": 7,
+              "accion": "Seleccionar el análisis funcional como procedimiento metodológico para probar empíricamente el paradigma de Merton."
+            },
+            {
+              "orden_global": 8,
+              "accion": "Organizar la información recopilada en campo para su posterior análisis."
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 9,
+              "accion": "Realizar una exploración inicial de los datos empíricos recolectados sobre la Guelaguetza agrícola."
+            },
+            {
+              "orden_global": 10,
+              "accion": "Identificar las primeras impresiones sobre el papel de la Guelaguetza como institución integrativa en la comunidad."
+            },
+            {
+              "orden_global": 11,
+              "accion": "Ordenar las transcripciones y notas de campo para su análisis."
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 12,
+              "accion": "Aplicar el paradigma de análisis funcional de Merton para examinar las funciones manifiestas y latentes de la Guelaguetza agrícola."
+            },
+            {
+              "orden_global": 13,
+              "accion": "Analizar las consecuencias funcionales y disfuncionales de la Guelaguetza para diferentes grupos e individuos de la comunidad."
+            },
+            {
+              "orden_global": 14,
+              "accion": "Examinar los elementos estructurales de la comunidad (tenencia de la tierra, relaciones de producción, división del trabajo) y su relación con la Guelaguetza."
+            },
+            {
+              "orden_global": 15,
+              "accion": "Comparar los datos empíricos con los postulados del análisis funcional (unidad funcional, funcionalismo universal, indispensabilidad) para probar su validez."
+            },
+            {
+              "orden_global": 16,
+              "accion": "Identificar alternativas funcionales o equivalentes funcionales de la Guelaguetza en el contexto de cambios estructurales."
+            },
+            {
+              "orden_global": 17,
+              "accion": "Triangular la información de diferentes informantes y observaciones de campo para validar los hallazgos."
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 18,
+              "accion": "Redactar memos analíticos sobre los hallazgos del análisis funcional de la Guelaguetza."
+            },
+            {
+              "orden_global": 19,
+              "accion": "Construir un modelo teórico que explique el papel de la Guelaguetza en la estructura social de San Juan Guelavía."
+            },
+            {
+              "orden_global": 20,
+              "accion": "Integrar los resultados teóricos y empíricos para responder las preguntas de investigación."
+            },
+            {
+              "orden_global": 21,
+              "accion": "Elaborar el reporte final de la investigación, incluyendo conclusiones sobre logros y problemas del análisis funcional."
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 22,
+              "accion": "Revisar críticamente las limitaciones del análisis funcional para explicar el cambio social y el conflicto social en la comunidad."
+            },
+            {
+              "orden_global": 23,
+              "accion": "Incluir un apéndice con las críticas al funcionalismo y al análisis estructural-funcional de autores como Davis, Dahrendorf, Agulla, Nagel y Fernandes."
+            },
+            {
+              "orden_global": 24,
+              "accion": "Realizar un proceso iterativo de comparación entre los datos empíricos y la teoría funcional para refinar el análisis."
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto es una tesis de 1963 con OCR imperfecto; algunos pasajes son ilegibles. La extracción se basa en las secciones visibles y la estructura del documento."
+      }
+    }
+  ],
+  "tecnica-del-incidente-critico": [
+    {
+      "file": "tecnica-del-incidente-critico_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "paper",
+          "titulo": "Understanding the causes of intravenous medication administration errors in hospitals: a qualitative critical incident study",
+          "autores": [
+            "Richard N Keers",
+            "Steven D Williams",
+            "Jonathan Cooke",
+            "Darren M Ashcroft"
+          ],
+          "anio_publicacion": "2015"
+        },
+        "metodo_identificado": "Estudio cualitativo de incidentes críticos (Critical Incident Technique) con entrevistas semiestructuradas y análisis mediante Framework Analysis",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Definir el objetivo del estudio: investigar las causas subyacentes de los errores de administración de medicación intravenosa (MAEs) en hospitales del NHS."
+            },
+            {
+              "orden_global": 2,
+              "accion": "Seleccionar dos hospitales universitarios del NHS en el Noroeste de Inglaterra como entornos de estudio."
+            },
+            {
+              "orden_global": 3,
+              "accion": "Definir los criterios de elegibilidad de los participantes: enfermeros que trabajaran en entornos de sala o quirófano y estuvieran dispuestos a discutir las causas de al menos un MAE intravenoso en el que hubieran estado directamente involucrados."
+            },
+            {
+              "orden_global": 4,
+              "accion": "Reclutar participantes mediante muestreo intencional (purposive sampling) en cada sitio de estudio, con la ayuda de contactos de estudio que distribuyeron información a enfermeros en salas donde se administraban medicamentos intravenosos con frecuencia."
+            },
+            {
+              "orden_global": 5,
+              "accion": "Entregar a cada enfermero interesado un paquete de estudio que contenía una carta de invitación, una hoja de información para el participante y un cuestionario previo a la entrevista."
+            },
+            {
+              "orden_global": 6,
+              "accion": "Programar las entrevistas una vez que los participantes devolvieron el cuestionario previo a la entrevista al investigador (RNK)."
+            },
+            {
+              "orden_global": 7,
+              "accion": "Obtener consentimiento informado por escrito de cada participante en cada entrevista, asegurando que todos los resultados serían anonimizados."
+            },
+            {
+              "orden_global": 8,
+              "accion": "Construir una guía de entrevista basada en los principios de la Técnica de Incidentes Críticos (CIT) y en trabajos previos sobre errores de prescripción, con modificaciones tipográficas menores tras una prueba piloto en un sitio de estudio."
+            },
+            {
+              "orden_global": 9,
+              "accion": "Recolectar información demográfica de fondo antes de que los participantes recordaran los MAE(s) en detalle, incluyendo naturaleza, circunstancias y causas subyacentes percibidas."
+            },
+            {
+              "orden_global": 10,
+              "accion": "Realizar entrevistas cara a cara semiestructuradas con cada enfermero participante en salas privadas de cada hospital, con una duración de 26 a 60 minutos."
+            },
+            {
+              "orden_global": 11,
+              "accion": "Grabar en audio las entrevistas y transcribirlas textualmente (verbatim)."
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 12,
+              "accion": "Leer y revisar las transcripciones de las entrevistas para obtener una comprensión inicial de los datos."
+            },
+            {
+              "orden_global": 13,
+              "accion": "Ordenar y organizar las transcripciones para su posterior análisis."
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 14,
+              "accion": "Codificar y analizar las transcripciones de las entrevistas utilizando el software de análisis cualitativo NVivo (V.10)."
+            },
+            {
+              "orden_global": 15,
+              "accion": "Aplicar el enfoque de Análisis de Marco (Framework analysis) para el análisis de datos cualitativos."
+            },
+            {
+              "orden_global": 16,
+              "accion": "Utilizar el modelo de causación de accidentes de Reason para informar la generación de temas dentro del enfoque de marco, basado en conocimiento a priori y datos emergentes de las entrevistas."
+            },
+            {
+              "orden_global": 17,
+              "accion": "Codificar los datos como fallos activos y fallos latentes, incluyendo condiciones que provocan errores y violaciones y decisiones organizativas de alto nivel."
+            },
+            {
+              "orden_global": 18,
+              "accion": "Verificar la precisión de la codificación de cada fallo activo mediante la revisión por un segundo autor (SDW, JC y DMA)."
+            },
+            {
+              "orden_global": 19,
+              "accion": "Confirmar la fiabilidad del marco de codificación mediante dos autores (SDW y JC) que extrajeron y analizaron datos de forma independiente para 10 entrevistas."
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 20,
+              "accion": "Categorizar los temas emergentes según el modelo de causación de accidentes de Reason."
+            },
+            {
+              "orden_global": 21,
+              "accion": "Integrar los resultados teóricos y empíricos para describir las interacciones complejas entre fallos activos y latentes que conducen a los MAEs intravenosos."
+            },
+            {
+              "orden_global": 22,
+              "accion": "Elaborar el reporte final del estudio, incluyendo la discusión de implicaciones, limitaciones y recomendaciones para intervenciones."
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 23,
+              "accion": "Realizar un proceso iterativo de comparación de datos y temas emergentes durante el análisis."
+            },
+            {
+              "orden_global": 24,
+              "accion": "Lograr la saturación de datos en los temas principales emergentes."
+            },
+            {
+              "orden_global": 25,
+              "accion": "Minimizar el sesgo de deseabilidad social mediante el uso de la Técnica de Incidentes Críticos, alentando a los enfermeros a explorar sus comportamientos reales y describir las circunstancias en detalle."
+            },
+            {
+              "orden_global": 26,
+              "accion": "Abordar el sesgo de recuerdo y retrospectivo reconociendo la dependencia de autoinformes y alentando a los participantes a revelar fallos latentes."
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto no menciona explícitamente la redacción de memos analíticos ni la construcción de modelos teóricos formales, pero se infieren en la síntesis de resultados y la elaboración del reporte. La fase de interpretación de fuentes se infiere de la lectura y organización de transcripciones, aunque no se detalla explícitamente en el texto."
+      }
+    }
+  ],
+  "analisis-de-practicas": [
+    {
+      "file": "analisis-de-practicas_0.pdf",
+      "status": "processed",
+      "resultado": {
+        "metadatos": {
+          "tipo_documento": "paper",
+          "titulo": "How can documents speak about practices? Practice tracing, the Wikileaks cables, and diplomatic culture",
+          "autores": [
+            "Jérémie Cornut",
+            "Nicolas de Zamaróczy"
+          ],
+          "anio_publicacion": "2020"
+        },
+        "metodo_identificado": "Análisis de documentos (looking at and through documents) complementado con observación participante",
+        "fases_procedimentales": {
+          "pre_analisis": [
+            {
+              "orden_global": 1,
+              "accion": "Realizar observación participante durante 13 meses en Dar es Salaam (2008 y 2010) para obtener conocimiento contextual sobre prácticas diplomáticas y el contexto político tanzano."
+            },
+            {
+              "orden_global": 2,
+              "accion": "Seleccionar un corpus de 408 cables diplomáticos de la Embajada de EE. UU. en Dar es Salaam, Tanzania, emitidos entre el 1 de enero de 2005 y el 31 de diciembre de 2009, a partir del dataset Public Library of US Diplomacy de WikiLeaks."
+            },
+            {
+              "orden_global": 3,
+              "accion": "Definir el marco teórico basado en la teoría de prácticas internacionales y en trabajos antropológicos sobre documentos burocráticos."
+            },
+            {
+              "orden_global": 4,
+              "accion": "Establecer dos preguntas de investigación: (1) ¿Qué prácticas epistémicas subyacen a la producción de los cables? (2) ¿Cómo la forma estilizada de los cables arroja luz sobre sus funciones sociales?"
+            },
+            {
+              "orden_global": 5,
+              "accion": "Operacionalizar seis categorías de fuentes de conocimiento: élites tanzanas, élites no tanzanas, no élites tanzanas, informes de medios, conocimiento histórico/sociológico y conocimiento directo por observación."
+            },
+            {
+              "orden_global": 6,
+              "accion": "Diseñar un protocolo de codificación manual para que un equipo de codificadores registre la presencia de cada tipo de fuente de conocimiento en cada cable."
+            }
+          ],
+          "interpretacion_fuentes": [
+            {
+              "orden_global": 7,
+              "accion": "Realizar una lectura inicial de los cables para identificar patrones generales en el contenido y la forma."
+            },
+            {
+              "orden_global": 8,
+              "accion": "Utilizar el conocimiento etnográfico previo para guiar la interpretación de los cables y decidir qué elementos buscar."
+            },
+            {
+              "orden_global": 9,
+              "accion": "Examinar la estructura formal de los cables: encabezado, resumen, cuerpo, sección COMMENT y firma."
+            }
+          ],
+          "analisis_profundo": [
+            {
+              "orden_global": 10,
+              "accion": "Aplicar la técnica de 'mirar a través de' (looking through) los documentos para inferir las condiciones materiales, burocráticas y epistémicas que permitieron su creación."
+            },
+            {
+              "orden_global": 11,
+              "accion": "Aplicar la técnica de 'mirar a' (looking at) los documentos para identificar los efectos de socialización en los lectores y escritores."
+            },
+            {
+              "orden_global": 12,
+              "accion": "Codificar manualmente cada cable para determinar la presencia de cada una de las seis categorías de fuentes de conocimiento."
+            },
+            {
+              "orden_global": 13,
+              "accion": "Calcular porcentajes de cables que contienen cada tipo de fuente de conocimiento (por ejemplo, élites tanzanas 76%, élites extranjeras 22%, no élites tanzanas 10%, medios 10%, conocimiento histórico 13%, conocimiento sociológico 10%, visitas de campo 6%)."
+            },
+            {
+              "orden_global": 14,
+              "accion": "Analizar el uso de pronombres personales en los cables: contar la frecuencia de 'I', 'me', 'my' (1%) y 'we' (34%)."
+            },
+            {
+              "orden_global": 15,
+              "accion": "Analizar el uso de voz pasiva y vocabulario técnico especializado en los cables."
+            },
+            {
+              "orden_global": 16,
+              "accion": "Analizar las listas de distribución de los cables (media de 6.87 oficinas receptoras) para inferir redes sociales y jerarquías."
+            }
+          ],
+          "sintesis": [
+            {
+              "orden_global": 17,
+              "accion": "Integrar los hallazgos cuantitativos y cualitativos para construir dos narrativas: una sobre prácticas epistémicas y otra sobre cultura diplomática."
+            },
+            {
+              "orden_global": 18,
+              "accion": "Relacionar los resultados con la literatura existente sobre teoría de prácticas y socialización diplomática."
+            },
+            {
+              "orden_global": 19,
+              "accion": "Discutir las implicaciones generales de los hallazgos para la política exterior de EE. UU. y la práctica diplomática."
+            },
+            {
+              "orden_global": 20,
+              "accion": "Redactar el artículo académico con secciones dedicadas a la revisión de literatura, método, análisis empírico y conclusiones."
+            }
+          ],
+          "pasos_adicionales": [
+            {
+              "orden_global": 21,
+              "accion": "Validar la autenticidad de los cables de WikiLeaks mediante corroboración con fuentes externas."
+            },
+            {
+              "orden_global": 22,
+              "accion": "Reconocer las limitaciones del estudio: corpus limitado a una embajada, cinco años, y documentos en inglés."
+            },
+            {
+              "orden_global": 23,
+              "accion": "Comparar los hallazgos con estudios previos sobre prácticas diplomáticas en otras embajadas (por ejemplo, Cornut 2015a)."
+            },
+            {
+              "orden_global": 24,
+              "accion": "Sugerir aplicaciones futuras del método a otros tipos de documentos (informes de OIs, resoluciones, actas de reuniones)."
+            }
+          ]
+        },
+        "confianza_extraccion": "alta",
+        "notas_limitaciones": "El texto describe el método de manera detallada pero no presenta un protocolo paso a paso formal; la extracción se basa en la descripción narrativa de la metodología. La observación participante se menciona como informante del análisis, no como fase separada."
+      }
+    }
+  ]
+}

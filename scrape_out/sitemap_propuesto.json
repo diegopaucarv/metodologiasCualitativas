@@ -1,0 +1,158 @@
+{
+  "base": "https://v0-sunburst-diagram-webpage.vercel.app/",
+  "arbol": {
+    "Analisis Interno": {
+      "Descripcion pura": {
+        "Analisis naturalista": [
+          "etnometodologia",
+          "hermeneutica-objetiva",
+          "analisis-de-contenido-cualitativo",
+          "analisis-de-practicas",
+          "fenomenografia"
+        ],
+        "Analisis linguistico": [
+          "analisis-de-la-conversacion",
+          "analisis-narrativo-dialogico",
+          "analisis-narrativo-performativo"
+        ],
+        "Conceptualizacion": [
+          "tematizacion",
+          "descripcion-interpretativa",
+          "teoria-fundamentada-straussiana",
+          "teoria-fundamentada-constructivista-o-analisis-situacional"
+        ]
+      },
+      "Descripcion limitada por teoria": {
+        "Analisis naturalista": [
+          "analisis-fenomenologico-interpretativo",
+          "analisis-narrativo",
+          "analisis-psicoanalitico",
+          "analisis-tematico-reflexivo",
+          "analisis-basado-en-giros-post"
+        ],
+        "Analisis linguistico": [
+          "analisis-del-discurso",
+          "analisis-del-discurso-critico"
+        ],
+        "Conceptualizacion": [
+          "codificacion-ocm",
+          "analisis-funcional",
+          "analisis-de-redes-sociales-cualitativo",
+          "analisis-sistemico",
+          "analisis-organizacional-o-institucional"
+        ]
+      }
+    },
+    "Analisis Formal": {
+      "Induccion comparativa desde datos abiertos": {
+        "Analisis linguistico": [
+          "analisis-de-metaforas",
+          "analisis-de-recursos",
+          "modelos-mentales"
+        ],
+        "Conceptualizacion": [
+          "induccion-analitica",
+          "teoria-fundamentada-clasica",
+          "metodo-gioia",
+          "systematic-combining",
+          "enfoque-de-construccion-de-teoria-desde-casos-eisenhardt",
+          "teorizacion-centrada-en-el-diseno-stigliani-corley-gioia"
+        ],
+        "Metodos causales": [
+          "analisis-cualitativo-comparativo",
+          "process-tracing",
+          "event-structure-analysis",
+          "analisis-cualitativo-longitudinal",
+          "estrategias-de-teorizacion-de-procesos-langley"
+        ]
+      },
+      "Construccion de modelos basados en tecnicas especificas": {
+        "Analisis linguistico": [
+          "dominios-culturales",
+          "metodologia-q",
+          "analisis-de-marco",
+          "analisis-logico",
+          "analisis-narrativo-funcional",
+          "analisis-pragmatico-cultural"
+        ],
+        "Analisis naturalista": [
+          "tecnica-del-incidente-critico"
+        ],
+        "Conceptualizacion": [
+          "repertory-grid",
+          "antropologia-comparada",
+          "historia-comparada"
+        ]
+      }
+    }
+  },
+  "rutas": [
+    "/",
+    "/analisis-formal",
+    "/analisis-interno",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos",
+    "/analisis-interno/descripcion-limitada-por-teoria",
+    "/analisis-interno/descripcion-pura",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-naturalista",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/conceptualizacion",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/analisis-linguistico",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/metodos-causales",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-linguistico",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-naturalista",
+    "/analisis-interno/descripcion-limitada-por-teoria/conceptualizacion",
+    "/analisis-interno/descripcion-pura/analisis-linguistico",
+    "/analisis-interno/descripcion-pura/analisis-naturalista",
+    "/analisis-interno/descripcion-pura/conceptualizacion",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico/analisis-de-marco",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico/analisis-logico",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico/analisis-narrativo-funcional",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico/analisis-pragmatico-cultural",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico/dominios-culturales",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-linguistico/metodologia-q",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/analisis-naturalista/tecnica-del-incidente-critico",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/conceptualizacion/antropologia-comparada",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/conceptualizacion/historia-comparada",
+    "/analisis-formal/construccion-de-modelos-basados-en-tecnicas-especificas/conceptualizacion/repertory-grid",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/analisis-linguistico/analisis-de-metaforas",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/analisis-linguistico/analisis-de-recursos",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/analisis-linguistico/modelos-mentales",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion/enfoque-de-construccion-de-teoria-desde-casos-eisenhardt",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion/induccion-analitica",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion/metodo-gioia",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion/systematic-combining",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion/teoria-fundamentada-clasica",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/conceptualizacion/teorizacion-centrada-en-el-diseno-stigliani-corley-gioia",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/metodos-causales/analisis-cualitativo-comparativo",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/metodos-causales/analisis-cualitativo-longitudinal",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/metodos-causales/estrategias-de-teorizacion-de-procesos-langley",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/metodos-causales/event-structure-analysis",
+    "/analisis-formal/induccion-comparativa-desde-datos-abiertos/metodos-causales/process-tracing",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-linguistico/analisis-del-discurso",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-linguistico/analisis-del-discurso-critico",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-naturalista/analisis-basado-en-giros-post",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-naturalista/analisis-fenomenologico-interpretativo",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-naturalista/analisis-narrativo",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-naturalista/analisis-psicoanalitico",
+    "/analisis-interno/descripcion-limitada-por-teoria/analisis-naturalista/analisis-tematico-reflexivo",
+    "/analisis-interno/descripcion-limitada-por-teoria/conceptualizacion/analisis-de-redes-sociales-cualitativo",
+    "/analisis-interno/descripcion-limitada-por-teoria/conceptualizacion/analisis-funcional",
+    "/analisis-interno/descripcion-limitada-por-teoria/conceptualizacion/analisis-organizacional-o-institucional",
+    "/analisis-interno/descripcion-limitada-por-teoria/conceptualizacion/analisis-sistemico",
+    "/analisis-interno/descripcion-limitada-por-teoria/conceptualizacion/codificacion-ocm",
+    "/analisis-interno/descripcion-pura/analisis-linguistico/analisis-de-la-conversacion",
+    "/analisis-interno/descripcion-pura/analisis-linguistico/analisis-narrativo-dialogico",
+    "/analisis-interno/descripcion-pura/analisis-linguistico/analisis-narrativo-performativo",
+    "/analisis-interno/descripcion-pura/analisis-naturalista/analisis-de-contenido-cualitativo",
+    "/analisis-interno/descripcion-pura/analisis-naturalista/analisis-de-practicas",
+    "/analisis-interno/descripcion-pura/analisis-naturalista/etnometodologia",
+    "/analisis-interno/descripcion-pura/analisis-naturalista/fenomenografia",
+    "/analisis-interno/descripcion-pura/analisis-naturalista/hermeneutica-objetiva",
+    "/analisis-interno/descripcion-pura/conceptualizacion/descripcion-interpretativa",
+    "/analisis-interno/descripcion-pura/conceptualizacion/tematizacion",
+    "/analisis-interno/descripcion-pura/conceptualizacion/teoria-fundamentada-constructivista-o-analisis-situacional",
+    "/analisis-interno/descripcion-pura/conceptualizacion/teoria-fundamentada-straussiana"
+  ]
+}

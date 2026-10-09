@@ -1,0 +1,82 @@
+<!DOCTYPE html><!--iibr43OIwPxFShAHbsVtn--><html lang="es"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/chunks/89191e950defc550.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/833836723eb4ece9.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/5b1b8f9bd8f0faac.js"/><script src="/_next/static/chunks/112f346e31f991df.js" async=""></script><script src="/_next/static/chunks/18a5a133fb68ca26.js" async=""></script><script src="/_next/static/chunks/497f7b5edc7d3fce.js" async=""></script><script src="/_next/static/chunks/turbopack-dea158e87050dd39.js" async=""></script><script src="/_next/static/chunks/1d89ed972a208c42.js" async=""></script><script src="/_next/static/chunks/42879de7b8087bc9.js" async=""></script><title>404: This page could not be found.</title><meta name="robots" content="noindex"/><meta name="next-size-adjust" content=""/><title>Metodologías de Análisis Cualitativo</title><meta name="description" content="No son habilidades, sino paquetes de técnicas para analizar datos. Algunos requieren técnicas de recolección de datos muy específicas. Algunos usan la codificación, pero no todos."/><meta name="generator" content="v0.app"/><link rel="icon" href="/icon-light-32x32.png" media="(prefers-color-scheme: light)"/><link rel="icon" href="/icon-dark-32x32.png" media="(prefers-color-scheme: dark)"/><link rel="icon" href="/icon.svg" type="image/svg+xml"/><link rel="apple-touch-icon" href="/apple-icon.png"/><script src="/_next/static/chunks/a6dad97d9634a72d.js" noModule=""></script></head><body class="inter_fd091ad6-module__giF-bG__variable poppins_e23d562c-module__uqUAkW__variable antialiased font-display"><div hidden=""><!--$--><!--/$--></div><!--$--><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding:0 23px 0 0;font-size:24px;font-weight:500;vertical-align:top;line-height:49px">404</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:49px;margin:0">This page could not be found.</h2></div></div></div><!--$--><!--/$--><!--/$--><!--$!--><template data-dgst="BAILOUT_TO_CLIENT_SIDE_RENDERING"></template><!--/$--><div><div id="v0-built-with-button-0c68d787-6e78-477d-8d1c-7c890e788a49" style="
+border: 1px solid hsl(0deg 0% 100% / 12%);
+position: fixed;
+bottom: 24px;
+right: 24px;
+z-index: 1000;
+background: #121212;
+color: white;
+padding: 8px 12px;
+border-radius: 8px;
+font-weight: 400;
+font-size: 14px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+letter-spacing: 0.02em;
+transition: all 0.2s;
+display: flex;
+align-items: center;
+gap: 4px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+">
+<a
+  href="https://v0.app/chat/api/open/built-with-v0/b_HElGN4dNHKw?ref=OBS1OG"
+  target="_blank"
+  rel="noopener"
+  style="
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  "
+>
+  Built with
+  <svg
+    fill="currentColor"
+    viewBox="0 0 147 70"
+    xmlns="http://www.w3.org/2000/svg"
+    style="width: 20px; height: 20px;"
+  >
+    <path d="M56 50.2031V14H70V60.1562C70 65.5928 65.5928 70 60.1562 70C57.5605 70 54.9982 68.9992 53.1562 67.1573L0 14H19.7969L56 50.2031Z" />
+    <path d="M147 56H133V23.9531L100.953 56H133V70H96.6875C85.8144 70 77 61.1856 77 50.3125V14H91V46.1562L123.156 14H91V0H127.312C138.186 0 147 8.81439 147 19.6875V56Z" />
+  </svg>
+</a>
+
+<button
+  onclick="document.getElementById('v0-built-with-button-0c68d787-6e78-477d-8d1c-7c890e788a49').style.display='none'"
+  onmouseenter="this.style.opacity='1'"
+  onmouseleave="this.style.opacity='0.7'"
+  style="
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 2px;
+    margin-left: 4px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+    transform: translateZ(0);
+  "
+  aria-label="Close"
+>
+  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 6L6 18M6 6l12 12"/>
+  </svg>
+</button>
+
+<span style="
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+">
+  v0
+</span>
+</div></div><script src="/_next/static/chunks/5b1b8f9bd8f0faac.js" id="_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n2:I[39756,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"default\"]\n3:I[37457,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"default\"]\n4:I[2355,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"Analytics\"]\na:I[68027,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"default\"]\n:HL[\"/_next/static/chunks/89191e950defc550.css\",\"style\"]\n:HL[\"/_next/static/chunks/833836723eb4ece9.css\",\"style\"]\n5:T84a,"])</script><script>self.__next_f.push([1,"\u003cdiv id=\"v0-built-with-button-0c68d787-6e78-477d-8d1c-7c890e788a49\" style=\"\nborder: 1px solid hsl(0deg 0% 100% / 12%);\nposition: fixed;\nbottom: 24px;\nright: 24px;\nz-index: 1000;\nbackground: #121212;\ncolor: white;\npadding: 8px 12px;\nborder-radius: 8px;\nfont-weight: 400;\nfont-size: 14px;\nbox-shadow: 0 2px 8px rgba(0,0,0,0.12);\nletter-spacing: 0.02em;\ntransition: all 0.2s;\ndisplay: flex;\nalign-items: center;\ngap: 4px;\nfont-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n\"\u003e\n\u003ca\n  href=\"https://v0.app/chat/api/open/built-with-v0/b_HElGN4dNHKw?ref=OBS1OG\"\n  target=\"_blank\"\n  rel=\"noopener\"\n  style=\"\n    color: inherit;\n    text-decoration: none;\n    display: flex;\n    align-items: center;\n    gap: 4px;\n  \"\n\u003e\n  Built with\n  \u003csvg\n    fill=\"currentColor\"\n    viewBox=\"0 0 147 70\"\n    xmlns=\"http://www.w3.org/2000/svg\"\n    style=\"width: 20px; height: 20px;\"\n  \u003e\n    \u003cpath d=\"M56 50.2031V14H70V60.1562C70 65.5928 65.5928 70 60.1562 70C57.5605 70 54.9982 68.9992 53.1562 67.1573L0 14H19.7969L56 50.2031Z\" /\u003e\n    \u003cpath d=\"M147 56H133V23.9531L100.953 56H133V70H96.6875C85.8144 70 77 61.1856 77 50.3125V14H91V46.1562L123.156 14H91V0H127.312C138.186 0 147 8.81439 147 19.6875V56Z\" /\u003e\n  \u003c/svg\u003e\n\u003c/a\u003e\n\n\u003cbutton\n  onclick=\"document.getElementById('v0-built-with-button-0c68d787-6e78-477d-8d1c-7c890e788a49').style.display='none'\"\n  onmouseenter=\"this.style.opacity='1'\"\n  onmouseleave=\"this.style.opacity='0.7'\"\n  style=\"\n    background: none;\n    border: none;\n    color: white;\n    cursor: pointer;\n    padding: 2px;\n    margin-left: 4px;\n    border-radius: 2px;\n    display: flex;\n    align-items: center;\n    opacity: 0.7;\n    transition: opacity 0.2s;\n    transform: translateZ(0);\n  \"\n  aria-label=\"Close\"\n\u003e\n  \u003csvg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\u003e\n    \u003cpath d=\"M18 6L6 18M6 6l12 12\"/\u003e\n  \u003c/svg\u003e\n\u003c/button\u003e\n\n\u003cspan style=\"\n  position: absolute;\n  width: 1px;\n  height: 1px;\n  padding: 0;\n  margin: -1px;\n  overflow: hidden;\n  clip: rect(0, 0, 0, 0);\n  white-space: nowrap;\n\"\u003e\n  v0\n\u003c/span\u003e\n\u003c/div\u003e"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"b\":\"iibr43OIwPxFShAHbsVtn\",\"c\":[\"\",\"_not-found\"],\"q\":\"\",\"i\":false,\"f\":[[[\"\",{\"children\":[\"/_not-found\",{\"children\":[\"__PAGE__\",{}]}]},\"$undefined\",\"$undefined\",true],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/89191e950defc550.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/833836723eb4ece9.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/1d89ed972a208c42.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/42879de7b8087bc9.js\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"es\",\"children\":[\"$\",\"body\",null,{\"className\":\"inter_fd091ad6-module__giF-bG__variable poppins_e23d562c-module__uqUAkW__variable antialiased font-display\",\"children\":[[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":404}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}],[\"$\",\"$L4\",null,{}],[\"$\",\"div\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"$5\"}}]]}]}]]}],{\"children\":[\"$L6\",{\"children\":[\"$L7\",{},null,false,false]},null,false,false]},[\"$L8\",[],[]],false,false],\"$L9\",false]],\"m\":\"$undefined\",\"G\":[\"$a\",\"$undefined\"],\"S\":true}\n"])</script><script>self.__next_f.push([1,"b:I[97367,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"OutletBoundary\"]\nc:\"$Sreact.suspense\"\ne:I[97367,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"ViewportBoundary\"]\n10:I[97367,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"MetadataBoundary\"]\n6:[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}]\n7:[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":\"$0:f:0:1:0:props:children:1:props:children:props:children:0:props:notFound:0:1:props:style\",\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":\"$0:f:0:1:0:props:children:1:props:children:props:children:0:props:notFound:0:1:props:children:props:children:1:props:style\",\"children\":404}],[\"$\",\"div\",null,{\"style\":\"$0:f:0:1:0:props:children:1:props:children:props:children:0:props:notFound:0:1:props:children:props:children:2:props:style\",\"children\":[\"$\",\"h2\",null,{\"style\":\"$0:f:0:1:0:props:children:1:props:children:props:children:0:props:notFound:0:1:props:children:props:children:2:props:children:props:style\",\"children\":\"This page could not be found.\"}]}]]}]}]],null,[\"$\",\"$Lb\",null,{\"children\":[\"$\",\"$c\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@d\"}]}]]}]\n8:null\n9:[\"$\",\"$1\",\"h\",{\"children\":[[\"$\",\"meta\",null,{\"name\":\"robots\",\"content\":\"noindex\"}],[\"$\",\"$Le\",null,{\"children\":\"$@f\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$L10\",null,{\"children\":[\"$\",\"$c\",null,{\"name\":\"Next.Metadata\",\"children\":\"$@11\"}]}]}],[\"$\",\"meta\",null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]]}]\n"])</script><script>self.__next_f.push([1,"f:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n"])</script><script>self.__next_f.push([1,"12:I[27201,[\"/_next/static/chunks/1d89ed972a208c42.js\",\"/_next/static/chunks/42879de7b8087bc9.js\"],\"IconMark\"]\n11:[[\"$\",\"title\",\"0\",{\"children\":\"Metodologías de Análisis Cualitativo\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"No son habilidades, sino paquetes de técnicas para analizar datos. Algunos requieren técnicas de recolección de datos muy específicas. Algunos usan la codificación, pero no todos.\"}],[\"$\",\"meta\",\"2\",{\"name\":\"generator\",\"content\":\"v0.app\"}],[\"$\",\"link\",\"3\",{\"rel\":\"icon\",\"href\":\"/icon-light-32x32.png\",\"media\":\"(prefers-color-scheme: light)\"}],[\"$\",\"link\",\"4\",{\"rel\":\"icon\",\"href\":\"/icon-dark-32x32.png\",\"media\":\"(prefers-color-scheme: dark)\"}],[\"$\",\"link\",\"5\",{\"rel\":\"icon\",\"href\":\"/icon.svg\",\"type\":\"image/svg+xml\"}],[\"$\",\"link\",\"6\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-icon.png\"}],[\"$\",\"$L12\",\"7\",{}]]\nd:null\n"])</script></body></html>

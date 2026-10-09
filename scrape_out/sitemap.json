@@ -1,0 +1,11 @@
+{
+  "base": "https://v0-sunburst-diagram-webpage.vercel.app/",
+  "pages": {
+    "https://v0-sunburst-diagram-webpage.vercel.app/": {
+      "status": 200,
+      "title": "Metodologías de Análisis Cualitativo",
+      "file": "root.html",
+      "links": []
+    }
+  }
+}
