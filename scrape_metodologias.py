@@ -552,7 +552,7 @@ QUERIES = {
     "Análisis Pragmático Cultural": ["cultural pragmatics"],
     "Tecnica del incidente critico": ["critical incident technique"],
     "Repertory grid": ["repertory grid"],
-    "Antropologia comparada": ["comparative anthropology", "cross-cultural comparison"],
+    "Etnografia comparada": ["comparative anthropology", "cross-cultural comparison"],
     "Historia comparada": ["comparative historical analysis"],
 }
 INCIERTOS = {
@@ -564,7 +564,7 @@ INCIERTOS = {
     "Analisis de recursos",
     "Analisis logico",
     "Análisis Pragmático Cultural",
-    "Antropologia comparada",
+    "Etnografia comparada",
     "Analisis psicoanalitico",
 }
 PROC_WORDS = (

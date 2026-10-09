@@ -229,7 +229,8 @@
       "metodo_identificado": "Etnometodología y Análisis de Categorías de Membresía (MCA) con enfoque de análisis conversacional y de secuencialidad",
       "confianza": "alta",
       "notas_limitaciones": "El texto no detalla explícitamente el uso de software de análisis cualitativo; el análisis se basa en inspección visual repetida de videos. La fase de síntesis se infiere de la estructura del artículo (resultados y conclusiones)."
-    }
+    },
+    "patrones_emergentes": "El estudio muestra que al acercarse a puertas en centros comerciales, los peatones forman espontáneamente filas o 'carriles' de a uno, con posiciones como 'primero en la fila' y 'seguidor', y que la manipulación de la puerta (retenerla o sostenerla) coordina el paso y expresa relaciones de cooperación. Los autores interpretan estas formaciones como logros prácticos basados en orientaciones corporales y culturales compartidas hacia las puertas como artefactos que organizan la locomoción conjunta, distinguiéndolas de caminar lado a lado."
   },
   {
     "id": "hermeneutica-objetiva",
@@ -477,7 +478,8 @@
       "metodo_identificado": "Hermenéutica objetiva",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso metodológico de manera general, pero no detalla todos los pasos operativos (por ejemplo, duración de las entrevistas, criterios de selección de secuencias). Se ha inferido la secuencia lógica a partir de la descripción del estudio."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que la jerarquía y el conflicto son centrales en la sucesión intrafamiliar, y que la sucesión fallida o la división de la finca generan gran agitación emocional; en el caso analizado, la sucesión interfamiliar (arrendamiento a un vecino) resolvió la crisis y preservó la unidad de la finca, valorada intrínsecamente."
   },
   {
     "id": "analisis-de-contenido-cualitativo",
@@ -672,7 +674,8 @@
       "metodo_identificado": "Análisis de contenido cualitativo",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el método de manera general y no detalla todos los pasos procedimentales de forma exhaustiva. Se han inferido acciones concretas a partir de las descripciones metodológicas. La clasificación en fases se basa en la interpretación del flujo metodológico descrito."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica tres temas centrales en la crítica al crecimiento del siglo XXI: el crecimiento como fenómeno (con impactos ecológicos y sociales negativos que superan los beneficios en Occidente), como institución (sociedades adictas al crecimiento, con dependencia estructural del empleo y el bienestar) y como ideología (meta política hegemónica que subordina otros objetivos). Los autores interpretan que la crítica es a las sociedades del crecimiento, no solo al PIB, y que los críticos describen mejor lo que rechazan que las alternativas, revelando una tensión interna entre decrecimiento y 'acrecimiento'."
   },
   {
     "id": "analisis-de-practicas",
@@ -930,7 +933,8 @@
       "metodo_identificado": "Análisis de documentos (looking at and through documents) complementado con observación participante",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el método de manera detallada pero no presenta un protocolo paso a paso formal; la extracción se basa en la descripción narrativa de la metodología. La observación participante se menciona como informante del análisis, no como fase separada."
-    }
+    },
+    "patrones_emergentes": "El análisis de 408 cables diplomáticos de la embajada de EE. UU. en Tanzania revela que los diplomáticos privilegian el conocimiento de élites locales y extranjeras (76% y 22% respectivamente) sobre el de no élites (10%), medios (10%) o perspectivas históricas/sociológicas (13%/10%), y que el formato estandarizado, el uso de voz pasiva y pronombres colectivos ('we') enmascaran la autoría individual. Los autores interpretan estos patrones como evidencia de prácticas epistémicas sesgadas que limitan la comprensión integral del país y de una intensa socialización burocrática que fomenta la cohesión institucional pero también el pensamiento grupal y la incapacidad de anticipar protestas populares."
   },
   {
     "id": "fenomenografia",
@@ -1162,7 +1166,8 @@
       "metodo_identificado": "fenomenografia",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente el método fenomenográfico en general y un ejemplo de aplicación. Los pasos se han extraído de las secciones 2.4, 2.5, 2.6 y 3. Se han convertido descripciones teóricas en acciones concretas. No se mencionan pasos explícitos de codificación abierta/axial/selectiva, pero se incluyen los pasos de análisis fenomenográfico descritos."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica cuatro formas cualitativamente distintas en que los estudiantes experimentan la búsqueda de información en línea: como buscar una aguja en un pajar, encontrar el camino en un laberinto, usar herramientas como filtro y cribar en busca de oro. Los autores interpretan que estas categorías reflejan una jerarquía de conciencia estructural, donde solo las tres últimas implican percibir y aprovechar la estructura del entorno de búsqueda, y concluyen que el aprendizaje mejora cuando los estudiantes experimentan variación en estas formas para discernir diferencias y profundizar su comprensión."
   },
   {
     "id": "analisis-de-la-conversacion",
@@ -1401,7 +1406,8 @@
       "metodo_identificado": "Análisis de la Conversación (AC)",
       "confianza": "alta",
       "notas_limitaciones": "El texto proporcionado corresponde principalmente a la introducción, índice y marco teórico de la tesis. No se incluyen los capítulos de metodología y análisis completos, por lo que algunos pasos procedimentales (especialmente los de análisis profundo y síntesis) se han inferido a partir de la estructura y descripciones del documento. La fecha de publicación no se especifica en el fragmento."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica patrones secuenciales en las reparaciones entre profesor y alumnos de español como lengua extranjera, mostrando que la mayoría son iniciadas por el profesor y que los alumnos participan principalmente en autorreparaciones tras la señalización del docente. Tras la reparación, la interacción se retoma de forma variable, a menudo con una evaluación del profesor que restablece la intersubjetividad. El autor interpreta que estos patrones reflejan una competencia interaccional asimétrica, donde el docente controla la gestión de los problemas y los alumnos dependen de su guía para resolverlos, lo que limita su autonomía interaccional."
   },
   {
     "id": "analisis-narrativo-dialogico",
@@ -1642,7 +1648,8 @@
       "metodo_identificado": "Análisis narrativo dialógico",
       "confianza": "alta",
       "notas_limitaciones": "El texto no detalla explícitamente el uso de software de análisis cualitativo ni la triangulación entre investigadores. La selección de los cuatro casos se basa en la 'sabiduría práctica' del investigador, lo que puede ser difícil de replicar exactamente."
-    }
+    },
+    "patrones_emergentes": "Las historias de vida de los ancianos sami muestran cómo negocian narrativas públicas contrastantes sobre su identidad: la de inferioridad (asimilación y estigma) y la de orgullo y unidad. Los relatos revelan luchas individuales por reclamar, rechazar o redefinir su identidad sami en la vejez, con variaciones según el acceso a recursos narrativos y experiencias de marginación."
   },
   {
     "id": "analisis-narrativo-performativo",
@@ -1888,7 +1895,8 @@
       "metodo_identificado": "Estudio de caso único con enfoque narrativo (NA) y Actor-Network Theory (ANT), utilizando entrevistas, observación, comentarios de clientes y documentación recopilada durante 5 años.",
       "confianza": "alta",
       "notas_limitaciones": "El texto no especifica explícitamente el año de publicación ni los autores, por lo que estos metadatos se dejan vacíos. La extracción se basa en las acciones descritas en la metodología y en la aplicación del análisis."
-    }
+    },
+    "patrones_emergentes": "El estudio muestra cómo el dueño de un hotel en quiebra moviliza una narrativa alternativa (antenarrativa) para reconfigurar la red de actores humanos y no humanos, logrando recuperar su negocio. Los autores interpretan que este proceso de problematización, enrolamiento y traducción evidencia el carácter dinámico y relacional del poder, donde una apuesta narrativa local puede desafiar y transformar la narrativa hegemónica."
   },
   {
     "id": "tematizacion",
@@ -2139,7 +2147,8 @@
       "metodo_identificado": "Estudio cualitativo de caso múltiple, con análisis temático de datos secundarios",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el estudio como un análisis secundario de datos del proyecto Fondecyt 11130042. Los pasos de pre-análisis se infieren de la descripción metodológica del estudio original. La fase de interpretación de fuentes se infiere de la mención a la transcripción y selección de segmentos relevantes. El análisis profundo se basa en la descripción del análisis temático con NVivo 10. La síntesis se infiere de la presentación de resultados y discusión. Los pasos adicionales incluyen criterios de rigurosidad científica y consideraciones éticas."
-    }
+    },
+    "patrones_emergentes": "Los trabajadores de salud primaria perciben que las normativas y estrategias para atender migrantes son inestables, poco conocidas y difíciles de implementar, y que la falta de registros y de herramientas culturales dificulta una atención sensible. Interpretan estos desafíos como una exigencia desproporcionada hacia ellos, sin recursos ni capacitación adecuados, lo que los sitúa en una posición de vulnerabilidad frente a autoridades y población migrante."
   },
   {
     "id": "descripcion-interpretativa",
@@ -2390,7 +2399,8 @@
       "metodo_identificado": "Interpretive Description",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso metodológico de manera explícita en la sección de método, aunque algunos pasos se infieren de la narrativa. La clasificación se basa en las definiciones proporcionadas."
-    }
+    },
+    "patrones_emergentes": "El estudio identificó cuatro determinantes del entorno de práctica basada en evidencia: un modelo compartido (Iowa Model) como guía, apoyo mediante educación y entrenamiento práctico, facilitación activa por equipos de enfermería, y una cultura y liderazgo que fomentan la EBP. Los autores interpretan que estos factores crean un entorno de apoyo esencial para que la EBP sea efectiva, y concluyen que la introducción de un modelo debe acompañarse de la optimización de dicho entorno."
   },
   {
     "id": "teoria-fundamentada-straussiana",
@@ -2701,7 +2711,8 @@
       "metodo_identificado": "Teoría Fundamentada (Grounded Theory)",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso metodológico de forma detallada, aunque algunos pasos (como la codificación axial y selectiva) se describen de manera más conceptual que operativa. Se ha inferido la secuencia temporal a partir de la descripción del autor."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que la comunicación del rey de España se caracteriza por un tabú de la expresividad real, donde los periodistas evitan la crítica directa y los interlocutores actúan como ventrílocuos que transmiten sus palabras. El autor interpreta este patrón como un silencio representativo arraigado en la Transición, que blinda informativamente a la monarquía y limita la transparencia."
   },
   {
     "id": "teoria-fundamentada-constructivista-o-analisis-situacional",
@@ -2980,7 +2991,8 @@
       "metodo_identificado": "Análisis situacional (grounded theory)",
       "confianza": "alta",
       "notas_limitaciones": "El texto no especifica explícitamente el uso de software de análisis cualitativo (p. ej., NVivo, ATLAS.ti) para la codificación; se infiere que el análisis fue manual mediante mapas. Tampoco se detalla el proceso de codificación abierta/axial/selectiva, pero se menciona la codificación y el desarrollo de mapas. La fase de síntesis se infiere de la construcción del modelo teórico y la redacción del reporte."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que el acoso laboral en urgencias se manifiesta mediante dinámicas de exclusión (retención de información, ayuda o apoyo) y agresión (acusaciones falsas, intimidación), a menudo impulsadas por enfermeras a cargo y toleradas por una narrativa cultural de 'endurecimiento'. Los autores interpretan que estas conductas, junto con respuestas pasivas como la complicidad silenciosa, generan entornos tóxicos que deterioran la retención de personal y la calidad del cuidado, proponiendo que una postura activa de 'denunciarlo' reduce el acoso."
   },
   {
     "id": "analisis-fenomenologico-interpretativo",
@@ -3229,7 +3241,8 @@
       "metodo_identificado": "fenomenología descriptiva de Amedeo Giorgi",
       "confianza": "alta",
       "notas_limitaciones": "El documento es un ensayo que describe la aplicación del método de Giorgi, por lo que algunos pasos se presentan como propuestas metodológicas (futuro) más que como procedimientos ya ejecutados. Se extrajeron las acciones concretas descritas en el texto."
-    }
+    },
+    "patrones_emergentes": "El estudio describe la aplicación del método fenomenológico de Amedeo Giorgi para investigar las experiencias de vida cotidiana de adolescentes con padres alcohólicos, destacando que este enfoque permite captar los significados esenciales de sus vivencias mediante la descripción, la reducción, la búsqueda de esencias y la intencionalidad. Los autores concluyen que este método facilita comprender la perspectiva singular de los adolescentes y clarificar la interpretación de sus motivos y acciones en un entorno de consumo parental de alcohol."
   },
   {
     "id": "analisis-narrativo",
@@ -3468,7 +3481,8 @@
       "metodo_identificado": "análisis narrativo de relatos autobiográficos",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso metodológico de forma general, sin detallar exhaustivamente todos los pasos de codificación. La extracción se basa en las secciones de Metodología y Análisis de la información."
-    }
+    },
+    "patrones_emergentes": "Los relatos autobiográficos de los estudiantes muestran dos patrones principales: algunos narran su vida con un sentido de agencia activa, donde el protagonista supera obstáculos y se construye a sí mismo; otros presentan una agencialidad difusa, con personajes pasivos que viven los acontecimientos sin un marco claro de motivos. Los autores interpretan que la coherencia y la estructura narrativa condicionan la identidad personal, pues un relato bien organizado permite al sujeto reconocerse como agente responsable, mientras que la falta de coherencia narrativa se asocia con una identidad fragmentada y una menor capacidad para orientar la acción."
   },
   {
     "id": "analisis-psicoanalitico",
@@ -3653,7 +3667,8 @@
       "metodo_identificado": "psicoanálisis aplicado",
       "confianza": "alta",
       "notas_limitaciones": "El texto proporcionado corresponde a la introducción y tabla de contenidos de la tesis, por lo que la extracción se basa en la descripción del método y el plan de la investigación. No se incluyen detalles exhaustivos de la aplicación de cada paso."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica en la cultura shipibo-konibo un malestar ligado a la tensión entre ideales tradicionales (jakon joni, la persona verdadera) y las presiones de la modernidad: reemplazos tecnológicos, subordinación, tribulaciones identitarias, discriminación y mercantilización de prácticas como el chamanismo. Emergen relatos de sufrimiento por la pérdida de la lengua, la imposición educativa y la desigualdad de género, así como el enigma del rito de ablación del clítoris (xebijana tsekati) como intento de inscribir lo real del goce femenino. La interpretación del autor, desde el psicoanálisis lacaniano, es que el malestar shipibo-konibo no es solo estructural (renuncia pulsional) sino histórico, agravado por el discurso capitalista que coloca al mercado como Otro, fracturando los lazos sociales y subjetivos tradicionales."
   },
   {
     "id": "analisis-tematico-reflexivo",
@@ -4018,7 +4033,8 @@
       "metodo_identificado": "Análisis Temático Reflexivo (RTA) de Braun y Clarke",
       "confianza": "alta",
       "notas_limitaciones": "El documento es un ejemplo trabajado de RTA, por lo que los pasos extraídos reflejan tanto las recomendaciones metodológicas generales de Braun y Clarke como las acciones específicas del autor. La clasificación en fases se realizó siguiendo las definiciones proporcionadas. La sección 3.1 (supuestos teóricos) se clasificó como pre-análisis, ya que se aborda antes de implementar el análisis. La fase de familiarización se clasificó como interpretación de fuentes, ya que implica la inmersión inicial en los datos. Las fases de codificación, generación y revisión de temas se clasificaron como análisis profundo. La fase de definición y nombramiento de temas, junto con la producción del informe, se clasificaron como síntesis. Los pasos adicionales incluyen el enfoque recursivo e iterativo y la documentación del proceso."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que muchos investigadores citan a Braun y Clarke pero no aplican correctamente el análisis temático reflexivo, confundiéndolo con otros enfoques. A través de un ejemplo práctico con entrevistas a educadores, se muestra cómo los temas evolucionan de forma recursiva: se reorganizan, se fusionan o se descartan según su coherencia y relevancia para las preguntas de investigación. La interpretación del autor destaca que los temas no emergen de los datos, sino que son construidos activamente por el investigador mediante un proceso reflexivo y flexible, donde la subjetividad y la creatividad son fundamentales para generar conocimiento cualitativo."
   },
   {
     "id": "analisis-basado-en-giros-post",
@@ -4257,7 +4273,8 @@
       "metodo_identificado": "cualitativo",
       "confianza": "alta",
       "notas_limitaciones": "El texto no especifica explícitamente el uso de software cualitativo, por lo que no se incluyó en el análisis profundo. La codificación se infiere de la descripción del análisis de contenido y expresión, aunque no se menciona explícitamente el término 'codificación'."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica en La Cueva del Uapití dos líneas molares (organización e intercambio de bienes y servicios) que muestran una tensión constante entre fuerzas desterritorializadoras (horizontalidad, obsequio, apertura) y reterritorializadoras (normas, jerarquías, cierre). Los autores interpretan que esta lucha molecular es la micropolítica de transformación, donde los agenciamientos de deseo actualizan fugas o capturas, evidenciando que la revolución molecular ocurre en la vida cotidiana y no solo en la macropolítica."
   },
   {
     "id": "analisis-del-discurso",
@@ -4496,7 +4513,8 @@
       "metodo_identificado": "cualitativo",
       "confianza": "media",
       "notas_limitaciones": "El texto proporcionado es la portada, índice y secciones preliminares de la tesis; no incluye el desarrollo metodológico detallado. Los pasos se infieren de la estructura y de los títulos de las secciones, por lo que la clasificación en fases es interpretativa."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que el buen vivir en Ecuador se manifiesta en múltiples discursos y corrientes (indigenista, socialista, postdesarrollista) que convergen en una propuesta alternativa al desarrollo, con raíces en el sumak kawsay amazónico y en debates académicos y políticos. La autora interpreta estos hallazgos como la emergencia de un nuevo enfoque de economía política del desarrollo, denominado transdesarrollo, que trasciende la subsistencia, el desarrollo y el postdesarrollo, y que se articula como proyecto político con dimensiones propias."
   },
   {
     "id": "analisis-del-discurso-critico",
@@ -4709,7 +4727,8 @@
       "metodo_identificado": "Análisis Crítico del Discurso (ACD) con enfoque mixto cualitativo-cuantitativo",
       "confianza": "alta",
       "notas_limitaciones": "El texto no detalla explícitamente el uso de software cualitativo ni procesos de validación por pares; se infieren los pasos a partir de la descripción metodológica."
-    }
+    },
+    "patrones_emergentes": "Los discursos de campaña de Maduro se centran en palabras positivas como pueblo, patria, mujer, voto y victoria, con una estructura repetitiva que empodera al pueblo y minimiza los problemas, mientras desacredita a los opositores como enemigos imperialistas. El autor interpreta que Maduro usa estrategias de resistencia al discurso internacional dominante, legitimando su poder mediante la polarización nosotros/ellos, la apelación al miedo, la religión y la exaltación de su figura como líder mesiánico continuador de Chávez."
   },
   {
     "id": "codificacion-ocm",
@@ -4970,7 +4989,8 @@
       "metodo_identificado": "Análisis de datos secundarios de estudios etnográficos y observacionales sobre transmisión cultural en cazadores-recolectores, con reanálisis de datos de entrevistas y observaciones, y construcción de un modelo bayesiano de relaciones sociales.",
       "confianza": "alta",
       "notas_limitaciones": "El texto es un artículo de investigación que revisa y reanaliza datos de estudios previos, por lo que los pasos procedimentales se infieren de la descripción de los métodos y resultados. No se proporciona una sección de métodos detallada."
-    }
+    },
+    "patrones_emergentes": "El estudio encuentra que en cazadores-recolectores la transmisión cultural vertical y familiar es importante, pero se subestima al no considerar generaciones remotas y parientes no nucleares; además, alrededor de la mitad del aprendizaje horizontal y oblicuo proviene de individuos no emparentados genéticamente. Los autores interpretan que la vida íntima y los esquemas igualitarios facilitan múltiples modos de transmisión grupal (conformista, concertada y acumulativa), los cuales conservan la cultura, homogeneizan la diversidad intracultural y aumentan la diversidad intercultural, contribuyendo a la cultura acumulativa."
   },
   {
     "id": "analisis-funcional",
@@ -5227,7 +5247,8 @@
       "metodo_identificado": "análisis funcional",
       "confianza": "alta",
       "notas_limitaciones": "El texto es una tesis de 1963 con OCR imperfecto; algunos pasajes son ilegibles. La extracción se basa en las secciones visibles y la estructura del documento."
-    }
+    },
+    "patrones_emergentes": "El estudio analiza la guelaguetza agrícola en San Juan Guelavía, Oaxaca, encontrando que esta institución de cooperación persiste tras la reforma agraria y la introducción de la cestería, pese a la estratificación y diferenciación ocupacional; los datos muestran que la guelaguetza coloca a individuos de posiciones estructurales distintas en roles igualitarios, generando preguntas sobre si es un efecto de equilibrio sistémico, una imposición de un grupo o una situación dinámica de aceptación variable. El autor interpreta estos patrones como una prueba empírica del paradigma de Merton, concluyendo que el análisis funcional permite explicar la integración y el cambio social, pero reconoce sus límites para abordar el conflicto y la dinámica no recurrente."
   },
   {
     "id": "analisis-de-redes-sociales-cualitativo",
@@ -5476,7 +5497,8 @@
       "metodo_identificado": "Estudio cualitativo longitudinal de redes sociales",
       "confianza": "alta",
       "notas_limitaciones": "El texto no especifica explícitamente el uso de codificación abierta, axial o selectiva, pero el análisis temático y narrativo implica procesos de codificación y categorización. La extracción se basa en las acciones descritas en la sección de métodos y resultados."
-    }
+    },
+    "patrones_emergentes": "El estudio longitudinal cualitativo con 30 participantes con diabetes, SII o EPOC encontró que los cambios en la salud y en las redes sociales se influyen mutuamente, especialmente en 'momentos críticos' como divorcios, duelos o reconexiones. Las redes sociales implicadas en el manejo de la condición cambian con el tiempo, con procesos de ruptura, reconexión y sustitución de vínculos, lo que afecta el grado de compromiso con el autocuidado. Algunos participantes mantuvieron un manejo estable a pesar de cambios en su salud, normalizando sus prácticas."
   },
   {
     "id": "analisis-sistemico",
@@ -5697,7 +5719,8 @@
       "metodo_identificado": "análisis teórico-conceptual con uso de teoría de sistemas y ejemplos empíricos",
       "confianza": "alta",
       "notas_limitaciones": "El texto es un capítulo teórico-conceptual que no describe explícitamente un método cualitativo empírico; sin embargo, se extrajeron los pasos procedimentales implícitos en la construcción teórica y el uso de ejemplos empíricos. No se identificaron técnicas de recolección de datos primarios ni software cualitativo."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que en América Latina la diferenciación funcional se articula con redes informales de estratificación y reciprocidad, donde mecanismos como violencia, corrupción y coerción reemplazan o desdiferencian los procedimientos formales de inclusión, generando episodios de desdiferenciación y asincronías. El autor interpreta esta trayectoria como una diseminación extrapolítica del poder, donde la inclusión se logra por vías informales cuando fallan las formales, manteniendo la diferenciación funcional como horizonte pero limitando su primado."
   },
   {
     "id": "analisis-organizacional-o-institucional",
@@ -5954,7 +5977,8 @@
       "metodo_identificado": "etnografia_institucional",
       "confianza": "alta",
       "notas_limitaciones": "El texto es una tesis doctoral que describe explícitamente el método de etnografía institucional. Los pasos se extrajeron de las secciones de método, análisis y discusión. Algunos pasos adicionales (validación por pares) se infieren de la práctica estándar de IE, pero no se mencionan explícitamente en el texto."
-    }
+    },
+    "patrones_emergentes": "El estudio revela que la implementación de la NCCD generó una intensa carga de trabajo documental para docentes y directivos, centrada en recolectar evidencia de ajustes educativos, con gran ansiedad por 'hacer bien los datos' debido a su vínculo con la financiación y las auditorías. La autora interpreta que esta política, aunque cumple sus metas de recolección de datos, reorienta las prácticas escolares hacia la documentación, cuestionando si esto mejora realmente la educación de los estudiantes con discapacidad."
   },
   {
     "id": "analisis-de-metaforas",
@@ -6213,7 +6237,8 @@
       "metodo_identificado": "Análisis de corpus con dos esquemas de anotación (sociopsicológico y cognitivo-lingüístico) para identificar lenguaje moral en discursos presidenciales",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente los métodos de dos esquemas de anotación aplicados a un corpus; la extracción se centra en las acciones procedimentales concretas. Algunos pasos son inferidos de la descripción metodológica (por ejemplo, la compilación de listas de ítems léxicos se describe como realizada por Wolters 2012, pero se asume como parte del procedimiento replicado)."
-    }
+    },
+    "patrones_emergentes": "Al aplicar dos métodos de análisis (psicosocial y cognitivo-lingüístico) al mismo corpus de discursos presidenciales, los resultados divergen: el método psicosocial muestra que Obama usa más lenguaje del modelo de Padres Nutritivos que Bush, mientras que el cognitivo-lingüístico no encuentra diferencias significativas entre presidentes, e incluso en el tema de salud Bush usa más lenguaje nutritivo que Obama. Los autores concluyen que el método de anotación afecta las conclusiones, por lo que no son equivalentes para medir el lenguaje moral según la Teoría de la Política Moral."
   },
   {
     "id": "analisis-de-recursos",
@@ -6407,7 +6432,8 @@
       "metodo_identificado": "análisis documental",
       "confianza": "media",
       "notas_limitaciones": "El texto no describe explícitamente un procedimiento metodológico formal; la extracción se basa en la inferencia de acciones a partir de la estructura del artículo y las prácticas habituales en investigación cualitativa documental."
-    }
+    },
+    "patrones_emergentes": "El estudio muestra cómo el canibalismo, antes usado para marcar la diferencia con los pueblos no occidentales, se ha ido acercando a la cultura popular occidental a través de casos reales, cine y literatura, diluyendo su asociación exclusiva con el mal. El autor interpreta que este acercamiento ha trivializado el canibalismo y lo ha convertido en objeto de consumo, abriendo paso a nuevas formas como el tráfico de órganos, mientras la antropología ha tenido un papel contradictorio en la construcción y deconstrucción de este mito."
   },
   {
     "id": "modelos-mentales",
@@ -6646,7 +6672,8 @@
       "metodo_identificado": "cualitativo",
       "confianza": "alta",
       "notas_limitaciones": "El texto proporcionado corresponde principalmente al índice, resumen e introducción de la tesis, por lo que los pasos procedimentales se infieren de la estructura del documento y de las secciones metodológicas mencionadas. No se incluyen detalles exhaustivos de la aplicación de cada técnica, pero se han extraído las acciones concretas descritas o implícitas en el texto."
-    }
+    },
+    "patrones_emergentes": "Los dibujos de niños de 3 a 11 años muestran una evolución desde representaciones no reconocibles o antropomórficas hacia animales definidos, con un aumento de adaptaciones morfológicas y etológicas asociadas a la alimentación carnívora, aunque persisten errores como dibujar todos los dientes puntiagudos. La autora interpreta que los niños construyen modelos mentales progresivamente más complejos y cercanos a la realidad biológica, pero las misconcepciones derivadas de generalizaciones incorrectas pueden mantenerse si no se confrontan didácticamente."
   },
   {
     "id": "induccion-analitica",
@@ -6969,7 +6996,8 @@
       "metodo_identificado": "analytic induction",
       "confianza": "alta",
       "notas_limitaciones": "El texto no detalla explícitamente la redacción de memos analíticos, pero se infiere como parte del proceso de inducción analítica. La fase de interpretación de fuentes es breve y se infiere de la lectura de transcripciones. La confianza es alta porque el método está claramente descrito en la sección de análisis."
-    }
+    },
+    "patrones_emergentes": "Las madres víctimas de violencia de pareja, tras la separación, enfrentan abuso continuo por parte de sus exmaridos, quienes usan las visitas y la custodia para controlarlas y dañar a los hijos. Ellas intentan protegerse estableciendo límites y acudiendo a la corte familiar, pero a menudo perciben que esta no prioriza la seguridad de los niños, mientras que el sistema de justicia penal (policía, órdenes de restricción) sí responde mejor. Los autores interpretan que la corte familiar tiende a privilegiar los derechos parentales sobre el bienestar infantil, lo que obliga a las madres a estrategias informales y aumenta su vulnerabilidad."
   },
   {
     "id": "teoria-fundamentada-clasica",
@@ -7217,7 +7245,8 @@
       "metodo_identificado": "Classic Grounded Theory (CGT) con análisis secundario de datos cualitativos",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso metodológico de manera detallada, pero algunas acciones son inferidas de la narrativa (por ejemplo, la lectura exploratoria inicial). La clasificación en fases se basa en la interpretación del proceso descrito."
-    }
+    },
+    "patrones_emergentes": "Las familias recicladoras organizan su economía en torno a un sistema de apoyo con roles de proveedor y cuidador, ajustándolo según limitaciones y motivaciones centradas en el bienestar de los hijos; este sistema genera dolores que se resuelven tolerando la dependencia (del trabajo con basura y de otras familias) y negociando desviaciones de normas de género y trabajo infantil."
   },
   {
     "id": "metodo-gioia",
@@ -7483,7 +7512,8 @@
       "metodo_identificado": "Gioia",
       "confianza": "alta",
       "notas_limitaciones": "El texto proporcionado incluye el resumen, la introducción y la revisión de literatura, pero no el capítulo completo de metodología. Los pasos de análisis profundo se infieren de la mención explícita del método Gioia y de la estructura de resultados. Los pasos de interpretación de fuentes son inferidos de la práctica estándar de análisis cualitativo, ya que el texto no detalla explícitamente la inmersión inicial en los datos."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que las startups finlandesas de SaaS escalan combinando orientación internacional, decisiones ágiles basadas en datos y eficiencia de recursos; algunas avanzan con flujo de caja y otras con financiación externa, usando estrategias inbound y PLG, estableciendo hubs en mercados clave y equipos distribuidos basados en confianza. En producto, se centran en las restricciones críticas de crecimiento y en las funciones de mayor valor, manteniendo un producto unificado sin modificaciones por cliente, y usan Finlandia como mercado de prueba o lo omiten. Los autores interpretan que este enfoque refleja una adaptación al contexto de un mercado pequeño pero digitalmente maduro, donde la escalabilidad global exige estandarización y eficiencia, y concluyen que estas prácticas amplían la comprensión del escalamiento de SaaS en mercados menores, sugiriendo investigar startups fallidas y otros hubs emergentes."
   },
   {
     "id": "systematic-combining",
@@ -7761,7 +7791,8 @@
       "metodo_identificado": "systematic_combining",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso de investigación de manera retrospectiva y narrativa, lo que requiere inferir algunos pasos procedimentales concretos a partir de las descripciones. La clasificación en fases se basa en la interpretación de las acciones descritas en el documento."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que en la red publicitaria finlandesa las innovaciones no se difunden debido a una competencia estratégica en dos niveles: los grupos de actores (agencias de medios, publicidad y digitales) compiten entre sí defendiendo sus posiciones, y dentro de cada grupo los actores individuales buscan diferenciarse. Los autores interpretan que este desajuste estratégico multinivel, surgido al pasar de un sistema de valor estable a uno en cambio incremental, frena o paraliza la difusión de innovaciones a pesar de que todos los grupos reconocen su valor."
   },
   {
     "id": "enfoque-de-construccion-de-teoria-desde-casos-eisenhardt",
@@ -7852,7 +7883,8 @@
       "metodo_identificado": "Método Gioia",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente el método Gioia en detalle. Los métodos de Eisenhardt y Langley se mencionan pero no se detallan con el mismo nivel de especificidad procedimental. La extracción se centra en el método Gioia por ser el más explícitamente descrito en el fragmento."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica tres enfoques cualitativos distintos para construir teoría: el método de casos comparativos de Eisenhardt, centrado en teoría generalizable y replicable; la metodología interpretativa de Gioia, que prioriza las voces de los informantes y la estructura de datos; y el análisis de procesos de Langley, enfocado en la temporalidad y el flujo de eventos. Los autores concluyen que no existe un único método correcto, sino que cada enfoque responde a propósitos teóricos diferentes, y abogan por un ajuste consciente entre teoría y método, evitando el uso mecánico de plantillas."
   },
   {
     "id": "teorizacion-centrada-en-el-diseno-stigliani-corley-gioia",
@@ -8129,7 +8161,8 @@
       "metodo_identificado": "Design Theorizing (4R Model)",
       "confianza": "alta",
       "notas_limitaciones": "El texto es un artículo conceptual que propone un método, no un estudio empírico tradicional. La extracción se basa en la descripción del proceso de design theorizing y su aplicación ilustrativa en el caso de la agencia creativa. Algunos pasos son inferidos de la narrativa del ejemplo."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que las teorías organizacionales actuales carecen de relevancia práctica por centrarse en el pasado y en la seguridad académica, y propone un enfoque de 'teorización de diseño' basado en cuatro fases (resonar, replantear, reimaginar, realizar) que integra principios de diseño como la empatía, la abducción y la iteración. Los autores interpretan que este proceso, al involucrar a los usuarios y prototipar 'teorías mínimas viables', permite generar teorías más prescientes, de mayor alcance y con impacto real en la práctica."
   },
   {
     "id": "analisis-cualitativo-comparativo",
@@ -8397,7 +8430,8 @@
       "metodo_identificado": "Análisis de escenarios participativos multi-escala con codificación cualitativa y análisis factorial de correspondencia",
       "confianza": "alta",
       "notas_limitaciones": "El año de publicación no se especifica en el texto extraído. La sección de resultados y discusión se utilizó para inferir pasos de síntesis y validación. Los pasos adicionales incluyen procesos iterativos de consulta y validación por pares mencionados en el documento."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica un desajuste considerable entre escenarios locales, nacionales, regionales e internacionales, con el nivel nacional como mediador clave; los escenarios locales enfatizan valores, gobernanza participativa y cohesión comunitaria, mientras que los niveles superiores se centran en políticas, mercados y tecnología, y solo tres de catorce temas (políticas sociales, ambientales y actores dominantes) aparecen en todas las escalas."
   },
   {
     "id": "process-tracing",
@@ -8730,7 +8764,8 @@
       "metodo_identificado": "proceso_tracing",
       "confianza": "alta",
       "notas_limitaciones": "El texto no menciona explícitamente la redacción de memos analíticos, por lo que no se incluyó en la fase de síntesis. La fase de interpretación de fuentes se infiere de la producción del relato descriptivo y la actualización concurrente de la guía de temas."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica que las inversiones en salud mental y bienestar laboral surgen por motivos regulatorios, de imagen empresarial y de productividad, y se desarrollan mediante etapas no lineales que requieren compromiso de liderazgo, inversión en personal y evaluación continua. Los autores interpretan que la toma de decisiones real en las empresas es compleja, basada en intuición y datos internos más que en evidencia externa, y proponen un modelo de proceso causal adaptado que enfatiza la participación de los empleados y la cultura organizacional."
   },
   {
     "id": "event-structure-analysis",
@@ -9054,7 +9089,8 @@
       "metodo_identificado": "Event Structure Analysis (ESA)",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el método ESA de manera detallada, pero algunos pasos son inferidos de la descripción general. La clasificación en fases es interpretativa; por ejemplo, la validación con entrevistados podría considerarse un paso adicional, pero se incluyó en pre-análisis por ser parte de la identificación y secuenciación de eventos. La fase de interpretación de fuentes se infiere de la inmersión en narrativas, aunque no se menciona explícitamente como una fase separada."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica eventos críticos (como la asignación de gerentes de innovación y alianzas con institutos de ciencia y tecnología) que actúan como hitos y convergencias en la red causal, revelando un círculo virtuoso entre la alta dirección, individuos internos y la empresa. Los autores interpretan que estos patrones muestran cómo la construcción de capacidades para la innovación abierta depende de secuencias causales necesarias y de la intermediación de actores clave, lo que permite inferir mecanismos portables a contextos similares."
   },
   {
     "id": "analisis-cualitativo-longitudinal",
@@ -9245,7 +9281,8 @@
       "metodo_identificado": "Estudio longitudinal comparativo de dos cohortes con métodos mixtos (encuestas de hogares, subestudios cualitativos y encuestas escolares)",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente el diseño y la síntesis de hallazgos de un estudio longitudinal con métodos mixtos. No se detallan procedimientos específicos de codificación cualitativa, triangulación o uso de software, por lo que las fases de análisis profundo se infieren de las acciones descritas. La fase de interpretación de fuentes se basa en la revisión de publicaciones previas para elaborar la síntesis."
-    }
+    },
+    "patrones_emergentes": "El estudio longitudinal Niños del Milenio en Perú encontró que la cohorte menor (nacida en 2001) presenta mejores resultados que la mayor (1994) en indicadores como educación y nutrición, reflejando mejoras en el contexto socioeconómico del país. Sin embargo, persisten brechas significativas en oportunidades y resultados para niños de zonas rurales, con madres de poca educación o de origen indígena, y para las niñas. Los autores interpretan que la reducción de la pobreza no ha eliminado las desigualdades estructurales, y que la combinación de desventajas (ruralidad, baja educación materna, etnicidad) limita el desarrollo infantil, por lo que se requiere focalizar políticas en la primera infancia y en poblaciones vulnerables."
   },
   {
     "id": "estrategias-de-teorizacion-de-procesos-langley",
@@ -9615,7 +9652,8 @@
       "metodo_identificado": "Método comparativo de tres enfoques cualitativos (Gioia, Eisenhardt, Langley) para la construcción de teoría",
       "confianza": "alta",
       "notas_limitaciones": "El documento es un ensayo que sintetiza un simposio, no un estudio empírico con un método único. Los pasos extraídos corresponden a las descripciones de los tres enfoques metodológicos presentados por los autores. La clasificación en fases se realizó interpretando las acciones descritas en las secciones 'Some basic steps' y otras secciones relevantes. Algunas acciones podrían clasificarse en más de una fase; se optó por la más adecuada según el contexto."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica tres enfoques cualitativos distintos: la construcción de teoría desde casos (Eisenhardt), la metodología interpretativa de Gioia y el análisis de procesos (Langley). Los autores observan que, aunque comparten elementos como la inmersión en datos y el muestreo teórico, difieren en sus supuestos ontológicos, formas de teoría y estrategias analíticas. Interpretan que no existe un único método correcto, sino que la elección debe ajustarse al propósito de la investigación, y advierten contra la rigidez metodológica o el uso superficial de plantillas."
   },
   {
     "id": "dominios-culturales",
@@ -9839,7 +9877,8 @@
       "metodo_identificado": "listados libres",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente la técnica de listados libres y su análisis cuantitativo; no se detallan pasos de codificación cualitativa tradicional. Se infirieron pasos de síntesis a partir de la estructura del artículo."
-    }
+    },
+    "patrones_emergentes": "Los habitantes de Tierralta reconocen la malaria y las infecciones respiratorias como principales problemas de salud, atribuyen la malaria a la falta de medidas de control y a aguas estancadas, y consideran el control químico y físico como medidas clave, responsabilizando principalmente al centro de salud y a los profesionales sanitarios."
   },
   {
     "id": "metodologia-q",
@@ -10071,7 +10110,8 @@
       "metodo_identificado": "Q-methodology con entrevistas complementarias",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente el diseño y análisis de la Q-methodology; las entrevistas se mencionan como complementarias pero no se detalla un análisis cualitativo exhaustivo (p.ej., codificación temática). Los pasos de síntesis se infieren de la estructura del artículo (discusión y conclusión)."
-    }
+    },
+    "patrones_emergentes": "El estudio identificó dos patrones motivacionales en estudiantes chinos de español: un grupo prioriza el inglés por su ideal del yo multilingüe, mientras que el otro se enfoca en el español por obligaciones académicas y laborales (yo de deber). Ambos comparten una preferencia por el español peninsular y dificultades para acceder a recursos culturales hispanos. Los autores interpretan que el dominio del inglés y factores contextuales moldean estas motivaciones, sugiriendo que el yo de deber podría transformarse en ideal con el tiempo."
   },
   {
     "id": "analisis-de-marco",
@@ -10275,7 +10315,8 @@
       "metodo_identificado": "etnografia",
       "confianza": "alta",
       "notas_limitaciones": "El texto no detalla explícitamente pasos de validación por pares ni procesos de verificación con los participantes; los pasos adicionales se infieren de la descripción metodológica general."
-    }
+    },
+    "patrones_emergentes": "Los detectives de homicidios clasifican a las víctimas como 'víctimas verdaderas' (inocentes, vulnerables o respetables) o 'víctimas precipitantes' (involucradas en actividades criminales o de riesgo), y priorizan los casos de las primeras, dedicándoles más esfuerzo y emoción, mientras que los casos de las segundas se relegan o se trabajan con menor urgencia. Los autores interpretan que esta tipificación y priorización se justifica mediante marcos cognitivos (frame analysis) que permiten a los detectives manejar la disonancia emocional y mantener una imagen de imparcialidad, aunque en la práctica el merecimiento percibido de la víctima influye en la investigación."
   },
   {
     "id": "analisis-logico",
@@ -10568,7 +10609,8 @@
       "metodo_identificado": "análisis lógico",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el método de análisis lógico aplicado a dos casos de estudio. Se han extraído los pasos procedimentales explícitos e implícitos. La clasificación en fases se basa en la descripción del proceso. La confianza es alta porque el texto detalla el procedimiento."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica dos sistemas lógicos de pensamiento sobre la enfermedad en personas mayores: 'la enfermedad como destructora' (asociada a negación, rechazo de ayuda y evitación médica) y 'la enfermedad como ocupación' (asociada a lucha activa, búsqueda de información y preservación de la identidad). El autor interpreta que estos patrones derivan de premisas lógicas coherentes y compartidas, y que su análisis formal permite explicar comportamientos y facilitar la comunicación clínica."
   },
   {
     "id": "analisis-narrativo-funcional",
@@ -10837,7 +10879,8 @@
       "metodo_identificado": "análisis narrativo temático y estructural",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe el proceso de análisis de manera iterativa y cíclica, aunque se presenta de forma lineal. Se extrajeron las acciones concretas descritas en la sección de método y análisis de datos."
-    }
+    },
+    "patrones_emergentes": "El estudio identifica cuatro narrativas convergentes en atletas transgénero y de género no conforme: sanciones de género, supervivencia al binarismo, transición y revelación, y afirmación de género. Los autores interpretan que estas historias reproducen narrativas maestras que sostienen el binarismo de género en el deporte, como la devaluación de lo femenino y la negación de identidades trans, aunque también emergen contranarrativas que desafían estas estructuras y posibilitan la inclusión."
   },
   {
     "id": "analisis-pragmatico-cultural",
@@ -11059,7 +11102,8 @@
       "metodo_identificado": "análisis hermenéutico-simbólico de mitos y creencias andinas",
       "confianza": "media",
       "notas_limitaciones": "El texto no describe explícitamente un procedimiento metodológico detallado; se infieren los pasos a partir de la narrativa y las referencias a investigaciones previas. La clasificación en fases es interpretativa."
-    }
+    },
+    "patrones_emergentes": "El pishtaco andino es una figura simbólica que encarna al enemigo externo (blancos, mestizos, foráneos) que mata a los indios para extraerles la grasa, sustancia vital y procreativa, y transferirla al mundo de los dominadores para alimentar sus máquinas y campanas. Esta creencia persiste desde la Conquista hasta hoy, adaptando sus visualizaciones (fraile, hacendado, soldado, médico, minero) a cada nueva amenaza, y se asocia a conflictos reales como la minería contemporánea. Los autores interpretan que el mito del pishtaco es una elaboración simbólica del trauma cultural y la aculturación: convierte el miedo difuso en un enemigo identificable, permitiendo a las comunidades andinas nombrar, visualizar y defenderse de la dominación, a la vez que refuerza su identidad colectiva frente a la amenaza de destrucción física y cultural."
   },
   {
     "id": "tecnica-del-incidente-critico",
@@ -11337,7 +11381,8 @@
       "metodo_identificado": "Estudio cualitativo de incidentes críticos (Critical Incident Technique) con entrevistas semiestructuradas y análisis mediante Framework Analysis",
       "confianza": "alta",
       "notas_limitaciones": "El texto no menciona explícitamente la redacción de memos analíticos ni la construcción de modelos teóricos formales, pero se infieren en la síntesis de resultados y la elaboración del reporte. La fase de interpretación de fuentes se infiere de la lectura y organización de transcripciones, aunque no se detalla explícitamente en el texto."
-    }
+    },
+    "patrones_emergentes": "Los errores de administración intravenosa surgen de fallos activos (deslices, lapsus, equivocaciones y violaciones) asociados a condiciones como alta carga de trabajo, distracciones, problemas en la verificación de dosis, relaciones jerárquicas y falta de apoyo del equipo. Los autores interpretan que estos errores resultan de interacciones complejas entre fallos activos y latentes, y proponen intervenciones multimodales que aborden la verificación de dosis, la carga mental y la organización temporal del trabajo."
   },
   {
     "id": "repertory-grid",
@@ -11558,11 +11603,12 @@
       "metodo_identificado": "repertory grid",
       "confianza": "alta",
       "notas_limitaciones": "El texto describe principalmente el método de repertory grid y su aplicación en un estudio de caso. Se han extraído los pasos procedimentales explícitos y algunos implícitos derivados de la descripción del método. La clasificación en fases se ha realizado según las definiciones proporcionadas."
-    }
+    },
+    "patrones_emergentes": "El estudio muestra que, con mayor conocimiento político específico de la UE, disminuye la legitimidad percibida de todas las instituciones (nacionales y europeas), aunque las instituciones democráticamente legitimadas pierden menos y ganan importancia relativa; además, los criterios de legitimidad se vuelven más democráticos y representativos. La autora interpreta que el conocimiento político fomenta una evaluación más crítica y diferenciada, fortaleciendo los estándares democráticos pero reduciendo la aceptación del sistema político real."
   },
   {
-    "id": "antropologia-comparada",
-    "nombre": "Antropologia comparada",
+    "id": "etnografia-comparada",
+    "nombre": "Etnografia comparada",
     "familia": "Analisis Formal",
     "categoria": "Construccion de modelos basados en tecnicas especificas",
     "subcategoria": "Conceptualizacion",
@@ -11797,7 +11843,8 @@
       "metodo_identificado": "Etnografía comparativa multisitio",
       "confianza": "alta",
       "notas_limitaciones": "El texto no detalla explícitamente el proceso de codificación (abierta, axial, selectiva) ni el uso de software cualitativo; se infiere que el análisis se basó en la inmersión etnográfica y la comparación constante. La fase de síntesis se infiere de la estructura del artículo y la redacción de conclusiones."
-    }
+    },
+    "patrones_emergentes": "El estudio encontró que las iniciativas de trabajo en equipo y mejora continua en cuatro plantas manufactureras tuvieron un éxito limitado, sin trascender la división entre asalariados y obreros. Los autores interpretan que la orientación gerencial centrada en la racionalidad técnica y científica impidió crear un marco normativo compartido, generando contradicciones entre estandarización y participación, y que el control corporativo centralizado reprodujo la jerarquía tradicional."
   },
   {
     "id": "historia-comparada",
@@ -12118,6 +12165,7 @@
       "metodo_identificado": "revision_sistematica_literatura",
       "confianza": "alta",
       "notas_limitaciones": "El documento es un artículo de perspectiva/revisión de literatura, no un estudio empírico con un diseño metodológico explícito. Los pasos extraídos se infieren de la descripción del proceso de revisión y análisis de la literatura. La clasificación en fases es interpretativa y se basa en las definiciones proporcionadas."
-    }
+    },
+    "patrones_emergentes": "El estudio encuentra que la investigación reciente sobre la organización empresarial preindustrial es escasa y mayormente centrada en Europa, especialmente Inglaterra, con pocos estudios comparativos globales. Los autores interpretan que esta limitación impide evaluar teorías institucionales sobre el desarrollo económico y proponen que la heterogeneidad de formas empresariales europeas, junto con evidencia de otras regiones, permite construir una historia empresarial comparativa menos eurocéntrica y más empíricamente fundamentada."
   }
 ]

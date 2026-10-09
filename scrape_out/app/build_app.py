@@ -178,6 +178,7 @@ for m in metodos:
                 "pdf": pdf,
                 "confianza": me["confianza"],
                 "notas": me.get("notas_limitaciones"),
+                "patrones": m.get("patrones_emergentes"),
             },
         }
     )
