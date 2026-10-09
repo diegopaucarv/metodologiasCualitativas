@@ -4,6 +4,7 @@ let ET = [], E = {}, TP, DT, M, J, SD;
 const S = { fam: null, cat: null, sub: null, q: '', search: false, m: null, tf: new Set(), ef: null, pin: null };
 const nz = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const pdfHref = f => location.protocol === 'file:' ? '../data/pdfs/' + f : '/data/pdfs/' + f;
 const root = document.documentElement;
 const dark = () => root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme:dark)').matches;
 const col = a => a[dark() ? 1 : 0];
@@ -114,7 +115,7 @@ function openM(id) {
   const e = m.estudio, au = e.autores.length > 2 ? e.autores[0] + ' et al.' : e.autores.join(', ');
   $('#sheet').innerHTML = `<div class="sh-top"><div>${pills(m.familia, m.categoria, m.subcategoria, false)}<div class="ttl"><div class="th">${pic(m)}</div><h2>${esc(m.nombre)}</h2></div></div><button class="ib" id="x" aria-label="Cerrar"><svg class="i" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>
 <div class="two"><section class="ideal"><h3>Ideal para</h3><p>${esc(m.ideal_para)}</p></section>
-<section class="ideal"><h3>Estudio de referencia</h3><p class="st-t">${esc(e.titulo)}</p><p class="st-a">${esc(au)}${e.anio ? ' · ' + e.anio : ''}${e.tipo ? ' · ' + esc(e.tipo) : ''}<span class="cf ${e.confianza}">confianza ${e.confianza}</span></p>${e.url ? `<a class="lnk" href="${esc(e.url)}" target="_blank" rel="noopener">Abrir estudio ↗</a>` : '<small>Sin enlace disponible</small>'}  ${e.pdf ? `<a class="lnk" href="${esc(e.pdf)}" target="_blank" rel="noopener">Abrir PDF ↗</a>` : ''}<p class="note" title="${esc(e.notas)}">${e.confianza != 'alta' && e.notas ? ' ' + esc(e.notas.slice(0, 160)) + (e.notas.length > 160 ? '…' : '') : ''}</p></section></div>
+<section class="ideal"><h3>Estudio de referencia</h3><p class="st-t">${esc(e.titulo)}</p><p class="st-a">${esc(au)}${e.anio ? ' · ' + e.anio : ''}${e.tipo ? ' · ' + esc(e.tipo) : ''}<span class="cf ${e.confianza}">confianza ${e.confianza}</span></p>${e.url ? `<a class="lnk" href="${esc(e.url)}" target="_blank" rel="noopener">Abrir estudio ↗</a>` : '<small>Sin enlace disponible</small>'}  ${e.pdf ? `<a class="lnk" href="${esc(pdfHref(e.pdf))}" target="_blank" rel="noopener">Abrir PDF ↗</a>` : ''}<p class="note" title="${esc(e.notas)}">${e.confianza != 'alta' && e.notas ? ' ' + esc(e.notas.slice(0, 160)) + (e.notas.length > 160 ? '…' : '') : ''}</p></section></div>
 <section class="fb"><h3>Flujo del método</h3>${legend(m)}<div class="track go" id="fl">${flow(m)}</div>${footer(m)}</section>`;
   $('#ov').classList.add('open'); $('#ov').scrollTop = 0; document.body.style.overflow = 'hidden'; $('#x').focus();
 }

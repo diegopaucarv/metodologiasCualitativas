@@ -156,7 +156,7 @@ for m in metodos:
     if ref.get("file"):
         pf = D / "pdfs" / ref["file"]
         if pf.exists():
-            pdf = "../data/pdfs/" + ref["file"]
+            pdf = ref["file"]
     out.append(
         {
             "id": m["id"],
