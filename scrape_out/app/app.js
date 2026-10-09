@@ -6,7 +6,7 @@ const nz = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLow
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const pdfHref = f => 'data/pdfs/' + f;
 const root = document.documentElement;
-const dark = () => root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme:dark)').matches;
+const dark = () => root.dataset.theme ? root.dataset.theme === 'dark' : false;
 const col = a => a[dark() ? 1 : 0];
 const fc = f => col(J[f].c), cc = (f, c) => col(J[f].cats[c].c);
 const sc = (f, c, s) => { const k = J[f]?.cats[c]; return k ? col(k.subs[s] || k.c) : '#8267e2'; };

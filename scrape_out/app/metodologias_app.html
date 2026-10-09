@@ -35,25 +35,6 @@
                 padding-top: env(safe-area-inset-top, 0px);
                 padding-bottom: env(safe-area-inset-bottom, 0px);
             }
-            @media (prefers-color-scheme: dark) {
-                :root:not([data-theme="light"]) {
-                    --page: linear-gradient(
-                        to bottom right,
-                        #0f0a1a,
-                        #1a0f28,
-                        #150a24
-                    );
-                    --fg: #f2f0fb;
-                    --card: #0a071f;
-                    --pri: #9f87ff;
-                    --mut: #a39cc9;
-                    --bd: #2c2653;
-                    --acc: #2c2653;
-                    --ttl: #c4b5fd;
-                    --hd: #0a071fee;
-                    --sh: #000a;
-                }
-            }
             :root[data-theme="dark"] {
                 --page: linear-gradient(
                     to bottom right,
@@ -845,7 +826,7 @@ const nz = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLow
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const pdfHref = f => 'data/pdfs/' + f;
 const root = document.documentElement;
-const dark = () => root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme:dark)').matches;
+const dark = () => root.dataset.theme ? root.dataset.theme === 'dark' : false;
 const col = a => a[dark() ? 1 : 0];
 const fc = f => col(J[f].c), cc = (f, c) => col(J[f].cats[c].c);
 const sc = (f, c, s) => { const k = J[f]?.cats[c]; return k ? col(k.subs[s] || k.c) : '#8267e2'; };
